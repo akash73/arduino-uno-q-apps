@@ -20,7 +20,7 @@ cd /tmp
 curl -sL "$ZIP_URL" -o app.zip
 
 unzip -q app.zip
-mv -f arduino-uno-q-apps $HOME/ArduinoApps/
+mv -f arduino-uno-q-apps-main $HOME/ArduinoApps/
 rm -f app.zip
 
 echo "Installed $ZIP_NAME  at $HOME/ArduinoApps"
