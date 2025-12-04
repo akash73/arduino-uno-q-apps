@@ -20,7 +20,7 @@ cd /tmp
 curl -sL "$ZIP_URL" -o app.zip
 
 unzip -q app.zip
-rm -rf /home/arduino/ArduinoApps/arduino-uno-q-apps-main
+#rm -rf /home/arduino/ArduinoApps/arduino-uno-q-apps-main
 mv -f arduino-uno-q-apps-main $HOME/ArduinoApps/
 rm -f app.zip
 
