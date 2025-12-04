@@ -1,0 +1,62 @@
+name: modulino-buzz
+services:
+  main:
+    image: public.ecr.aws/arduino/app-bricks/python-apps-base:0.4.5
+    volumes:
+    - type: bind
+      source: /home/arduino/ArduinoApps/modulino-buzz
+      target: /app
+    - type: bind
+      source: /var/run/arduino-router.sock
+      target: /var/run/arduino-router.sock
+    - type: bind
+      source: /dev/v4l
+      target: /dev/v4l
+    - type: bind
+      source: /sys/class/leds/blue:user
+      target: /sys/class/leds/blue:user
+    - type: bind
+      source: /sys/class/leds/green:user
+      target: /sys/class/leds/green:user
+    - type: bind
+      source: /sys/class/leds/red:user
+      target: /sys/class/leds/red:user
+    - type: bind
+      source: /sys/class/leds/blue:bt
+      target: /sys/class/leds/blue:bt
+    - type: bind
+      source: /sys/class/leds/green:wlan
+      target: /sys/class/leds/green:wlan
+    - type: bind
+      source: /sys/class/leds/red:panic
+      target: /sys/class/leds/red:panic
+    devices:
+    - /dev/video0
+    - /dev/video1
+    - /dev/video2
+    - /dev/snd
+    - /dev/dri
+    ports: []
+    user: 1000:1000
+    group_add:
+    - dialout
+    - video
+    - audio
+    - render
+    - gpiod
+    entrypoint: /run.sh
+    extra_hosts:
+    - msgpack-rpc-router:host-gateway
+    labels:
+      cc.arduino.app: "true"
+      cc.arduino.app.main: "true"
+      cc.arduino.app.path: /home/arduino/ArduinoApps/modulino-buzz
+    environment:
+      APP_HOME: /home/arduino/ArduinoApps/modulino-buzz
+      HOST_IP: 10.130.22.184
+      VIDEO_DEVICE: /dev/video1
+    logging:
+      driver: json-file
+      options:
+        max-file: "2"
+        max-size: 5m

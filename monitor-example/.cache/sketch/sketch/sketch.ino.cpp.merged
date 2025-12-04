@@ -1,0 +1,12 @@
+#include <Arduino.h>
+#line 1 "/home/arduino/ArduinoApps/ciao/sketch/sketch.ino"
+#include "Arduino_RouterBridge.h"
+
+void setup() {
+  Monitor.begin();
+}
+
+void loop() {
+  Monitor.println("Hello UNO Q!");
+  delay(1000);
+}

@@ -1,0 +1,7 @@
+name: RPC call buzz
+description: This example showcases object detection within a live feed from a USB camera.
+ports: []
+bricks:
+- arduino:web_ui: {}
+- arduino:video_object_detection: {}
+icon: 📽️

@@ -1,0 +1,548 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Print::println(char const*))
+/home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+                              (main)
+/home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o) (start_static_threads())
+/home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o (pinMode)
+/home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::ZephyrSerial::begin(unsigned long, unsigned short))
+/home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o) (map(long, long, long, long, long))
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .text.analogReference
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_info    0x0000000000000000     0x15b3 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_abbrev  0x0000000000000000      0x31c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_loclists
+                0x0000000000000000       0x23 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x13 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_line    0x0000000000000000      0x3c1 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_str     0x0000000000000000     0x1738 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .debug_frame   0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5writeEPKhj
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKNS_19__FlashStringHelperE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_6StringE
+                0x0000000000000000        0xa /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEc
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_9PrintableE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_6StringE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_9PrintableE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print11printNumberEmh
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEli
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEii
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEii
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEli
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEmi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEhi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEhi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEji
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEji
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEmi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print14printULLNumberEyh
+                0x0000000000000000       0xfc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printExi
+                0x0000000000000000       0x5c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnExi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEyi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEyi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZN7arduino5Print10printFloatEdi.str1.1
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print10printFloatEdi
+                0x0000000000000000      0x1b4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEdi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEdi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZTVN7arduino5PrintE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .entry_point   0x0000000000000000       0xb8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_123find_gpio_port_callbackEPK6device
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_119setInterruptHandlerEhPFvvE
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_118handleGpioCallbackEPK6deviceP13gpio_callbackj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z14tone_expiry_cbP7k_timer
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.digitalRead
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z4tonehjm
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6noToneh
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z15tone_timeout_cbP7k_timer
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.micros   0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.millis   0x0000000000000000       0x18 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogWrite
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z11analogWrite7dacPinsi
+                0x0000000000000000       0x68 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogReference
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogRead
+                0x0000000000000000       0xbc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10randomSeedm
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randomll
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randoml
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.enableInterrupt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.attachInterrupt
+                0x0000000000000000       0xb4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.disableInterrupt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.detachInterrupt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10interruptsv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z12noInterruptsv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21digitalPinToInterrupth
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata.CSWTCH.111
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL15read_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL24_analog_write_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers_timeout
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L19interrupts_disabledE
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L7irq_keyE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L10dac_ch_cfgE
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_adcE
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L16arduino_pwm_pinsE
+                0x0000000000000000        0x9 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_pwmE
+                0x0000000000000000       0x90 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_113port_callbackE
+                0x0000000000000000      0x534 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z11serialEventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z12serial1Eventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino14serialEventRunEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z3maplllll
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordt
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordhh
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_info    0x0000000000000000      0x168 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_abbrev  0x0000000000000000       0xc1 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_loclists
+                0x0000000000000000       0x51 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_rnglists
+                0x0000000000000000       0x1f /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_line    0x0000000000000000      0x1b6 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_str     0x0000000000000000      0x370 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_frame   0x0000000000000000       0x48 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Common.cpp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+LOAD /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+LOAD /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/analogReference.cpp.o
+START GROUP
+LOAD /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+END GROUP
+
+/DISCARD/
+ *(.ARM.attributes)
+ *(.ARM.attributes.*)
+ *(.ARM.exidx)
+ *(.ARM.exidx.*)
+ *(.ARM.extidx)
+ *(.ARM.extidx.*)
+ *(.ARM.extab)
+ *(.ARM.extab.*)
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+ *(.eh_frame)
+ *stdexcept.o()
+ *eh_*.o()
+ *cow-stdexcept.o()
+ *functexcept.o()
+ *cow-string-inst.o()
+
+.text           0x0000000000000000      0x6e4
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.loop     0x0000000000000000       0xa4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000000                loop
+ .text.setup    0x00000000000000a4       0x54 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000a4                setup
+ .text._ZN7arduino5Print5writeEPKc
+                0x00000000000000f8       0x24 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+                0x00000000000000f8                arduino::Print::write(char const*)
+ .text._ZN7arduino5Print7printlnEv
+                0x000000000000011c       0x14 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+                0x000000000000011c                arduino::Print::println()
+ .text._ZN7arduino5Print7printlnEPKNS_19__FlashStringHelperE
+                0x0000000000000130       0x1c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000000130                arduino::Print::println(arduino::__FlashStringHelper const*)
+ .text._ZN7arduino5Print7printlnEPKc
+                0x000000000000014c        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+                0x000000000000014c                arduino::Print::println(char const*)
+ .text.initVariant
+                0x0000000000000154        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000154                initVariant
+ .text._Z10__loopHookv
+                0x0000000000000156        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000156                __loopHook()
+ .text.main     0x0000000000000158       0x2c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000158                main
+ .text._Z20start_static_threadsv
+                0x0000000000000184       0x90 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+                0x0000000000000184                start_static_threads()
+ .text.gpio_pin_set_dt.isra.0
+                0x0000000000000214       0x28 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_configure_dt.isra.0
+                0x000000000000023c       0x2a /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ *fill*         0x0000000000000266        0x2 
+ .text.yield    0x0000000000000268        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000000268                yield
+ .text.pinMode  0x0000000000000270       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000000270                pinMode
+ .text.digitalWrite
+                0x00000000000002ac       0x14 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x00000000000002ac                digitalWrite
+ .text.delay    0x00000000000002c0       0x10 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x00000000000002c0                delay
+ .text.z_impl_uart_irq_tx_enable
+                0x00000000000002d0        0xa /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial5beginEm
+                0x00000000000002da        0xa /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000002da                arduino::ZephyrSerial::begin(unsigned long)
+ .text._ZN7arduino12ZephyrSerial3endEv
+                0x00000000000002e4        0x2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000002e4                arduino::ZephyrSerial::end()
+ .text._ZN7arduino12ZephyrSerial5writeEh
+                0x00000000000002e6       0x18 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000002e6                arduino::ZephyrSerial::write(unsigned char)
+ .text._ZN7arduino12ZephyrSerialcvbEv
+                0x00000000000002fe        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000002fe                arduino::ZephyrSerial::operator bool()
+ *fill*         0x0000000000000302        0x2 
+ .text.k_sem_give
+                0x0000000000000304        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text.k_sem_take.isra.0
+                0x000000000000030c        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial4readEv
+                0x0000000000000314       0x48 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000000314                arduino::ZephyrSerial::read()
+ .text._ZN7arduino12ZephyrSerial4peekEv
+                0x000000000000035c       0x48 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x000000000000035c                arduino::ZephyrSerial::peek()
+ .text._ZN7arduino12ZephyrSerial17availableForWriteEv
+                0x00000000000003a4       0x3c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000003a4                arduino::ZephyrSerial::availableForWrite()
+ .text._ZN7arduino12ZephyrSerial9availableEv
+                0x00000000000003e0       0x34 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000003e0                arduino::ZephyrSerial::available()
+ .text._ZN7arduino12ZephyrSerial5beginEmt
+                0x0000000000000414       0xb8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000000414                arduino::ZephyrSerial::begin(unsigned long, unsigned short)
+ .text._ZN7arduino12ZephyrSerial5flushEv
+                0x00000000000004cc       0x2c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000004cc                arduino::ZephyrSerial::flush()
+ .text._ZN7arduino12ZephyrSerial5writeEPKhj
+                0x00000000000004f8       0x70 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000004f8                arduino::ZephyrSerial::write(unsigned char const*, unsigned int)
+ .text._ZN7arduino12ZephyrSerial10IrqHandlerEv
+                0x0000000000000568       0xec /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000000568                arduino::ZephyrSerial::IrqHandler()
+ .text._ZN7arduino12ZephyrSerial11IrqDispatchEPK6devicePv
+                0x0000000000000654        0xc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000000654                arduino::ZephyrSerial::IrqDispatch(device const*, void*)
+ .text._ZN7arduino12ZephyrSerial18ZephyrSerialBufferILi64EEC2Ev
+                0x0000000000000660       0x28 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000000660                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+                0x0000000000000660                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+ .text._GLOBAL__sub_I__ZN7arduino12ZephyrSerial5beginEmt
+                0x0000000000000688       0x5c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.ctors)
+ *(.dtors)
+ *(.fini)
+                0x00000000000006e4                __static_thread_data_list_start = .
+ *(SORT_BY_NAME(.__static_thread_data.static.*))
+                0x00000000000006e4                __static_thread_data_list_end = .
+
+.rodata         0x00000000000006e4      0x2d8
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.loop.str1.1
+                0x00000000000006e4       0x1d /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN7arduino5Print7printlnEv.str1.1
+                0x0000000000000701        0x3 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata.str1.1
+                0x0000000000000704       0x51 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ *fill*         0x0000000000000755        0x3 
+ .rodata._ZL12arduino_pins
+                0x0000000000000758      0x230 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZTVN7arduino12ZephyrSerialE
+                0x0000000000000988       0x34 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000000988                vtable for arduino::ZephyrSerial
+
+.data           0x00000000000009bc       0x10
+ *(.data .data.*)
+ .data.relay_4  0x00000000000009bc        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009bc                relay_4
+ .data.relay_3  0x00000000000009c0        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009c0                relay_3
+ .data.relay_2  0x00000000000009c4        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009c4                relay_2
+ .data.relay_1  0x00000000000009c8        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009c8                relay_1
+
+.bss            0x00000000000009cc      0x1d8
+ *(.bss .bss.* COMMON)
+ .bss.Serial1   0x00000000000009cc       0xec /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000009cc                Serial1
+ .bss.Serial    0x0000000000000ab8       0xec /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000000ab8                Serial
+ *(.noinit .noinit.*)
+
+.exported_sym   0x0000000000000ba4        0x8
+ *(.exported_sym)
+ .exported_sym  0x0000000000000ba4        0x8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ *(.exported_sym.*)
+
+.init_array     0x0000000000000bac        0x4
+ *(.init_array)
+ .init_array    0x0000000000000bac        0x4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.fini_array
+ *(.fini_array)
+
+.symtab
+ *(.symtab)
+
+.strtab
+ *(.strtab)
+
+.shstrtab
+ *(.shstrtab)
+
+.rel
+ *(.rel .rel.*)
+
+.got
+ *(.got .got.* .got.plt .got.plt*)
+OUTPUT(/home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch.ino_debug.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x10b72
+ .debug_info    0x0000000000000000     0x1a67 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_info    0x0000000000001a67     0x2d13 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_info    0x000000000000477a     0x1e2b /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_info    0x00000000000065a5     0x2000 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_info    0x00000000000085a5     0x4c54 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_info    0x000000000000d1f9     0x3979 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_abbrev   0x0000000000000000     0x27ab
+ .debug_abbrev  0x0000000000000000      0x414 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_abbrev  0x0000000000000414      0x594 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_abbrev  0x00000000000009a8      0x538 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_abbrev  0x0000000000000ee0      0x545 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_abbrev  0x0000000000001425      0xa59 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_abbrev  0x0000000000001e7e      0x92d /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_loclists
+                0x0000000000000000     0x2ac3
+ .debug_loclists
+                0x0000000000000000       0x1a /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_loclists
+                0x000000000000001a     0x12da /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_loclists
+                0x00000000000012f4       0x72 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_loclists
+                0x0000000000001366       0xf4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_loclists
+                0x000000000000145a      0xedd /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_loclists
+                0x0000000000002337      0x78c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_aranges  0x0000000000000000      0x398
+ .debug_aranges
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_aranges
+                0x0000000000000028      0x128 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_aranges
+                0x0000000000000150       0x38 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_aranges
+                0x0000000000000188       0x20 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_aranges
+                0x00000000000001a8      0x130 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_aranges
+                0x00000000000002d8       0xc0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_rnglists
+                0x0000000000000000      0x6ef
+ .debug_rnglists
+                0x0000000000000000       0x26 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_rnglists
+                0x0000000000000026      0x1c1 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_rnglists
+                0x00000000000001e7       0x33 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_rnglists
+                0x000000000000021a       0x47 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_rnglists
+                0x0000000000000261      0x2cc /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_rnglists
+                0x000000000000052d      0x1c2 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_line     0x0000000000000000     0x4a46
+ .debug_line    0x0000000000000000      0x574 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_line    0x0000000000000574      0xc5a /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_line    0x00000000000011ce      0x83b /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_line    0x0000000000001a09      0x906 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_line    0x000000000000230f     0x17b8 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_line    0x0000000000003ac7      0xf7f /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_str      0x0000000000000000     0xc9da
+ .debug_str     0x0000000000000000     0x1cca /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_str     0x0000000000001cca     0x16d0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_str     0x000000000000339a     0x1fdf /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_str     0x0000000000005379     0x1c23 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_str     0x0000000000006f9c     0x2fa4 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_str     0x0000000000009f40     0x2a9a /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_frame    0x0000000000000000      0xa8c
+ .debug_frame   0x0000000000000000       0x60 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_frame   0x0000000000000060      0x3d0 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_frame   0x0000000000000430       0x68 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_frame   0x0000000000000498       0x48 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_frame   0x00000000000004e0      0x39c /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_frame   0x000000000000087c      0x210 /home/arduino/ArduinoApps/4-relay-shield/.cache/sketch/core/core.a(zephyrSerial.cpp.o)

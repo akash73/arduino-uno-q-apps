@@ -1,0 +1,208 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+                              (main)
+/home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+                              /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o) (start_static_threads())
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .text.analogReference
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_info    0x0000000000000000     0x15b3 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_abbrev  0x0000000000000000      0x31c /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_loclists
+                0x0000000000000000       0x23 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x13 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_line    0x0000000000000000      0x3c1 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_str     0x0000000000000000     0x1738 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .debug_frame   0x0000000000000000       0x20 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .entry_point   0x0000000000000000       0xb8 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+LOAD /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+LOAD /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/analogReference.cpp.o
+START GROUP
+LOAD /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+END GROUP
+
+/DISCARD/
+ *(.ARM.attributes)
+ *(.ARM.attributes.*)
+ *(.ARM.exidx)
+ *(.ARM.exidx.*)
+ *(.ARM.extidx)
+ *(.ARM.extidx.*)
+ *(.ARM.extab)
+ *(.ARM.extab.*)
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+ *(.eh_frame)
+ *stdexcept.o()
+ *eh_*.o()
+ *cow-stdexcept.o()
+ *functexcept.o()
+ *cow-string-inst.o()
+
+.text           0x0000000000000000       0xa0
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text.setup    0x0000000000000000        0x2 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000000                setup
+ .text.loop     0x0000000000000002        0x2 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000002                loop
+ .text.initVariant
+                0x0000000000000004        0x2 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000004                initVariant
+ .text._Z10__loopHookv
+                0x0000000000000006        0x2 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000006                __loopHook()
+ .text.main     0x0000000000000008       0x2c /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000008                main
+ .text._Z20start_static_threadsv
+                0x0000000000000034       0x6c /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+                0x0000000000000034                start_static_threads()
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.ctors)
+ *(.dtors)
+ *(.fini)
+
+.static_thread_data_area
+                0x00000000000000a0        0x0
+                0x00000000000000a0                __static_thread_data_list_start = .
+ *(.static_thread_data_area SORT_BY_NAME(.__static_thread_data.*))
+                0x00000000000000a0                __static_thread_data_list_end = .
+
+.rodata         0x00000000000000a0       0x51
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata.str1.1
+                0x00000000000000a0       0x51 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+
+.data
+ *(.data .data.*)
+
+.bss
+ *(.bss .bss.* COMMON)
+ *(.noinit .noinit.*)
+
+.exported_sym   0x00000000000000f4        0x8
+ *(.exported_sym)
+ .exported_sym  0x00000000000000f4        0x8 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ *(.exported_sym.*)
+
+.init_array
+ *(.init_array)
+
+.fini_array
+ *(.fini_array)
+
+.symtab
+ *(.symtab)
+
+.strtab
+ *(.strtab)
+
+.shstrtab
+ *(.shstrtab)
+
+.rel
+ *(.rel .rel.*)
+
+.got
+ *(.got .got.* .got.plt .got.plt*)
+OUTPUT(/home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch.ino_debug.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0x52e0
+ .debug_info    0x0000000000000000     0x158d /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_info    0x000000000000158d     0x1e2b /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_info    0x00000000000033b8     0x1f28 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+.debug_abbrev   0x0000000000000000      0xcfb
+ .debug_abbrev  0x0000000000000000      0x2ff /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_abbrev  0x00000000000002ff      0x538 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_abbrev  0x0000000000000837      0x4c4 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+.debug_aranges  0x0000000000000000       0x80
+ .debug_aranges
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_aranges
+                0x0000000000000028       0x38 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_aranges
+                0x0000000000000060       0x20 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+.debug_rnglists
+                0x0000000000000000       0x86
+ .debug_rnglists
+                0x0000000000000000       0x19 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_rnglists
+                0x0000000000000019       0x33 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_rnglists
+                0x000000000000004c       0x3a /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+.debug_line     0x0000000000000000     0x147c
+ .debug_line    0x0000000000000000      0x3e1 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_line    0x00000000000003e1      0x83b /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_line    0x0000000000000c1c      0x860 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+.debug_str      0x0000000000000000     0x52af
+ .debug_str     0x0000000000000000     0x16f1 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_str     0x00000000000016f1     0x1fdf /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_str     0x00000000000036d0     0x1bdf /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+.debug_frame    0x0000000000000000       0xd8
+ .debug_frame   0x0000000000000000       0x30 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_frame   0x0000000000000030       0x68 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_frame   0x0000000000000098       0x40 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)
+
+.debug_loclists
+                0x0000000000000000      0x125
+ .debug_loclists
+                0x0000000000000000       0x72 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_loclists
+                0x0000000000000072       0xb3 /home/arduino/ArduinoApps/mood-detector/.cache/sketch/core/core.a(threads.cpp.o)

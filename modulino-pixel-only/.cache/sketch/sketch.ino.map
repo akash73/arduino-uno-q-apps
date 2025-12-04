@@ -1,0 +1,1136 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o (map(long, long, long, long, long))
+/home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Print::print(char const*))
+/home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+                              (main)
+/home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o (operator delete(void*, unsigned int))
+/home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o) (start_static_threads())
+/home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o (yield)
+
+Discarded input sections
+
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass11_readSensorEv
+                0x0000000000000000       0xc4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass15_measurementReqEv
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClassC2ERN7arduino9ZephyrI2CE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass5beginEv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass3endEv
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass15readTemperatureEi
+                0x0000000000000000       0x64 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass12readHumidityEv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClassC2ERN7arduino9ZephyrI2CE
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass3endEv
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass7i2cReadEh
+                0x0000000000000000       0x48 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass5beginEv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass15readTemperatureEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass8i2cWriteEhh
+                0x0000000000000000       0x36 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass12readPressureEi
+                0x0000000000000000       0xc0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClassC2ERN7arduino9ZephyrI2CEh
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClassC2ERN7arduino11HardwareSPIEii
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClassD2Ev
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass22accelerationSampleRateEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass19gyroscopeSampleRateEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass13readRegistersEhPhj
+                0x0000000000000000       0xa4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass16readAccelerationERfS0_S0_
+                0x0000000000000000       0x94 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass13readGyroscopeERfS0_S0_
+                0x0000000000000000       0x94 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass20readTemperatureFloatERf
+                0x0000000000000000       0x48 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass15readTemperatureERi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass12readRegisterEh
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass21accelerationAvailableEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass18gyroscopeAvailableEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass20temperatureAvailableEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass13writeRegisterEhh
+                0x0000000000000000       0x78 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass3endEv
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass5beginEv
+                0x0000000000000000       0x84 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD6WaitMsEj
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD16VL53L4CD_I2CReadEhtPhj
+                0x0000000000000000       0xa2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD16VL53L4CD_RdDWordEttPj
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_RdWordEttPt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_RdByteEttPh
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD17VL53L4CD_I2CWriteEhtPhj
+                0x0000000000000000       0x74 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_WrByteEtth
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_WrWordEttt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD16VL53L4CD_WrDWordEttj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_info    0x0000000000000000     0x242c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_abbrev  0x0000000000000000      0x4da /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x452 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x62 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_line    0x0000000000000000      0x73a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_str     0x0000000000000000     0x225b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_frame   0x0000000000000000      0x124 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD21VL53L4CD_GetSWVersionEP18VL53L4CD_Version_t
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD22VL53L4CD_SetI2CAddressEh
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD20VL53L4CD_GetSensorIdEPt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_ClearInterruptEv
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD20VL53L4CD_StopRangingEv
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD26VL53L4CD_CheckForDataReadyEPh
+                0x0000000000000000       0x54 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD21VL53L4CD_StartRangingEv
+                0x0000000000000000       0x84 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_SetRangeTimingEjj
+                0x0000000000000000      0x14c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD19VL53L4CD_SensorInitEv
+                0x0000000000000000      0x134 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_GetRangeTimingEPjS0_
+                0x0000000000000000       0xe8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD18VL53L4CD_GetResultEP17VL53L4CD_Result_t
+                0x0000000000000000      0x108 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD18VL53L4CD_SetOffsetEs
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD18VL53L4CD_GetOffsetEPs
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD17VL53L4CD_SetXtalkEt
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD17VL53L4CD_GetXtalkEPt
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD31VL53L4CD_SetDetectionThresholdsEtth
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD31VL53L4CD_GetDetectionThresholdsEPtS0_Ph
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD27VL53L4CD_SetSignalThresholdEt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD27VL53L4CD_GetSignalThresholdEPt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD26VL53L4CD_SetSigmaThresholdEt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD26VL53L4CD_GetSigmaThresholdEPt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD31VL53L4CD_StartTemperatureUpdateEv
+                0x0000000000000000       0xb0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .rodata._ZL30VL53L4CD_DEFAULT_CONFIGURATION
+                0x0000000000000000       0x5b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .rodata        0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_info    0x0000000000000000     0x309a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_abbrev  0x0000000000000000      0x595 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_loclists
+                0x0000000000000000      0xd06 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_aranges
+                0x0000000000000000       0xc8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x97 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_line    0x0000000000000000      0xf8d /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_str     0x0000000000000000     0x2890 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_frame   0x0000000000000000      0x2cc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .text._ZN8VL53L4CD24VL53L4CD_CalibrateOffsetEsPss
+                0x0000000000000000      0x19c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_CalibrateXtalkEsPts
+                0x0000000000000000      0x1ec /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_info    0x0000000000000000     0x233c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_abbrev  0x0000000000000000      0x4be /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x6aa /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x1b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_line    0x0000000000000000      0x9a0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_str     0x0000000000000000     0x2294 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_frame   0x0000000000000000       0x8c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED8_I2CReadEtPhj
+                0x0000000000000000       0xa2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED9_I2CWriteEtPhj
+                0x0000000000000000       0x72 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_WrByteEth
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_WrWordEtt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED16VL53L4ED_WrDWordEtj
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_RdByteEtPh
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_RdWordEtPt
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED16VL53L4ED_RdDWordEtPj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED6WaitMsEj
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_info    0x0000000000000000     0x23b4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_abbrev  0x0000000000000000      0x596 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x3ae /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x5f /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_line    0x0000000000000000      0x74b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_str     0x0000000000000000     0x222d /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_frame   0x0000000000000000      0x11c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED21VL53L4ED_GetSWVersionEP18VL53L4ED_Version_t
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED22VL53L4ED_SetI2CAddressEh
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED20VL53L4ED_GetSensorIdEPt
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_ClearInterruptEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED21VL53L4ED_StartRangingEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED20VL53L4ED_StopRangingEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED26VL53L4ED_CheckForDataReadyEPh
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_SetRangeTimingEjj
+                0x0000000000000000      0x13c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED19VL53L4ED_SensorInitEv
+                0x0000000000000000      0x128 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_GetRangeTimingEPjS0_
+                0x0000000000000000       0xe0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED18VL53L4ED_GetResultEP22VL53L4ED_ResultsData_t
+                0x0000000000000000       0xec /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED18VL53L4ED_SetOffsetEs
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED18VL53L4ED_GetOffsetEPs
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED17VL53L4ED_SetXtalkEt
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED17VL53L4ED_GetXtalkEPt
+                0x0000000000000000       0x48 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED31VL53L4ED_SetDetectionThresholdsEtth
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED31VL53L4ED_GetDetectionThresholdsEPtS0_Ph
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED27VL53L4ED_SetSignalThresholdEt
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED27VL53L4ED_GetSignalThresholdEPt
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED26VL53L4ED_SetSigmaThresholdEt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED26VL53L4ED_GetSigmaThresholdEPt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED31VL53L4ED_StartTemperatureUpdateEv
+                0x0000000000000000       0xa8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .rodata._ZL30VL53L4ED_DEFAULT_CONFIGURATION
+                0x0000000000000000       0x5b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .rodata        0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_info    0x0000000000000000     0x3022 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_abbrev  0x0000000000000000      0x593 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_loclists
+                0x0000000000000000      0xcac /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_aranges
+                0x0000000000000000       0xc8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x96 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_line    0x0000000000000000      0xf35 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_str     0x0000000000000000     0x289a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_frame   0x0000000000000000      0x280 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .text._ZN8VL53L4ED24VL53L4ED_CalibrateOffsetEsPss
+                0x0000000000000000      0x194 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_CalibrateXtalkEsPts
+                0x0000000000000000      0x240 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_info    0x0000000000000000     0x236e /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_abbrev  0x0000000000000000      0x4c1 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x74b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x1b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_line    0x0000000000000000      0x9e6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_str     0x0000000000000000     0x22bf /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_frame   0x0000000000000000       0x94 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C22writeRequestedCallbackEP17i2c_target_config
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C21readProcessedCallbackEP17i2c_target_configPh
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text._ZN7arduino9ZephyrSPIC2EPK6device
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .text.analogReference
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_info    0x0000000000000000     0x15b3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_abbrev  0x0000000000000000      0x31c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_loclists
+                0x0000000000000000       0x23 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x13 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_line    0x0000000000000000      0x3c1 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_str     0x0000000000000000     0x1738 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .debug_frame   0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordt
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordhh
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5writeEPKhj
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKNS_19__FlashStringHelperE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_6StringE
+                0x0000000000000000        0xa /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEc
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_9PrintableE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZN7arduino5Print7printlnEv.str1.1
+                0x0000000000000000        0x3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_6StringE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEPKc
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_9PrintableE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print11printNumberEmh
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEli
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEii
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEii
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEli
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEmi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEhi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEhi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEji
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEji
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEmi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print14printULLNumberEyh
+                0x0000000000000000       0xfc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printExi
+                0x0000000000000000       0x5c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnExi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEyi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEyi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZN7arduino5Print10printFloatEdi.str1.1
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print10printFloatEdi
+                0x0000000000000000      0x1b4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEdi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEdi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZTVN7arduino5PrintE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .entry_point   0x0000000000000000       0xb8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZL10new_helperj
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znwj    0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znaj    0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_tSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_tRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjPv  0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajPv  0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvj  0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .rodata._ZSt7nothrow
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_123find_gpio_port_callbackEPK6device
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_119setInterruptHandlerEhPFvvE
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_118handleGpioCallbackEPK6deviceP13gpio_callbackj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z14tone_expiry_cbP7k_timer
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_set_dt.isra.0
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_configure_dt.isra.0
+                0x0000000000000000       0x2a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.yield    0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.pinMode  0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.digitalWrite
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.digitalRead
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z4tonehjm
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6noToneh
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z15tone_timeout_cbP7k_timer
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.micros   0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.millis   0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogWrite
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z11analogWrite7dacPinsi
+                0x0000000000000000       0x68 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogReference
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogRead
+                0x0000000000000000       0xbc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10randomSeedm
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randomll
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randoml
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.enableInterrupt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.attachInterrupt
+                0x0000000000000000       0xb4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.disableInterrupt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.detachInterrupt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10interruptsv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z12noInterruptsv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21digitalPinToInterrupth
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata.CSWTCH.111
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL15read_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL24_analog_write_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers_timeout
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L19interrupts_disabledE
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L7irq_keyE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L10dac_ch_cfgE
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_adcE
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L16arduino_pwm_pinsE
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_pwmE
+                0x0000000000000000       0x80 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_113port_callbackE
+                0x0000000000000000      0x534 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZL12arduino_pins
+                0x0000000000000000      0x230 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/analogReference.cpp.o
+START GROUP
+LOAD /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+END GROUP
+
+/DISCARD/
+ *(.ARM.attributes)
+ *(.ARM.attributes.*)
+ *(.ARM.exidx)
+ *(.ARM.exidx.*)
+ *(.ARM.extidx)
+ *(.ARM.extidx.*)
+ *(.ARM.extab)
+ *(.ARM.extab.*)
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+ *(.eh_frame)
+ *stdexcept.o()
+ *eh_*.o()
+ *cow-stdexcept.o()
+ *functexcept.o()
+ *cow-string-inst.o()
+
+.text           0x0000000000000000      0x8c8
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text._ZN14ModulinoPixelsD2Ev
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000000                ModulinoPixels::~ModulinoPixels()
+                0x0000000000000000                ModulinoPixels::~ModulinoPixels()
+ *fill*         0x0000000000000002        0x2 
+ .text._ZN14ModulinoPixelsD0Ev
+                0x0000000000000004       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000004                ModulinoPixels::~ModulinoPixels()
+ .text._ZNK6Module7printToERN7arduino5PrintE
+                0x0000000000000018       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000018                Module::printTo(arduino::Print&) const
+ .text._ZN14ModulinoPixels8discoverEv
+                0x0000000000000028       0x2c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000028                ModulinoPixels::discover()
+ .text._Z8setPixeli13ModulinoColor
+                0x0000000000000054       0x98 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000054                setPixel(int, ModulinoColor)
+ .text.loop     0x00000000000000ec       0xa4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000ec                loop
+ .text._GLOBAL__sub_I_leds
+                0x0000000000000190       0x44 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.setup    0x00000000000001d4       0x4c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001d4                setup
+ .text._GLOBAL__sub_I__ZN11HS300xClass15_measurementReqEv
+                0x0000000000000220       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._GLOBAL__sub_I__ZN12LPS22HBClassC2ERN7arduino9ZephyrI2CE
+                0x0000000000000230       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._GLOBAL__sub_I__ZN13LSM6DSOXClassC2ERN7arduino9ZephyrI2CEh
+                0x0000000000000244       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._Z21__increaseI2CPriorityv
+                0x000000000000026c        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x000000000000026c                __increaseI2CPriority()
+ *fill*         0x000000000000026e        0x2 
+ .text._GLOBAL__sub_I_Modulino
+                0x0000000000000270       0x44 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x00000000000002b4        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002b4                arduino::Print::availableForWrite()
+ .text._ZN7arduino9ZephyrI2C5writeEi
+                0x00000000000002b8        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002b8                arduino::ZephyrI2C::write(int)
+ .text._ZN7arduino9ZephyrI2C5beginEv
+                0x00000000000002c0        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002c0                arduino::ZephyrI2C::flush()
+                0x00000000000002c0                arduino::ZephyrI2C::begin()
+ .text._ZN7arduino9ZephyrI2C15endTransmissionEv
+                0x00000000000002c2        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002c2                arduino::ZephyrI2C::endTransmission()
+ .text._ZN7arduino9ZephyrI2C11requestFromEhj
+                0x00000000000002ca       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002ca                arduino::ZephyrI2C::requestFrom(unsigned char, unsigned int)
+ .text._ZN7arduino9ZephyrI2C9availableEv
+                0x00000000000002da        0xe /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002da                arduino::ZephyrI2C::available()
+ .text._ZN7arduino9ZephyrI2C9onReceiveEPFviE
+                0x00000000000002e8        0x6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002e8                arduino::ZephyrI2C::onReceive(void (*)(int))
+ .text._ZN7arduino9ZephyrI2C9onRequestEPFvvE
+                0x00000000000002ee        0x6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002ee                arduino::ZephyrI2C::onRequest(void (*)())
+ .text._ZN7arduino9ZephyrI2C5writeEh
+                0x00000000000002f4       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002f4                arduino::ZephyrI2C::write(unsigned char)
+ .text._ZN7arduino9ZephyrI2C5writeEPKhj
+                0x0000000000000310        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000310                arduino::ZephyrI2C::write(unsigned char const*, unsigned int)
+ .text._ZN7arduino9ZephyrI2C4readEv
+                0x000000000000031c       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x000000000000031c                arduino::ZephyrI2C::read()
+ .text._ZL28i2c_target_read_processed_cbP17i2c_target_configPh
+                0x0000000000000344       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C4peekEv
+                0x000000000000035c       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x000000000000035c                arduino::ZephyrI2C::peek()
+ .text._ZN7arduino9ZephyrI2C3endEv
+                0x0000000000000384       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000384                arduino::ZephyrI2C::end()
+ .text._ZN7arduino9ZephyrI2C5beginEh
+                0x00000000000003a8       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000003a8                arduino::ZephyrI2C::begin(unsigned char)
+ .text._ZN7arduino9ZephyrI2C8setClockEj
+                0x00000000000003c8       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000003c8                arduino::ZephyrI2C::setClock(unsigned int)
+ .text._ZN7arduino9ZephyrI2C15endTransmissionEb
+                0x0000000000000404       0x74 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000404                arduino::ZephyrI2C::endTransmission(bool)
+ .text._ZN7arduino9ZephyrI2C11requestFromEhjb
+                0x0000000000000478       0x98 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000478                arduino::ZephyrI2C::requestFrom(unsigned char, unsigned int, bool)
+ .text._ZL29i2c_target_write_requested_cbP17i2c_target_config
+                0x0000000000000510        0xe /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C17beginTransmissionEh
+                0x000000000000051e       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x000000000000051e                arduino::ZephyrI2C::beginTransmission(unsigned char)
+ *fill*         0x0000000000000532        0x2 
+ .text._ZN7arduino9ZephyrI2CC2EPK6device
+                0x0000000000000534       0x4c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000534                arduino::ZephyrI2C::ZephyrI2C(device const*)
+                0x0000000000000534                arduino::ZephyrI2C::ZephyrI2C(device const*)
+ .text._ZN7arduino9ZephyrI2C21writeReceivedCallbackEP17i2c_target_configh
+                0x0000000000000580       0x44 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000580                arduino::ZephyrI2C::writeReceivedCallback(i2c_target_config*, unsigned char)
+ .text._ZL28i2c_target_write_received_cbP17i2c_target_configh
+                0x00000000000005c4       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C21readRequestedCallbackEP17i2c_target_configPh
+                0x00000000000005d4       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000005d4                arduino::ZephyrI2C::readRequestedCallback(i2c_target_config*, unsigned char*)
+ .text._ZL28i2c_target_read_requested_cbP17i2c_target_configPh
+                0x0000000000000604       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C12stopCallbackEP17i2c_target_config
+                0x0000000000000614       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000614                arduino::ZephyrI2C::stopCallback(i2c_target_config*)
+ .text._ZL18i2c_target_stop_cbP17i2c_target_config
+                0x0000000000000630        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._GLOBAL__sub_I__ZN7arduino9ZephyrI2CC2EPK6device
+                0x000000000000063c       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrSPI14usingInterruptEi
+                0x0000000000000664        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000664                arduino::ZephyrSPI::notUsingInterrupt(int)
+                0x0000000000000664                arduino::ZephyrSPI::usingInterrupt(int)
+ .text._ZN7arduino9ZephyrSPI15attachInterruptEv
+                0x0000000000000666        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000666                arduino::ZephyrSPI::begin()
+                0x0000000000000666                arduino::ZephyrSPI::attachInterrupt()
+                0x0000000000000666                arduino::ZephyrSPI::end()
+                0x0000000000000666                arduino::ZephyrSPI::detachInterrupt()
+ .text._ZN7arduino9ZephyrSPID2Ev
+                0x0000000000000668        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000668                arduino::ZephyrSPI::~ZephyrSPI()
+                0x0000000000000668                arduino::ZephyrSPI::~ZephyrSPI()
+ *fill*         0x000000000000066a        0x2 
+ .text._ZN7arduino9ZephyrSPI16beginTransactionENS_11SPISettingsE
+                0x000000000000066c       0x7c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x000000000000066c                arduino::ZephyrSPI::beginTransaction(arduino::SPISettings)
+ .text._ZN7arduino9ZephyrSPID0Ev
+                0x00000000000006e8       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x00000000000006e8                arduino::ZephyrSPI::~ZephyrSPI()
+ .text._ZN7arduino9ZephyrSPI14endTransactionEv
+                0x00000000000006fc        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x00000000000006fc                arduino::ZephyrSPI::endTransaction()
+ .text._ZN7arduino9ZephyrSPI8transferEPvjPK10spi_config
+                0x0000000000000708       0x2e /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000708                arduino::ZephyrSPI::transfer(void*, unsigned int, spi_config const*)
+ *fill*         0x0000000000000736        0x2 
+ .text._ZN7arduino9ZephyrSPI8transferEh
+                0x0000000000000738       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000738                arduino::ZephyrSPI::transfer(unsigned char)
+ .text._ZN7arduino9ZephyrSPI10transfer16Et
+                0x0000000000000760       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000760                arduino::ZephyrSPI::transfer16(unsigned short)
+ .text._ZN7arduino9ZephyrSPI8transferEPvj
+                0x0000000000000788       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000788                arduino::ZephyrSPI::transfer(void*, unsigned int)
+ .text._GLOBAL__sub_I__ZN7arduino9ZephyrSPIC2EPK6device
+                0x000000000000079c       0x34 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text._Z3maplllll
+                0x00000000000007d0       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+                0x00000000000007d0                map(long, long, long, long, long)
+ .text._ZN7arduino5Print5writeEPKc
+                0x00000000000007e4       0x24 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+                0x00000000000007e4                arduino::Print::write(char const*)
+ .text._ZN7arduino5Print5printEPKc
+                0x0000000000000808        0xc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000000808                arduino::Print::print(char const*)
+ .text.initVariant
+                0x0000000000000814        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000814                initVariant
+ .text._Z10__loopHookv
+                0x0000000000000816        0x2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000816                __loopHook()
+ .text.main     0x0000000000000818       0x2c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000818                main
+ .text._ZdlPvj  0x0000000000000844        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000000844                operator delete(void*, unsigned int)
+ .text._Z20start_static_threadsv
+                0x000000000000084c       0x6c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+                0x000000000000084c                start_static_threads()
+ .text.delay    0x00000000000008b8       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x00000000000008b8                delay
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.ctors)
+ *(.dtors)
+ *(.fini)
+
+.static_thread_data_area
+                0x00000000000008c8        0x0
+                0x00000000000008c8                __static_thread_data_list_start = .
+ *(.static_thread_data_area SORT_BY_NAME(.__static_thread_data.*))
+                0x00000000000008c8                __static_thread_data_list_end = .
+
+.rodata         0x00000000000008c8      0x101
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata._GLOBAL__sub_I_leds.str1.1
+                0x00000000000008c8        0x5 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ *fill*         0x00000000000008cd        0x3 
+ .rodata._ZTV14ModulinoPixels
+                0x00000000000008d0       0x18 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000008d0                vtable for ModulinoPixels
+ .rodata._ZTVN7arduino9ZephyrI2CE
+                0x00000000000008e8       0x54 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000008e8                vtable for arduino::ZephyrI2C
+ .rodata._ZTVN7arduino9ZephyrSPIE
+                0x000000000000093c       0x3c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x000000000000093c                vtable for arduino::ZephyrSPI
+ .rodata.str1.1
+                0x0000000000000978       0x51 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+
+.data           0x00000000000009cc       0x18
+ *(.data .data.*)
+ .data.brightness
+                0x00000000000009cc        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009cc                brightness
+ .data._ZL16target_callbacks
+                0x00000000000009d0       0x14 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+
+.bss            0x00000000000009e4      0x7bc
+ *(.bss .bss.* COMMON)
+ .bss.OFF       0x00000000000009e4        0x3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009e4                OFF
+ *fill*         0x00000000000009e7        0x1 
+ .bss.leds      0x00000000000009e8       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009e8                leds
+ .bss.HS300x    0x0000000000000a18       0x10 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+                0x0000000000000a18                HS300x
+ .bss.BARO      0x0000000000000a28        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+                0x0000000000000a28                BARO
+ .bss.IMU_LSM6DSOX
+                0x0000000000000a30       0x1c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+                0x0000000000000a30                IMU_LSM6DSOX
+ .bss.WHITE     0x0000000000000a4c        0x3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000a4c                WHITE
+ .bss.VIOLET    0x0000000000000a4f        0x3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000a4f                VIOLET
+ .bss.GREEN     0x0000000000000a52        0x3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000a52                GREEN
+ .bss.BLUE      0x0000000000000a55        0x3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000a55                BLUE
+ .bss.RED       0x0000000000000a58        0x3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000a58                RED
+ *fill*         0x0000000000000a5b        0x1 
+ .bss.Modulino  0x0000000000000a5c        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000a5c                Modulino
+ .bss.Wire1     0x0000000000000a60      0x254 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000a60                Wire1
+ .bss.Wire      0x0000000000000cb4      0x254 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000cb4                Wire
+ .bss.SPI1      0x0000000000000f08      0x14c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000f08                SPI1
+ .bss.SPI       0x0000000000001054      0x14c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000001054                SPI
+ *(.noinit .noinit.*)
+
+.exported_sym   0x00000000000011a0        0x8
+ *(.exported_sym)
+ .exported_sym  0x00000000000011a0        0x8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ *(.exported_sym.*)
+
+.init_array     0x00000000000011a8       0x1c
+ *(.init_array)
+ .init_array    0x00000000000011a8        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .init_array    0x00000000000011ac        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .init_array    0x00000000000011b0        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .init_array    0x00000000000011b4        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .init_array    0x00000000000011b8        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .init_array    0x00000000000011bc        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .init_array    0x00000000000011c0        0x4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+
+.fini_array
+ *(.fini_array)
+
+.symtab
+ *(.symtab)
+
+.strtab
+ *(.strtab)
+
+.shstrtab
+ *(.shstrtab)
+
+.rel
+ *(.rel .rel.*)
+
+.got
+ *(.got .got.* .got.plt .got.plt*)
+OUTPUT(/home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch.ino_debug.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x1e0ab
+ .debug_info    0x0000000000000000     0x30b0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_info    0x00000000000030b0     0x1c6d /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_info    0x0000000000004d1d     0x1c90 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_info    0x00000000000069ad     0x2cc3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_info    0x0000000000009670     0x1eb8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_info    0x000000000000b528     0x3dde /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_info    0x000000000000f306     0x2dd5 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_info    0x00000000000120db      0x168 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_info    0x0000000000012243     0x2d13 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_info    0x0000000000014f56     0x1e2b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_info    0x0000000000016d81      0x7af /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_info    0x0000000000017530     0x1f28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_info    0x0000000000019458     0x4c53 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_abbrev   0x0000000000000000     0x4ae3
+ .debug_abbrev  0x0000000000000000      0x84f /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_abbrev  0x000000000000084f      0x522 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_abbrev  0x0000000000000d71      0x54c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_abbrev  0x00000000000012bd      0x6f8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_abbrev  0x00000000000019b5      0x484 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_abbrev  0x0000000000001e39      0x829 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_abbrev  0x0000000000002662      0x7a3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_abbrev  0x0000000000002e05       0xc1 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_abbrev  0x0000000000002ec6      0x594 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_abbrev  0x000000000000345a      0x538 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_abbrev  0x0000000000003992      0x234 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_abbrev  0x0000000000003bc6      0x4c4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_abbrev  0x000000000000408a      0xa59 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_loclists
+                0x0000000000000000     0x4330
+ .debug_loclists
+                0x0000000000000000      0x2f2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_loclists
+                0x00000000000002f2      0x1ac /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_loclists
+                0x000000000000049e      0x1a8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_loclists
+                0x0000000000000646      0x4b6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_loclists
+                0x0000000000000afc      0x10f /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_loclists
+                0x0000000000000c0b      0xd42 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_loclists
+                0x000000000000194d      0x3fa /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_loclists
+                0x0000000000001d47       0x51 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_loclists
+                0x0000000000001d98     0x12da /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_loclists
+                0x0000000000003072       0x72 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_loclists
+                0x00000000000030e4      0x2bc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_loclists
+                0x00000000000033a0       0xb3 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_loclists
+                0x0000000000003453      0xedd /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_aranges  0x0000000000000000      0x6e8
+ .debug_aranges
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_aranges
+                0x0000000000000058       0x58 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_aranges
+                0x00000000000000b0       0x58 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_aranges
+                0x0000000000000108       0xa8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_aranges
+                0x00000000000001b0       0x28 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_aranges
+                0x00000000000001d8      0x108 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_aranges
+                0x00000000000002e0       0x78 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_aranges
+                0x0000000000000358       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_aranges
+                0x0000000000000388      0x128 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_aranges
+                0x00000000000004b0       0x38 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_aranges
+                0x00000000000004e8       0xb0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_aranges
+                0x0000000000000598       0x20 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_aranges
+                0x00000000000005b8      0x130 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_rnglists
+                0x0000000000000000      0xa44
+ .debug_rnglists
+                0x0000000000000000       0xe2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_rnglists
+                0x00000000000000e2       0x3e /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_rnglists
+                0x0000000000000120       0x4a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_rnglists
+                0x000000000000016a       0xce /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_rnglists
+                0x0000000000000238       0x58 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_rnglists
+                0x0000000000000290      0x1c7 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_rnglists
+                0x0000000000000457       0x55 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_rnglists
+                0x00000000000004ac       0x1f /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_rnglists
+                0x00000000000004cb      0x1c1 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_rnglists
+                0x000000000000068c       0x33 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_rnglists
+                0x00000000000006bf       0x7f /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_rnglists
+                0x000000000000073e       0x3a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_rnglists
+                0x0000000000000778      0x2cc /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_line     0x0000000000000000     0x7bff
+ .debug_line    0x0000000000000000      0xa68 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_line    0x0000000000000a68      0x6e4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_line    0x000000000000114c      0x6ba /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_line    0x0000000000001806      0xb12 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_line    0x0000000000002318      0x569 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_line    0x0000000000002881     0x1035 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_line    0x00000000000038b6      0x97b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_line    0x0000000000004231      0x1b6 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_line    0x00000000000043e7      0xc5a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_line    0x0000000000005041      0x83b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_line    0x000000000000587c      0x36b /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_line    0x0000000000005be7      0x860 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_line    0x0000000000006447     0x17b8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_str      0x0000000000000000    0x18e01
+ .debug_str     0x0000000000000000     0x2ad2 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_str     0x0000000000002ad2     0x1e1f /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_str     0x00000000000048f1     0x1daa /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_str     0x000000000000669b     0x2883 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_str     0x0000000000008f1e     0x2106 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_str     0x000000000000b024     0x2a7a /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_str     0x000000000000da9e     0x28ea /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_str     0x0000000000010388      0x370 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_str     0x00000000000106f8     0x16d0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_str     0x0000000000011dc8     0x1fdf /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_str     0x0000000000013da7      0x4d7 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_str     0x000000000001427e     0x1bdf /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_str     0x0000000000015e5d     0x2fa4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_frame    0x0000000000000000     0x1214
+ .debug_frame   0x0000000000000000       0xec /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_frame   0x00000000000000ec       0xd0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_frame   0x00000000000001bc       0xd8 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_frame   0x0000000000000294      0x1f4 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_frame   0x0000000000000488       0x30 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_frame   0x00000000000004b8      0x2a0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_frame   0x0000000000000758      0x120 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_frame   0x0000000000000878       0x48 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_frame   0x00000000000008c0      0x3d0 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_frame   0x0000000000000c90       0x68 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_frame   0x0000000000000cf8      0x140 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_frame   0x0000000000000e38       0x40 /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_frame   0x0000000000000e78      0x39c /home/arduino/ArduinoApps/modulino-pixel-only/.cache/sketch/core/core.a(zephyrCommon.cpp.o)

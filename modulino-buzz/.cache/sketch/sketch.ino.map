@@ -1,0 +1,1136 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Print::print(char const*))
+/home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+                              (main)
+/home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o (operator delete(void*, unsigned int))
+/home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o) (start_static_threads())
+/home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o (yield)
+/home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+                              /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o) (map(long, long, long, long, long))
+
+Discarded input sections
+
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass11_readSensorEv
+                0x0000000000000000       0xc4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass15_measurementReqEv
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClassC2ERN7arduino9ZephyrI2CE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass5beginEv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass3endEv
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass15readTemperatureEi
+                0x0000000000000000       0x64 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._ZN11HS300xClass12readHumidityEv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClassC2ERN7arduino9ZephyrI2CE
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass3endEv
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass7i2cReadEh
+                0x0000000000000000       0x48 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass5beginEv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass15readTemperatureEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass8i2cWriteEhh
+                0x0000000000000000       0x36 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._ZN12LPS22HBClass12readPressureEi
+                0x0000000000000000       0xc0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClassC2ERN7arduino9ZephyrI2CEh
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClassC2ERN7arduino11HardwareSPIEii
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClassD2Ev
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass22accelerationSampleRateEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass19gyroscopeSampleRateEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass13readRegistersEhPhj
+                0x0000000000000000       0xa4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass16readAccelerationERfS0_S0_
+                0x0000000000000000       0x94 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass13readGyroscopeERfS0_S0_
+                0x0000000000000000       0x94 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass20readTemperatureFloatERf
+                0x0000000000000000       0x48 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass15readTemperatureERi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass12readRegisterEh
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass21accelerationAvailableEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass18gyroscopeAvailableEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass20temperatureAvailableEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass13writeRegisterEhh
+                0x0000000000000000       0x78 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass3endEv
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._ZN13LSM6DSOXClass5beginEv
+                0x0000000000000000       0x84 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD6WaitMsEj
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD16VL53L4CD_I2CReadEhtPhj
+                0x0000000000000000       0xa2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD16VL53L4CD_RdDWordEttPj
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_RdWordEttPt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_RdByteEttPh
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD17VL53L4CD_I2CWriteEhtPhj
+                0x0000000000000000       0x74 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_WrByteEtth
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD15VL53L4CD_WrWordEttt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text._ZN8VL53L4CD16VL53L4CD_WrDWordEttj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_info    0x0000000000000000     0x242c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_abbrev  0x0000000000000000      0x4da /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x452 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x62 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_line    0x0000000000000000      0x73a /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_str     0x0000000000000000     0x225b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .debug_frame   0x0000000000000000      0x124 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD21VL53L4CD_GetSWVersionEP18VL53L4CD_Version_t
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD22VL53L4CD_SetI2CAddressEh
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD20VL53L4CD_GetSensorIdEPt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_ClearInterruptEv
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD20VL53L4CD_StopRangingEv
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD26VL53L4CD_CheckForDataReadyEPh
+                0x0000000000000000       0x54 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD21VL53L4CD_StartRangingEv
+                0x0000000000000000       0x84 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_SetRangeTimingEjj
+                0x0000000000000000      0x14c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD19VL53L4CD_SensorInitEv
+                0x0000000000000000      0x134 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_GetRangeTimingEPjS0_
+                0x0000000000000000       0xe8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD18VL53L4CD_GetResultEP17VL53L4CD_Result_t
+                0x0000000000000000      0x108 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD18VL53L4CD_SetOffsetEs
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD18VL53L4CD_GetOffsetEPs
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD17VL53L4CD_SetXtalkEt
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD17VL53L4CD_GetXtalkEPt
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD31VL53L4CD_SetDetectionThresholdsEtth
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD31VL53L4CD_GetDetectionThresholdsEPtS0_Ph
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD27VL53L4CD_SetSignalThresholdEt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD27VL53L4CD_GetSignalThresholdEPt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD26VL53L4CD_SetSigmaThresholdEt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD26VL53L4CD_GetSigmaThresholdEPt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text._ZN8VL53L4CD31VL53L4CD_StartTemperatureUpdateEv
+                0x0000000000000000       0xb0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .rodata._ZL30VL53L4CD_DEFAULT_CONFIGURATION
+                0x0000000000000000       0x5b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .rodata        0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_info    0x0000000000000000     0x309a /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_abbrev  0x0000000000000000      0x595 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_loclists
+                0x0000000000000000      0xd06 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_aranges
+                0x0000000000000000       0xc8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x97 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_line    0x0000000000000000      0xf8d /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_str     0x0000000000000000     0x2890 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .debug_frame   0x0000000000000000      0x2cc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .text._ZN8VL53L4CD24VL53L4CD_CalibrateOffsetEsPss
+                0x0000000000000000      0x19c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .text._ZN8VL53L4CD23VL53L4CD_CalibrateXtalkEsPts
+                0x0000000000000000      0x1ec /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_info    0x0000000000000000     0x233c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_abbrev  0x0000000000000000      0x4be /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x6aa /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x1b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_line    0x0000000000000000      0x9a0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_str     0x0000000000000000     0x2294 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .debug_frame   0x0000000000000000       0x8c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED8_I2CReadEtPhj
+                0x0000000000000000       0xa2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED9_I2CWriteEtPhj
+                0x0000000000000000       0x72 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_WrByteEth
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_WrWordEtt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED16VL53L4ED_WrDWordEtj
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_RdByteEtPh
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED15VL53L4ED_RdWordEtPt
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED16VL53L4ED_RdDWordEtPj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text._ZN8VL53L4ED6WaitMsEj
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_info    0x0000000000000000     0x23b4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_abbrev  0x0000000000000000      0x596 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x3ae /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x5f /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_line    0x0000000000000000      0x74b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_str     0x0000000000000000     0x222d /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .debug_frame   0x0000000000000000      0x11c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED21VL53L4ED_GetSWVersionEP18VL53L4ED_Version_t
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED22VL53L4ED_SetI2CAddressEh
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED20VL53L4ED_GetSensorIdEPt
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_ClearInterruptEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED21VL53L4ED_StartRangingEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED20VL53L4ED_StopRangingEv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED26VL53L4ED_CheckForDataReadyEPh
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_SetRangeTimingEjj
+                0x0000000000000000      0x13c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED19VL53L4ED_SensorInitEv
+                0x0000000000000000      0x128 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_GetRangeTimingEPjS0_
+                0x0000000000000000       0xe0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED18VL53L4ED_GetResultEP22VL53L4ED_ResultsData_t
+                0x0000000000000000       0xec /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED18VL53L4ED_SetOffsetEs
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED18VL53L4ED_GetOffsetEPs
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED17VL53L4ED_SetXtalkEt
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED17VL53L4ED_GetXtalkEPt
+                0x0000000000000000       0x48 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED31VL53L4ED_SetDetectionThresholdsEtth
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED31VL53L4ED_GetDetectionThresholdsEPtS0_Ph
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED27VL53L4ED_SetSignalThresholdEt
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED27VL53L4ED_GetSignalThresholdEPt
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED26VL53L4ED_SetSigmaThresholdEt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED26VL53L4ED_GetSigmaThresholdEPt
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text._ZN8VL53L4ED31VL53L4ED_StartTemperatureUpdateEv
+                0x0000000000000000       0xa8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .rodata._ZL30VL53L4ED_DEFAULT_CONFIGURATION
+                0x0000000000000000       0x5b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .rodata        0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_info    0x0000000000000000     0x3022 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_abbrev  0x0000000000000000      0x593 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_loclists
+                0x0000000000000000      0xcac /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_aranges
+                0x0000000000000000       0xc8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x96 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_line    0x0000000000000000      0xf35 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_str     0x0000000000000000     0x289a /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .debug_frame   0x0000000000000000      0x280 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .text._ZN8VL53L4ED24VL53L4ED_CalibrateOffsetEsPss
+                0x0000000000000000      0x194 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .text._ZN8VL53L4ED23VL53L4ED_CalibrateXtalkEsPts
+                0x0000000000000000      0x240 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_info    0x0000000000000000     0x236e /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_abbrev  0x0000000000000000      0x4c1 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_loclists
+                0x0000000000000000      0x74b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x1b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_line    0x0000000000000000      0x9e6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_str     0x0000000000000000     0x22bf /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .debug_frame   0x0000000000000000       0x94 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C22writeRequestedCallbackEP17i2c_target_config
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C21readProcessedCallbackEP17i2c_target_configPh
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text._ZN7arduino9ZephyrSPIC2EPK6device
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .text.analogReference
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_info    0x0000000000000000     0x15b3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_abbrev  0x0000000000000000      0x31c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_loclists
+                0x0000000000000000       0x23 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x13 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_line    0x0000000000000000      0x3c1 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_str     0x0000000000000000     0x1738 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .debug_frame   0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5writeEPKhj
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKNS_19__FlashStringHelperE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_6StringE
+                0x0000000000000000        0xa /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEc
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_9PrintableE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZN7arduino5Print7printlnEv.str1.1
+                0x0000000000000000        0x3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEv
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_6StringE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEPKc
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_9PrintableE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print11printNumberEmh
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEli
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEii
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEii
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEli
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEmi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEhi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEhi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEji
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEji
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEmi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print14printULLNumberEyh
+                0x0000000000000000       0xfc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printExi
+                0x0000000000000000       0x5c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnExi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEyi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEyi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZN7arduino5Print10printFloatEdi.str1.1
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print10printFloatEdi
+                0x0000000000000000      0x1b4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEdi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEdi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZTVN7arduino5PrintE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .entry_point   0x0000000000000000       0xb8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZL10new_helperj
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znwj    0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znaj    0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_tSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_tRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjPv  0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajPv  0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvj  0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .rodata._ZSt7nothrow
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_123find_gpio_port_callbackEPK6device
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_119setInterruptHandlerEhPFvvE
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_118handleGpioCallbackEPK6deviceP13gpio_callbackj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z14tone_expiry_cbP7k_timer
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_set_dt.isra.0
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_configure_dt.isra.0
+                0x0000000000000000       0x2a /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.yield    0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.pinMode  0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.digitalWrite
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.digitalRead
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z4tonehjm
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6noToneh
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z15tone_timeout_cbP7k_timer
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.micros   0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.millis   0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogWrite
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z11analogWrite7dacPinsi
+                0x0000000000000000       0x68 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogReference
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogRead
+                0x0000000000000000       0xbc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10randomSeedm
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randomll
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randoml
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.enableInterrupt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.attachInterrupt
+                0x0000000000000000       0xb4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.disableInterrupt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.detachInterrupt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10interruptsv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z12noInterruptsv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21digitalPinToInterrupth
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata.CSWTCH.111
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL15read_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL24_analog_write_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers_timeout
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L19interrupts_disabledE
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L7irq_keyE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L10dac_ch_cfgE
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_adcE
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L16arduino_pwm_pinsE
+                0x0000000000000000        0x9 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_pwmE
+                0x0000000000000000       0x90 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_113port_callbackE
+                0x0000000000000000      0x534 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZL12arduino_pins
+                0x0000000000000000      0x230 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z3maplllll
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordt
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordhh
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_info    0x0000000000000000      0x168 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_abbrev  0x0000000000000000       0xc1 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_loclists
+                0x0000000000000000       0x51 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_rnglists
+                0x0000000000000000       0x1f /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_line    0x0000000000000000      0x1b6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_str     0x0000000000000000      0x370 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_frame   0x0000000000000000       0x48 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Common.cpp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/platform.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_api.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4CD/vl53l4cd_calibration.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/platform.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_api.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/STM32duino VL53L4ED/vl53l4ed_calibration.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/analogReference.cpp.o
+START GROUP
+LOAD /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+END GROUP
+
+/DISCARD/
+ *(.ARM.attributes)
+ *(.ARM.attributes.*)
+ *(.ARM.exidx)
+ *(.ARM.exidx.*)
+ *(.ARM.extidx)
+ *(.ARM.extidx.*)
+ *(.ARM.extab)
+ *(.ARM.extab.*)
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+ *(.eh_frame)
+ *stdexcept.o()
+ *eh_*.o()
+ *cow-stdexcept.o()
+ *functexcept.o()
+ *cow-string-inst.o()
+
+.text           0x0000000000000000      0x7f8
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text._ZN14ModulinoBuzzerD2Ev
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000000                ModulinoBuzzer::~ModulinoBuzzer()
+                0x0000000000000000                ModulinoBuzzer::~ModulinoBuzzer()
+ *fill*         0x0000000000000002        0x2 
+ .text._ZN14ModulinoBuzzerD0Ev
+                0x0000000000000004       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000004                ModulinoBuzzer::~ModulinoBuzzer()
+ .text._ZNK6Module7printToERN7arduino5PrintE
+                0x0000000000000018       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000018                Module::printTo(arduino::Print&) const
+ .text._ZN14ModulinoBuzzer8discoverEv
+                0x0000000000000028       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000028                ModulinoBuzzer::discover()
+ .text._ZN14ModulinoBuzzer4toneEjj
+                0x0000000000000050       0x44 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000050                ModulinoBuzzer::tone(unsigned int, unsigned int)
+ .text.loop     0x0000000000000094       0x44 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000094                loop
+ .text._GLOBAL__sub_I_buzzer
+                0x00000000000000d8       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.setup    0x00000000000000f8       0x4c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000f8                setup
+ .text._GLOBAL__sub_I__ZN11HS300xClass15_measurementReqEv
+                0x0000000000000144       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .text._GLOBAL__sub_I__ZN12LPS22HBClassC2ERN7arduino9ZephyrI2CE
+                0x0000000000000154       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .text._GLOBAL__sub_I__ZN13LSM6DSOXClassC2ERN7arduino9ZephyrI2CEh
+                0x0000000000000168       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .text._Z21__increaseI2CPriorityv
+                0x0000000000000190        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000190                __increaseI2CPriority()
+ *fill*         0x0000000000000192        0x2 
+ .text._GLOBAL__sub_I_Modulino
+                0x0000000000000194       0x44 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x00000000000001d8        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000001d8                arduino::Print::availableForWrite()
+ .text._ZN7arduino9ZephyrI2C5writeEi
+                0x00000000000001dc        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000001dc                arduino::ZephyrI2C::write(int)
+ .text._ZN7arduino9ZephyrI2C5beginEv
+                0x00000000000001e4        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000001e4                arduino::ZephyrI2C::flush()
+                0x00000000000001e4                arduino::ZephyrI2C::begin()
+ .text._ZN7arduino9ZephyrI2C15endTransmissionEv
+                0x00000000000001e6        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000001e6                arduino::ZephyrI2C::endTransmission()
+ .text._ZN7arduino9ZephyrI2C11requestFromEhj
+                0x00000000000001ee       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000001ee                arduino::ZephyrI2C::requestFrom(unsigned char, unsigned int)
+ .text._ZN7arduino9ZephyrI2C9availableEv
+                0x00000000000001fe        0xe /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000001fe                arduino::ZephyrI2C::available()
+ .text._ZN7arduino9ZephyrI2C9onReceiveEPFviE
+                0x000000000000020c        0x6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x000000000000020c                arduino::ZephyrI2C::onReceive(void (*)(int))
+ .text._ZN7arduino9ZephyrI2C9onRequestEPFvvE
+                0x0000000000000212        0x6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000212                arduino::ZephyrI2C::onRequest(void (*)())
+ .text._ZN7arduino9ZephyrI2C5writeEh
+                0x0000000000000218       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000218                arduino::ZephyrI2C::write(unsigned char)
+ .text._ZN7arduino9ZephyrI2C5writeEPKhj
+                0x0000000000000234        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000234                arduino::ZephyrI2C::write(unsigned char const*, unsigned int)
+ .text._ZN7arduino9ZephyrI2C4readEv
+                0x0000000000000240       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000240                arduino::ZephyrI2C::read()
+ .text._ZL28i2c_target_read_processed_cbP17i2c_target_configPh
+                0x0000000000000268       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C4peekEv
+                0x0000000000000280       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000280                arduino::ZephyrI2C::peek()
+ .text._ZN7arduino9ZephyrI2C3endEv
+                0x00000000000002a8       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002a8                arduino::ZephyrI2C::end()
+ .text._ZN7arduino9ZephyrI2C5beginEh
+                0x00000000000002cc       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002cc                arduino::ZephyrI2C::begin(unsigned char)
+ .text._ZN7arduino9ZephyrI2C8setClockEj
+                0x00000000000002ec       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000002ec                arduino::ZephyrI2C::setClock(unsigned int)
+ .text._ZN7arduino9ZephyrI2C15endTransmissionEb
+                0x0000000000000328       0x74 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000328                arduino::ZephyrI2C::endTransmission(bool)
+ .text._ZN7arduino9ZephyrI2C11requestFromEhjb
+                0x000000000000039c       0x98 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x000000000000039c                arduino::ZephyrI2C::requestFrom(unsigned char, unsigned int, bool)
+ .text._ZL29i2c_target_write_requested_cbP17i2c_target_config
+                0x0000000000000434        0xe /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C17beginTransmissionEh
+                0x0000000000000442       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000442                arduino::ZephyrI2C::beginTransmission(unsigned char)
+ *fill*         0x0000000000000456        0x2 
+ .text._ZN7arduino9ZephyrI2CC2EPK6device
+                0x0000000000000458       0x4c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000458                arduino::ZephyrI2C::ZephyrI2C(device const*)
+                0x0000000000000458                arduino::ZephyrI2C::ZephyrI2C(device const*)
+ .text._ZN7arduino9ZephyrI2C21writeReceivedCallbackEP17i2c_target_configh
+                0x00000000000004a4       0x44 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000004a4                arduino::ZephyrI2C::writeReceivedCallback(i2c_target_config*, unsigned char)
+ .text._ZL28i2c_target_write_received_cbP17i2c_target_configh
+                0x00000000000004e8       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C21readRequestedCallbackEP17i2c_target_configPh
+                0x00000000000004f8       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x00000000000004f8                arduino::ZephyrI2C::readRequestedCallback(i2c_target_config*, unsigned char*)
+ .text._ZL28i2c_target_read_requested_cbP17i2c_target_configPh
+                0x0000000000000528       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrI2C12stopCallbackEP17i2c_target_config
+                0x0000000000000538       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000538                arduino::ZephyrI2C::stopCallback(i2c_target_config*)
+ .text._ZL18i2c_target_stop_cbP17i2c_target_config
+                0x0000000000000554        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._GLOBAL__sub_I__ZN7arduino9ZephyrI2CC2EPK6device
+                0x0000000000000560       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .text._ZN7arduino9ZephyrSPI14usingInterruptEi
+                0x0000000000000588        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000588                arduino::ZephyrSPI::notUsingInterrupt(int)
+                0x0000000000000588                arduino::ZephyrSPI::usingInterrupt(int)
+ .text._ZN7arduino9ZephyrSPI15attachInterruptEv
+                0x000000000000058a        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x000000000000058a                arduino::ZephyrSPI::begin()
+                0x000000000000058a                arduino::ZephyrSPI::attachInterrupt()
+                0x000000000000058a                arduino::ZephyrSPI::end()
+                0x000000000000058a                arduino::ZephyrSPI::detachInterrupt()
+ .text._ZN7arduino9ZephyrSPID2Ev
+                0x000000000000058c        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x000000000000058c                arduino::ZephyrSPI::~ZephyrSPI()
+                0x000000000000058c                arduino::ZephyrSPI::~ZephyrSPI()
+ *fill*         0x000000000000058e        0x2 
+ .text._ZN7arduino9ZephyrSPI16beginTransactionENS_11SPISettingsE
+                0x0000000000000590       0x78 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000590                arduino::ZephyrSPI::beginTransaction(arduino::SPISettings)
+ .text._ZN7arduino9ZephyrSPID0Ev
+                0x0000000000000608       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000608                arduino::ZephyrSPI::~ZephyrSPI()
+ .text._ZN7arduino9ZephyrSPI14endTransactionEv
+                0x000000000000061c        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x000000000000061c                arduino::ZephyrSPI::endTransaction()
+ .text._ZN7arduino9ZephyrSPI8transferEPvjPK10spi_config
+                0x0000000000000628       0x2e /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000628                arduino::ZephyrSPI::transfer(void*, unsigned int, spi_config const*)
+ *fill*         0x0000000000000656        0x2 
+ .text._ZN7arduino9ZephyrSPI8transferEh
+                0x0000000000000658       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000658                arduino::ZephyrSPI::transfer(unsigned char)
+ .text._ZN7arduino9ZephyrSPI10transfer16Et
+                0x0000000000000680       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000680                arduino::ZephyrSPI::transfer16(unsigned short)
+ .text._ZN7arduino9ZephyrSPI8transferEPvj
+                0x00000000000006a8       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x00000000000006a8                arduino::ZephyrSPI::transfer(void*, unsigned int)
+ .text._GLOBAL__sub_I__ZN7arduino9ZephyrSPIC2EPK6device
+                0x00000000000006bc       0x34 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .text._ZN7arduino5Print5writeEPKc
+                0x00000000000006f0       0x24 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+                0x00000000000006f0                arduino::Print::write(char const*)
+ .text._ZN7arduino5Print5printEPKc
+                0x0000000000000714        0xc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000000714                arduino::Print::print(char const*)
+ .text.initVariant
+                0x0000000000000720        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000720                initVariant
+ .text._Z10__loopHookv
+                0x0000000000000722        0x2 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000722                __loopHook()
+ .text.main     0x0000000000000724       0x2c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000000724                main
+ .text._ZdlPvj  0x0000000000000750        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000000750                operator delete(void*, unsigned int)
+ .text._Z20start_static_threadsv
+                0x0000000000000758       0x90 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+                0x0000000000000758                start_static_threads()
+ .text.delay    0x00000000000007e8       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x00000000000007e8                delay
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.ctors)
+ *(.dtors)
+ *(.fini)
+                0x00000000000007f8                __static_thread_data_list_start = .
+ *(SORT_BY_NAME(.__static_thread_data.static.*))
+                0x00000000000007f8                __static_thread_data_list_end = .
+
+.rodata         0x00000000000007f8      0x105
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata._GLOBAL__sub_I_buzzer.str1.1
+                0x00000000000007f8        0x7 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ *fill*         0x00000000000007ff        0x1 
+ .rodata._ZTV14ModulinoBuzzer
+                0x0000000000000800       0x18 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000800                vtable for ModulinoBuzzer
+ .rodata._ZTVN7arduino9ZephyrI2CE
+                0x0000000000000818       0x54 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000818                vtable for arduino::ZephyrI2C
+ .rodata.CSWTCH.37
+                0x000000000000086c        0x3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ *fill*         0x000000000000086f        0x1 
+ .rodata._ZTVN7arduino9ZephyrSPIE
+                0x0000000000000870       0x3c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000870                vtable for arduino::ZephyrSPI
+ .rodata.str1.1
+                0x00000000000008ac       0x51 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+
+.data           0x0000000000000900       0x1c
+ *(.data .data.*)
+ .data.duration
+                0x0000000000000900        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000900                duration
+ .data.frequency
+                0x0000000000000904        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000904                frequency
+ .data._ZL16target_callbacks
+                0x0000000000000908       0x14 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+
+.bss            0x000000000000091c      0x798
+ *(.bss .bss.* COMMON)
+ .bss.buzzer    0x000000000000091c       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000091c                buzzer
+ .bss.HS300x    0x000000000000092c       0x10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+                0x000000000000092c                HS300x
+ .bss.BARO      0x000000000000093c        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+                0x000000000000093c                BARO
+ .bss.IMU_LSM6DSOX
+                0x0000000000000944       0x1c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+                0x0000000000000944                IMU_LSM6DSOX
+ .bss.WHITE     0x0000000000000960        0x3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000960                WHITE
+ .bss.VIOLET    0x0000000000000963        0x3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000963                VIOLET
+ .bss.GREEN     0x0000000000000966        0x3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000966                GREEN
+ .bss.BLUE      0x0000000000000969        0x3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000969                BLUE
+ .bss.RED       0x000000000000096c        0x3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x000000000000096c                RED
+ *fill*         0x000000000000096f        0x1 
+ .bss.Modulino  0x0000000000000970        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+                0x0000000000000970                Modulino
+ .bss.Wire1     0x0000000000000974      0x254 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000974                Wire1
+ .bss.Wire      0x0000000000000bc8      0x254 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+                0x0000000000000bc8                Wire
+ .bss.SPI1      0x0000000000000e1c      0x14c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000e1c                SPI1
+ .bss.SPI       0x0000000000000f68      0x14c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+                0x0000000000000f68                SPI
+ *(.noinit .noinit.*)
+
+.exported_sym   0x00000000000010b4        0x8
+ *(.exported_sym)
+ .exported_sym  0x00000000000010b4        0x8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ *(.exported_sym.*)
+
+.init_array     0x00000000000010bc       0x1c
+ *(.init_array)
+ .init_array    0x00000000000010bc        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .init_array    0x00000000000010c0        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .init_array    0x00000000000010c4        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .init_array    0x00000000000010c8        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .init_array    0x00000000000010cc        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .init_array    0x00000000000010d0        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .init_array    0x00000000000010d4        0x4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+
+.fini_array
+ *(.fini_array)
+
+.symtab
+ *(.symtab)
+
+.strtab
+ *(.strtab)
+
+.shstrtab
+ *(.shstrtab)
+
+.rel
+ *(.rel .rel.*)
+
+.got
+ *(.got .got.* .got.plt .got.plt*)
+OUTPUT(/home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch.ino_debug.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x1dd7c
+ .debug_info    0x0000000000000000     0x2e10 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_info    0x0000000000002e10     0x1c6d /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_info    0x0000000000004a7d     0x1c90 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_info    0x000000000000670d     0x2cc3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_info    0x00000000000093d0     0x1eb8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_info    0x000000000000b288     0x3dde /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_info    0x000000000000f066     0x2dd5 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_info    0x0000000000011e3b     0x2d13 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_info    0x0000000000014b4e     0x1e2b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_info    0x0000000000016979      0x7af /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_info    0x0000000000017128     0x2000 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_info    0x0000000000019128     0x4c54 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_abbrev   0x0000000000000000     0x4a08
+ .debug_abbrev  0x0000000000000000      0x7b4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_abbrev  0x00000000000007b4      0x522 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_abbrev  0x0000000000000cd6      0x54c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_abbrev  0x0000000000001222      0x6f8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_abbrev  0x000000000000191a      0x484 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_abbrev  0x0000000000001d9e      0x829 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_abbrev  0x00000000000025c7      0x7a3 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_abbrev  0x0000000000002d6a      0x594 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_abbrev  0x00000000000032fe      0x538 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_abbrev  0x0000000000003836      0x234 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_abbrev  0x0000000000003a6a      0x545 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_abbrev  0x0000000000003faf      0xa59 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_loclists
+                0x0000000000000000     0x42ef
+ .debug_loclists
+                0x0000000000000000      0x2b8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_loclists
+                0x00000000000002b8      0x1ac /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_loclists
+                0x0000000000000464      0x1a8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_loclists
+                0x000000000000060c      0x4b6 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_loclists
+                0x0000000000000ac2      0x10f /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_loclists
+                0x0000000000000bd1      0xd42 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_loclists
+                0x0000000000001913      0x403 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_loclists
+                0x0000000000001d16     0x12da /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_loclists
+                0x0000000000002ff0       0x72 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_loclists
+                0x0000000000003062      0x2bc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_loclists
+                0x000000000000331e       0xf4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_loclists
+                0x0000000000003412      0xedd /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_aranges  0x0000000000000000      0x6b8
+ .debug_aranges
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_aranges
+                0x0000000000000058       0x58 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_aranges
+                0x00000000000000b0       0x58 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_aranges
+                0x0000000000000108       0xa8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_aranges
+                0x00000000000001b0       0x28 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_aranges
+                0x00000000000001d8      0x108 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_aranges
+                0x00000000000002e0       0x78 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_aranges
+                0x0000000000000358      0x128 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_aranges
+                0x0000000000000480       0x38 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_aranges
+                0x00000000000004b8       0xb0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_aranges
+                0x0000000000000568       0x20 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_aranges
+                0x0000000000000588      0x130 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_rnglists
+                0x0000000000000000      0x9db
+ .debug_rnglists
+                0x0000000000000000       0x8b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_rnglists
+                0x000000000000008b       0x3e /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_rnglists
+                0x00000000000000c9       0x4a /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_rnglists
+                0x0000000000000113       0xce /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_rnglists
+                0x00000000000001e1       0x58 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_rnglists
+                0x0000000000000239      0x1c7 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_rnglists
+                0x0000000000000400       0x55 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_rnglists
+                0x0000000000000455      0x1c1 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_rnglists
+                0x0000000000000616       0x33 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_rnglists
+                0x0000000000000649       0x7f /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_rnglists
+                0x00000000000006c8       0x47 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_rnglists
+                0x000000000000070f      0x2cc /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_line     0x0000000000000000     0x791c
+ .debug_line    0x0000000000000000      0x8c7 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_line    0x00000000000008c7      0x6e4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_line    0x0000000000000fab      0x6ba /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_line    0x0000000000001665      0xb12 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_line    0x0000000000002177      0x569 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_line    0x00000000000026e0     0x1035 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_line    0x0000000000003715      0x949 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_line    0x000000000000405e      0xc5a /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_line    0x0000000000004cb8      0x83b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_line    0x00000000000054f3      0x36b /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_line    0x000000000000585e      0x906 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_line    0x0000000000006164     0x17b8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_str      0x0000000000000000    0x18a58
+ .debug_str     0x0000000000000000     0x2a55 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_str     0x0000000000002a55     0x1e1f /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_str     0x0000000000004874     0x1daa /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_str     0x000000000000661e     0x2883 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_str     0x0000000000008ea1     0x2106 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_str     0x000000000000afa7     0x2a7a /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_str     0x000000000000da21     0x28ea /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_str     0x000000000001030b     0x16d0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_str     0x00000000000119db     0x1fdf /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_str     0x00000000000139ba      0x4d7 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_str     0x0000000000013e91     0x1c23 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_str     0x0000000000015ab4     0x2fa4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.debug_frame    0x0000000000000000     0x11c8
+ .debug_frame   0x0000000000000000       0xe0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_frame   0x00000000000000e0       0xd0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_HS300x/HS300x.cpp.o
+ .debug_frame   0x00000000000001b0       0xd8 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LPS22HB/BARO.cpp.o
+ .debug_frame   0x0000000000000288      0x1f4 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Arduino_LSM6DSOX/LSM6DSOX.cpp.o
+ .debug_frame   0x000000000000047c       0x30 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Modulino/Modulino.cpp.o
+ .debug_frame   0x00000000000004ac      0x2a0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/Wire/Wire.cpp.o
+ .debug_frame   0x000000000000074c      0x120 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/libraries/SPI/SPI.cpp.o
+ .debug_frame   0x000000000000086c      0x3d0 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_frame   0x0000000000000c3c       0x68 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_frame   0x0000000000000ca4      0x140 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_frame   0x0000000000000de4       0x48 /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_frame   0x0000000000000e2c      0x39c /home/arduino/ArduinoApps/modulino-buzz/.cache/sketch/core/core.a(zephyrCommon.cpp.o)

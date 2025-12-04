@@ -1,0 +1,6 @@
+name: Monitor
+description: "Example for Monitor"
+ports: []
+bricks:
+- arduino:mood_detector: {}
+icon: 😀

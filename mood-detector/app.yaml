@@ -1,0 +1,9 @@
+name: Mood detector
+description: ""
+ports: []
+bricks:
+- arduino:motion_detection:
+    variables:
+      CUSTOM_MODEL_PATH: /home/arduino/.arduino-bricks/ei-models
+      EI_MOTION_DETECTION_MODEL: /models/ootb/ei/updown-wave-motion-detection.eim
+icon: 😀
