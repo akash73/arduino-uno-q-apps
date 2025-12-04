@@ -19,13 +19,6 @@ echo "Downloading: $ZIP_NAME"
 cd /tmp
 curl -sL "$ZIP_URL" -o app.zip
 
-# Check if app exists and stop it before updating
-if [ -d "$HOME/ArduinoApps" ]; then
-    #echo "Stopping existing application..."
-    #arduino-app-cli app stop user:scratch-arduino-app || echo "Warning: Failed to stop app (may not be running)"
-    #rm -rf $HOME/ArduinoApps/scratch-arduino-app
-fi
-
 unzip -q app.zip
 mv -f arduino-uno-q-apps $HOME/ArduinoApps/
 rm -f app.zip
