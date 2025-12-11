@@ -1,0 +1,64 @@
+[
+    {
+        "id": "16eca0b74e475b5b",
+        "type": "subflow",
+        "name": "UNOQ_setAllDig",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "511d41a0ee45d797"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "537b27052bb45bad",
+        "type": "tcp request",
+        "z": "16eca0b74e475b5b",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "511d41a0ee45d797",
+        "type": "function",
+        "z": "16eca0b74e475b5b",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - msg.payload -> boolean (true / false)\n\nif (typeof msg.payload !== \"boolean\") {\n    node.error(\"msg.payload must be boolean (true/false)\", msg);\n    return null;\n}\n\n// Build command object for Python TCP server\nconst cmd = {\n    cmd: \"set_all_io\",\n    value: msg.payload\n};\n\n// Serialize JSON + newline (required by the TCP server)\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "537b27052bb45bad"
+            ]
+        ]
+    }
+]

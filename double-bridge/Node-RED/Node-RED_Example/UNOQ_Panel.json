@@ -1,0 +1,3614 @@
+[
+    {
+        "id": "075e4b8854c12253",
+        "type": "tab",
+        "label": "MPU LED",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "74c0e6893d037879",
+        "type": "tab",
+        "label": "MCU LED Write",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "1acf071e6f8a93ae",
+        "type": "tab",
+        "label": "MCU LED Read",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "36c61295f367a67b",
+        "type": "tab",
+        "label": "MCU Pin Write",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "9269b2b8a6a495f2",
+        "type": "tab",
+        "label": "MCU Pin Read",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "e9865fb2815b4ca7",
+        "type": "tab",
+        "label": "MCU An Pin Read",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "074b4682c77cbfea",
+        "type": "tab",
+        "label": "LED Matrix",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "96b361e736e798d5",
+        "type": "subflow",
+        "name": "UNOQ setIO",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "761148d02ffa1a89"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "type": "str",
+                "value": "",
+                "ui": {
+                    "icon": "font-awesome/fa-arrow-right",
+                    "type": "input",
+                    "opts": {
+                        "types": [
+                            "str"
+                        ]
+                    }
+                }
+            }
+        ],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "44577b545fbaab92",
+        "type": "subflow",
+        "name": "UNOQ getIO",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "dd9e7840d6d26e82"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 820,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "ae6385e303536f8c",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "type": "str",
+                "value": "",
+                "ui": {
+                    "icon": "font-awesome/fa-arrow-left",
+                    "type": "input",
+                    "opts": {
+                        "types": [
+                            "str"
+                        ]
+                    }
+                }
+            }
+        ],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "16eca0b74e475b5b",
+        "type": "subflow",
+        "name": "UNOQ_setAllDig",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "511d41a0ee45d797"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "e4aabb272e2e39d6",
+        "type": "subflow",
+        "name": "UNOQ_getAn",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "5b977243e8f9f8dd"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 820,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "fe2b37e481ae05a2",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "type": "str",
+                "value": ""
+            }
+        ],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "1dc079ef8e83671a",
+        "type": "subflow",
+        "name": "UNOQ_ledMatrix",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "68bd398cab976fa8"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "c0cd1a3a95a15381",
+        "type": "ui_tab",
+        "name": "MCU Pin Control",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "003a422304a5e2cf",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "d09c24ba8d08dd44",
+        "type": "ui_group",
+        "name": "MCU LED Write",
+        "tab": "c0cd1a3a95a15381",
+        "order": 1,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "6653b5e57946d6e8",
+        "type": "ui_group",
+        "name": "MCU LED Read",
+        "tab": "c0cd1a3a95a15381",
+        "order": 2,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "c16eadcb52946c33",
+        "type": "ui_group",
+        "name": "MCU Pin Write",
+        "tab": "c0cd1a3a95a15381",
+        "order": 3,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "3b39e839e14110d9",
+        "type": "ui_group",
+        "name": "MCU Pin Read",
+        "tab": "c0cd1a3a95a15381",
+        "order": 4,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7b79a46ec103fe9a",
+        "type": "ui_group",
+        "name": "MCU An Pin Read",
+        "tab": "c0cd1a3a95a15381",
+        "order": 5,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b511a1a5c5e7c54d",
+        "type": "ui_group",
+        "name": "LED Matrix",
+        "tab": "c0cd1a3a95a15381",
+        "order": 6,
+        "disp": true,
+        "width": 6,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "761148d02ffa1a89",
+        "type": "function",
+        "z": "96b361e736e798d5",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - msg.payload -> boolean (true / false)\n// - env.PIN_NAME -> string (e.g. \"D13\"), defined as Subflow Environment Variable\n\nif (typeof msg.payload !== \"boolean\") {\n    node.error(\"msg.payload must be boolean (true/false)\", msg);\n    return null;\n}\n\nconst pin = env.get(\"PIN_NAME\");\n\nif (typeof pin !== \"string\" || pin.length === 0) {\n    node.error(\"Subflow environment variable PIN_NAME must be a non-empty string\", msg);\n    return null;\n}\n\n// Build command object for Python TCP server\nconst cmd = {\n    cmd: \"set_io\",\n    pin: pin,\n    value: msg.payload\n};\n\n// Serialize JSON + newline (required by the TCP server)\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "e449637850d85d65"
+            ]
+        ]
+    },
+    {
+        "id": "e449637850d85d65",
+        "type": "tcp request",
+        "z": "96b361e736e798d5",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "27e4cf3b581f5342",
+        "type": "json",
+        "z": "44577b545fbaab92",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 550,
+        "y": 80,
+        "wires": [
+            [
+                "ae6385e303536f8c"
+            ]
+        ]
+    },
+    {
+        "id": "dd9e7840d6d26e82",
+        "type": "function",
+        "z": "44577b545fbaab92",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - No specific msg.payload required\n// - env.PIN_NAME -> string (e.g. \"D13\"), defined as Subflow Environment Variable\n\nconst pin = env.get(\"PIN_NAME\");\n\nif (typeof pin !== \"string\" || pin.length === 0) {\n    node.error(\"Subflow environment variable PIN_NAME must be a non-empty string\", msg);\n    return null;\n}\n\n// Build command object for Python TCP server\nconst cmd = {\n    cmd: \"get_io\",\n    pin: pin\n};\n\n// Serialize JSON + newline (required by the TCP server)\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "d3c9012522e37a8a"
+            ]
+        ]
+    },
+    {
+        "id": "d3c9012522e37a8a",
+        "type": "tcp request",
+        "z": "44577b545fbaab92",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            [
+                "27e4cf3b581f5342"
+            ]
+        ]
+    },
+    {
+        "id": "ae6385e303536f8c",
+        "type": "change",
+        "z": "44577b545fbaab92",
+        "name": "Convert",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "537b27052bb45bad",
+        "type": "tcp request",
+        "z": "16eca0b74e475b5b",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "511d41a0ee45d797",
+        "type": "function",
+        "z": "16eca0b74e475b5b",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - msg.payload -> boolean (true / false)\n\nif (typeof msg.payload !== \"boolean\") {\n    node.error(\"msg.payload must be boolean (true/false)\", msg);\n    return null;\n}\n\n// Build command object for Python TCP server\nconst cmd = {\n    cmd: \"set_all_io\",\n    value: msg.payload\n};\n\n// Serialize JSON + newline (required by the TCP server)\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "537b27052bb45bad"
+            ]
+        ]
+    },
+    {
+        "id": "5b977243e8f9f8dd",
+        "type": "function",
+        "z": "e4aabb272e2e39d6",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - No specific msg.payload required\n// - env.PIN_NAME -> string (e.g. \"A0\"), defined as Subflow Environment Variable\n//\n// This node builds a \"get_an\" JSON command for the Python TCP server:\n// { \"cmd\": \"get_an\", \"pin\": \"<PIN_NAME>\" }\n// and appends a newline at the end.\n\nconst pin = env.get(\"PIN_NAME\");\n\nif (typeof pin !== \"string\" || pin.length === 0) {\n    node.error(\"Subflow environment variable PIN_NAME must be a non-empty string (e.g. 'A0')\", msg);\n    return null;\n}\n\nconst cmd = {\n    cmd: \"get_an\",\n    pin: pin\n};\n\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "7585aab130705681"
+            ]
+        ]
+    },
+    {
+        "id": "7585aab130705681",
+        "type": "tcp request",
+        "z": "e4aabb272e2e39d6",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            [
+                "9291effb7499395b"
+            ]
+        ]
+    },
+    {
+        "id": "9291effb7499395b",
+        "type": "json",
+        "z": "e4aabb272e2e39d6",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 550,
+        "y": 80,
+        "wires": [
+            [
+                "fe2b37e481ae05a2"
+            ]
+        ]
+    },
+    {
+        "id": "fe2b37e481ae05a2",
+        "type": "change",
+        "z": "e4aabb272e2e39d6",
+        "name": "Convert",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "68bd398cab976fa8",
+        "type": "function",
+        "z": "1dc079ef8e83671a",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - msg.payload -> string (text to display on the LED matrix)\n//\n// This node builds a \"led_matrix_print\" JSON command for the Python TCP server:\n// { \"cmd\": \"led_matrix_print\", \"text\": \"<msg.payload>\" }\n// and appends a newline at the end.\n\nif (typeof msg.payload !== \"string\") {\n    // Try to convert non-string payloads to string\n    if (msg.payload === null || msg.payload === undefined) {\n        node.error(\"msg.payload must be a string (text to display)\", msg);\n        return null;\n    }\n    msg.payload = String(msg.payload);\n}\n\nconst cmd = {\n    cmd: \"led_matrix_print\",\n    text: msg.payload\n};\n\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 200,
+        "y": 80,
+        "wires": [
+            [
+                "f06bcc77add52c2f"
+            ]
+        ]
+    },
+    {
+        "id": "f06bcc77add52c2f",
+        "type": "tcp request",
+        "z": "1dc079ef8e83671a",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 390,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "6e51fef7cc39c433",
+        "type": "comment",
+        "z": "075e4b8854c12253",
+        "name": "",
+        "info": "echo 1 | tee /sys/class/leds/red:user/brightness   # set HIGH/ON\necho 0 | tee /sys/class/leds/red:user/brightness   # set LOW/OFF\n",
+        "x": 120,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "d157341701b6f418",
+        "type": "switch",
+        "z": "075e4b8854c12253",
+        "name": "",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "true"
+            },
+            {
+                "t": "false"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 510,
+        "y": 140,
+        "wires": [
+            [
+                "e15a508cc124ad51"
+            ],
+            [
+                "a202c548c5eb3752"
+            ]
+        ]
+    },
+    {
+        "id": "e15a508cc124ad51",
+        "type": "exec",
+        "z": "075e4b8854c12253",
+        "command": "echo 1 | tee /sys/class/leds/green:user/brightness",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "LED ON",
+        "x": 660,
+        "y": 100,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "a202c548c5eb3752",
+        "type": "exec",
+        "z": "075e4b8854c12253",
+        "command": "echo 0 | tee /sys/class/leds/green:user/brightness",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "LED OFF",
+        "x": 660,
+        "y": 180,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8070d383b3285026",
+        "type": "inject",
+        "z": "075e4b8854c12253",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 140,
+        "wires": [
+            [
+                "2a601012817590d9"
+            ]
+        ]
+    },
+    {
+        "id": "2a601012817590d9",
+        "type": "trigger",
+        "z": "075e4b8854c12253",
+        "name": "",
+        "op1": "true",
+        "op2": "false",
+        "op1type": "bool",
+        "op2type": "bool",
+        "duration": "500",
+        "extend": false,
+        "overrideDelay": false,
+        "units": "ms",
+        "reset": "",
+        "bytopic": "all",
+        "topic": "topic",
+        "outputs": 1,
+        "x": 340,
+        "y": 140,
+        "wires": [
+            [
+                "d157341701b6f418"
+            ]
+        ]
+    },
+    {
+        "id": "40cf4693f80c7cf1",
+        "type": "exec",
+        "z": "075e4b8854c12253",
+        "command": "echo 0 | tee /sys/class/leds/blue:user/brightness",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "LED OFF",
+        "x": 300,
+        "y": 220,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "133ed1b27f397795",
+        "type": "inject",
+        "z": "075e4b8854c12253",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 220,
+        "wires": [
+            [
+                "40cf4693f80c7cf1",
+                "a58b44bac0505ab4",
+                "2f69dbf2c1be9fc3"
+            ]
+        ]
+    },
+    {
+        "id": "a58b44bac0505ab4",
+        "type": "exec",
+        "z": "075e4b8854c12253",
+        "command": "echo 0 | tee /sys/class/leds/green:user/brightness",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "LED OFF",
+        "x": 300,
+        "y": 280,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2f69dbf2c1be9fc3",
+        "type": "exec",
+        "z": "075e4b8854c12253",
+        "command": "echo 0 | tee /sys/class/leds/red:user/brightness",
+        "addpay": "",
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "winHide": false,
+        "oldrc": false,
+        "name": "LED OFF",
+        "x": 300,
+        "y": 340,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "078cd144feecbe93",
+        "type": "ui_switch",
+        "z": "74c0e6893d037879",
+        "name": "",
+        "label": "LED 3 RED",
+        "tooltip": "",
+        "group": "d09c24ba8d08dd44",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "false",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "true",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 130,
+        "y": 80,
+        "wires": [
+            [
+                "731b7f909ba3776c"
+            ]
+        ]
+    },
+    {
+        "id": "a83545ee283798ab",
+        "type": "ui_switch",
+        "z": "74c0e6893d037879",
+        "name": "",
+        "label": "LED 3 GREEN",
+        "tooltip": "",
+        "group": "d09c24ba8d08dd44",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "false",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "true",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 120,
+        "y": 140,
+        "wires": [
+            [
+                "df4c2fb35f3fc00d"
+            ]
+        ]
+    },
+    {
+        "id": "e1cdd4970d3daa3a",
+        "type": "ui_switch",
+        "z": "74c0e6893d037879",
+        "name": "",
+        "label": "LED 3 BLUE",
+        "tooltip": "",
+        "group": "d09c24ba8d08dd44",
+        "order": 3,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "false",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "true",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 130,
+        "y": 200,
+        "wires": [
+            [
+                "da6643a7564ead6c"
+            ]
+        ]
+    },
+    {
+        "id": "5f27569d383ccd16",
+        "type": "ui_switch",
+        "z": "74c0e6893d037879",
+        "name": "",
+        "label": "LED 4 RED",
+        "tooltip": "",
+        "group": "d09c24ba8d08dd44",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "false",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "true",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 130,
+        "y": 260,
+        "wires": [
+            [
+                "cf6d3173dd3ef6a7"
+            ]
+        ]
+    },
+    {
+        "id": "6a4797efea6f92d5",
+        "type": "ui_switch",
+        "z": "74c0e6893d037879",
+        "name": "",
+        "label": "LED 4 GREEN",
+        "tooltip": "",
+        "group": "d09c24ba8d08dd44",
+        "order": 5,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "false",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "true",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 120,
+        "y": 320,
+        "wires": [
+            [
+                "6c1a8178d153fcc8"
+            ]
+        ]
+    },
+    {
+        "id": "5552d7c6c13e091a",
+        "type": "ui_switch",
+        "z": "74c0e6893d037879",
+        "name": "",
+        "label": "LED 4 BLUE",
+        "tooltip": "",
+        "group": "d09c24ba8d08dd44",
+        "order": 6,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "false",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "true",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 130,
+        "y": 380,
+        "wires": [
+            [
+                "077483f08e361b38"
+            ]
+        ]
+    },
+    {
+        "id": "731b7f909ba3776c",
+        "type": "subflow:96b361e736e798d5",
+        "z": "74c0e6893d037879",
+        "name": "LED3_R",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED3_R",
+                "type": "str"
+            }
+        ],
+        "x": 380,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "df4c2fb35f3fc00d",
+        "type": "subflow:96b361e736e798d5",
+        "z": "74c0e6893d037879",
+        "name": "LED3_G",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED3_G",
+                "type": "str"
+            }
+        ],
+        "x": 380,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "da6643a7564ead6c",
+        "type": "subflow:96b361e736e798d5",
+        "z": "74c0e6893d037879",
+        "name": "LED3_B",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED3_B",
+                "type": "str"
+            }
+        ],
+        "x": 380,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "cf6d3173dd3ef6a7",
+        "type": "subflow:96b361e736e798d5",
+        "z": "74c0e6893d037879",
+        "name": "LED4_R",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED4_R",
+                "type": "str"
+            }
+        ],
+        "x": 380,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "6c1a8178d153fcc8",
+        "type": "subflow:96b361e736e798d5",
+        "z": "74c0e6893d037879",
+        "name": "LED4_G",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED4_G",
+                "type": "str"
+            }
+        ],
+        "x": 380,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "077483f08e361b38",
+        "type": "subflow:96b361e736e798d5",
+        "z": "74c0e6893d037879",
+        "name": "LED4_B",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED4_B",
+                "type": "str"
+            }
+        ],
+        "x": 380,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "5f602f410f7341ce",
+        "type": "inject",
+        "z": "1acf071e6f8a93ae",
+        "name": "SCAN IO",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 60,
+        "wires": [
+            [
+                "fe9b3a8158eca233",
+                "3013c25f66ba25b1",
+                "9b76281cc1d18008",
+                "30665980cfee8341",
+                "8146931202eaec45",
+                "80caed519ea7da6c"
+            ]
+        ]
+    },
+    {
+        "id": "6a00fd2de1e063ee",
+        "type": "ui_led",
+        "z": "1acf071e6f8a93ae",
+        "order": 1,
+        "group": "6653b5e57946d6e8",
+        "width": 0,
+        "height": 0,
+        "label": "LED 3 RED",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "LED 3 R",
+        "x": 480,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "e286db2d99ac7a7e",
+        "type": "ui_led",
+        "z": "1acf071e6f8a93ae",
+        "order": 2,
+        "group": "6653b5e57946d6e8",
+        "width": 0,
+        "height": 0,
+        "label": "LED 3 GREEN",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "LED 3 G",
+        "x": 480,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "fef1e458bc3ec2a0",
+        "type": "ui_led",
+        "z": "1acf071e6f8a93ae",
+        "order": 3,
+        "group": "6653b5e57946d6e8",
+        "width": 0,
+        "height": 0,
+        "label": "LED 3  BLUE",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#0000ff",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "LED 3 B",
+        "x": 480,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "f09c5cd1e9e9aa80",
+        "type": "ui_led",
+        "z": "1acf071e6f8a93ae",
+        "order": 4,
+        "group": "6653b5e57946d6e8",
+        "width": 0,
+        "height": 0,
+        "label": "LED 4 RED",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#ff0000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "LED 4 R",
+        "x": 480,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "c092f3f0c1a3684d",
+        "type": "ui_led",
+        "z": "1acf071e6f8a93ae",
+        "order": 5,
+        "group": "6653b5e57946d6e8",
+        "width": 0,
+        "height": 0,
+        "label": "LED 4 GREEN",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "LED 4 G",
+        "x": 480,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "92ebba94b75744cf",
+        "type": "ui_led",
+        "z": "1acf071e6f8a93ae",
+        "order": 6,
+        "group": "6653b5e57946d6e8",
+        "width": 0,
+        "height": 0,
+        "label": "LED 4  BLUE",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#0000ff",
+                "value": "false",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "true",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "LED 4 B",
+        "x": 480,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "fe9b3a8158eca233",
+        "type": "subflow:44577b545fbaab92",
+        "z": "1acf071e6f8a93ae",
+        "name": "LED3_R",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED3_R",
+                "type": "str"
+            }
+        ],
+        "x": 320,
+        "y": 60,
+        "wires": [
+            [
+                "6a00fd2de1e063ee"
+            ]
+        ]
+    },
+    {
+        "id": "3013c25f66ba25b1",
+        "type": "subflow:44577b545fbaab92",
+        "z": "1acf071e6f8a93ae",
+        "name": "LED3_G",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED3_G",
+                "type": "str"
+            }
+        ],
+        "x": 320,
+        "y": 120,
+        "wires": [
+            [
+                "e286db2d99ac7a7e"
+            ]
+        ]
+    },
+    {
+        "id": "9b76281cc1d18008",
+        "type": "subflow:44577b545fbaab92",
+        "z": "1acf071e6f8a93ae",
+        "name": "LED3_B",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED3_B",
+                "type": "str"
+            }
+        ],
+        "x": 320,
+        "y": 180,
+        "wires": [
+            [
+                "fef1e458bc3ec2a0"
+            ]
+        ]
+    },
+    {
+        "id": "30665980cfee8341",
+        "type": "subflow:44577b545fbaab92",
+        "z": "1acf071e6f8a93ae",
+        "name": "LED4_R",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED4_R",
+                "type": "str"
+            }
+        ],
+        "x": 320,
+        "y": 240,
+        "wires": [
+            [
+                "f09c5cd1e9e9aa80"
+            ]
+        ]
+    },
+    {
+        "id": "8146931202eaec45",
+        "type": "subflow:44577b545fbaab92",
+        "z": "1acf071e6f8a93ae",
+        "name": "LED4_G",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED4_G",
+                "type": "str"
+            }
+        ],
+        "x": 320,
+        "y": 300,
+        "wires": [
+            [
+                "c092f3f0c1a3684d"
+            ]
+        ]
+    },
+    {
+        "id": "80caed519ea7da6c",
+        "type": "subflow:44577b545fbaab92",
+        "z": "1acf071e6f8a93ae",
+        "name": "LED4_B",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "LED4_B",
+                "type": "str"
+            }
+        ],
+        "x": 320,
+        "y": 360,
+        "wires": [
+            [
+                "92ebba94b75744cf"
+            ]
+        ]
+    },
+    {
+        "id": "d1eff107d322535a",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D0",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 60,
+        "wires": [
+            [
+                "0db80dc3db712047"
+            ]
+        ]
+    },
+    {
+        "id": "0db80dc3db712047",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D0",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D0",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "bfa4d51250db6eb6",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D1",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 120,
+        "wires": [
+            [
+                "78eba3ea12ed1e5b"
+            ]
+        ]
+    },
+    {
+        "id": "78eba3ea12ed1e5b",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D1",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D1",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "a848ad5401d0bb71",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D2",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 180,
+        "wires": [
+            [
+                "a38f36f55a175baf"
+            ]
+        ]
+    },
+    {
+        "id": "a38f36f55a175baf",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D2",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D2",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "55430727645267f2",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D3",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 240,
+        "wires": [
+            [
+                "e6eb83eb6324bc6d"
+            ]
+        ]
+    },
+    {
+        "id": "e6eb83eb6324bc6d",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D3",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D3",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "3b54ee9165aa2da6",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D4",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 300,
+        "wires": [
+            [
+                "bf3a077a0ec8ca4b"
+            ]
+        ]
+    },
+    {
+        "id": "bf3a077a0ec8ca4b",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D4",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D4",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "38429ba59d248797",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D5",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 360,
+        "wires": [
+            [
+                "3465e90781209432"
+            ]
+        ]
+    },
+    {
+        "id": "3465e90781209432",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D5",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D5",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "5f906f0128d0581c",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D6",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 420,
+        "wires": [
+            [
+                "04fa86cba72942cd"
+            ]
+        ]
+    },
+    {
+        "id": "04fa86cba72942cd",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D6",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D6",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "37f4c0bade79edb7",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D7",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 480,
+        "wires": [
+            [
+                "6699dc8e8f10a141"
+            ]
+        ]
+    },
+    {
+        "id": "6699dc8e8f10a141",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D7",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D7",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "2eaaa766c58219dc",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D8",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 110,
+        "y": 540,
+        "wires": [
+            [
+                "0a99d87964afd5b5"
+            ]
+        ]
+    },
+    {
+        "id": "0a99d87964afd5b5",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D8",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D8",
+                "type": "str"
+            }
+        ],
+        "x": 290,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "ce64a2b811e00b0c",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D9",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 60,
+        "wires": [
+            [
+                "687d23506feae3ec"
+            ]
+        ]
+    },
+    {
+        "id": "687d23506feae3ec",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D9",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D9",
+                "type": "str"
+            }
+        ],
+        "x": 630,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "c72c9dd2b882defc",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D10",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 120,
+        "wires": [
+            [
+                "97e9b353b692caf0"
+            ]
+        ]
+    },
+    {
+        "id": "97e9b353b692caf0",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D10",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D10",
+                "type": "str"
+            }
+        ],
+        "x": 630,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "227e1cbcea4b0b31",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D11",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 180,
+        "wires": [
+            [
+                "afabb2b65461100c"
+            ]
+        ]
+    },
+    {
+        "id": "afabb2b65461100c",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D11",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D11",
+                "type": "str"
+            }
+        ],
+        "x": 630,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "bd8ce11c5fffb7b2",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D12",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 240,
+        "wires": [
+            [
+                "79fd4e4c3fd40406"
+            ]
+        ]
+    },
+    {
+        "id": "79fd4e4c3fd40406",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D12",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D12",
+                "type": "str"
+            }
+        ],
+        "x": 630,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "0c73d51f3b4b4b0e",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D13",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 300,
+        "wires": [
+            [
+                "79031845af4e38ac"
+            ]
+        ]
+    },
+    {
+        "id": "79031845af4e38ac",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D13",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D13",
+                "type": "str"
+            }
+        ],
+        "x": 630,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "bb7e5d9082c18434",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D20",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 360,
+        "wires": [
+            [
+                "a1c3c2b86a13f1f6"
+            ]
+        ]
+    },
+    {
+        "id": "a1c3c2b86a13f1f6",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D20",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D20",
+                "type": "str"
+            }
+        ],
+        "x": 630,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "a073b601a81c9e02",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "D21",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 420,
+        "wires": [
+            [
+                "607ca32632e8868e"
+            ]
+        ]
+    },
+    {
+        "id": "607ca32632e8868e",
+        "type": "subflow:96b361e736e798d5",
+        "z": "36c61295f367a67b",
+        "name": "D21",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D21",
+                "type": "str"
+            }
+        ],
+        "x": 630,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "5fc5c2d67797f318",
+        "type": "ui_switch",
+        "z": "36c61295f367a67b",
+        "name": "",
+        "label": "ALL",
+        "tooltip": "",
+        "group": "c16eadcb52946c33",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 450,
+        "y": 480,
+        "wires": [
+            [
+                "cb7724df3e0da7f3"
+            ]
+        ]
+    },
+    {
+        "id": "cb7724df3e0da7f3",
+        "type": "subflow:16eca0b74e475b5b",
+        "z": "36c61295f367a67b",
+        "x": 670,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "f8a6e4947c1c1223",
+        "type": "inject",
+        "z": "9269b2b8a6a495f2",
+        "name": "SCAN IO",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 60,
+        "wires": [
+            [
+                "785a6e158301ef70",
+                "45f97522e6a0da49",
+                "fac140b7cafd2038",
+                "58c3ad5e21898dae",
+                "5c6e8bbbbb1a8972",
+                "5d4c606d88789e63",
+                "55d6e9f3e35927a1",
+                "38e8216a67510f85",
+                "b63225914038d97f",
+                "dd10b635504c8d55",
+                "13bf12b982a9e4cb",
+                "56aeff4fc0b08cdd",
+                "8e0c1057069848c8",
+                "a1c676394b0c712c",
+                "454c62f0ef0e1739",
+                "fbdd945f3bc4ccac"
+            ]
+        ]
+    },
+    {
+        "id": "a352e5f0800f1121",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D0",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D0",
+        "x": 470,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "785a6e158301ef70",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D0",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D0",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 60,
+        "wires": [
+            [
+                "a352e5f0800f1121"
+            ]
+        ]
+    },
+    {
+        "id": "44ea581bcec9c6ef",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D1",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D1",
+        "x": 470,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "45f97522e6a0da49",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D1",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D1",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 100,
+        "wires": [
+            [
+                "44ea581bcec9c6ef"
+            ]
+        ]
+    },
+    {
+        "id": "156e702c88e078e2",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D2",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D2",
+        "x": 470,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "fac140b7cafd2038",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D2",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D2",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 140,
+        "wires": [
+            [
+                "156e702c88e078e2"
+            ]
+        ]
+    },
+    {
+        "id": "a36601992fbcb7bb",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D3",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D3",
+        "x": 470,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "58c3ad5e21898dae",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D3",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D3",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 180,
+        "wires": [
+            [
+                "a36601992fbcb7bb"
+            ]
+        ]
+    },
+    {
+        "id": "0a0205bd8e556c2f",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D4",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D4",
+        "x": 470,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "5c6e8bbbbb1a8972",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D4",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D4",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 220,
+        "wires": [
+            [
+                "0a0205bd8e556c2f"
+            ]
+        ]
+    },
+    {
+        "id": "e109590632476c8b",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D5",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D5",
+        "x": 470,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "5d4c606d88789e63",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D5",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D5",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 260,
+        "wires": [
+            [
+                "e109590632476c8b"
+            ]
+        ]
+    },
+    {
+        "id": "1243e8c88ad10115",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D6",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D6",
+        "x": 470,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "55d6e9f3e35927a1",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D6",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D6",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 300,
+        "wires": [
+            [
+                "1243e8c88ad10115"
+            ]
+        ]
+    },
+    {
+        "id": "13ac6d33f9e9ecd4",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D7",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D7",
+        "x": 470,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "38e8216a67510f85",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D7",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D7",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 340,
+        "wires": [
+            [
+                "13ac6d33f9e9ecd4"
+            ]
+        ]
+    },
+    {
+        "id": "719a297f2163ae14",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D8",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D8",
+        "x": 470,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "b63225914038d97f",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D8",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D8",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 380,
+        "wires": [
+            [
+                "719a297f2163ae14"
+            ]
+        ]
+    },
+    {
+        "id": "589a4def7f53a92c",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D9",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D9",
+        "x": 470,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "dd10b635504c8d55",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D9",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D9",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 420,
+        "wires": [
+            [
+                "589a4def7f53a92c"
+            ]
+        ]
+    },
+    {
+        "id": "1e6027fda7c0bea1",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D10",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D10",
+        "x": 470,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "13bf12b982a9e4cb",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D10",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D10",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 460,
+        "wires": [
+            [
+                "1e6027fda7c0bea1"
+            ]
+        ]
+    },
+    {
+        "id": "47a3560f981ce859",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D11",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D11",
+        "x": 470,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "56aeff4fc0b08cdd",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D11",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D11",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 500,
+        "wires": [
+            [
+                "47a3560f981ce859"
+            ]
+        ]
+    },
+    {
+        "id": "9493313ebcb7d4b8",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D12",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D12",
+        "x": 470,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "8e0c1057069848c8",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D12",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D12",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 540,
+        "wires": [
+            [
+                "9493313ebcb7d4b8"
+            ]
+        ]
+    },
+    {
+        "id": "0ec73c1669cd1544",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D13",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D13",
+        "x": 470,
+        "y": 580,
+        "wires": []
+    },
+    {
+        "id": "a1c676394b0c712c",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D13",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D13",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 580,
+        "wires": [
+            [
+                "0ec73c1669cd1544"
+            ]
+        ]
+    },
+    {
+        "id": "d3c553dcd5faf1cf",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D20",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D20",
+        "x": 470,
+        "y": 620,
+        "wires": []
+    },
+    {
+        "id": "454c62f0ef0e1739",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D20",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D20",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 620,
+        "wires": [
+            [
+                "d3c553dcd5faf1cf"
+            ]
+        ]
+    },
+    {
+        "id": "2d9f4382913537f6",
+        "type": "ui_led",
+        "z": "9269b2b8a6a495f2",
+        "order": 1,
+        "group": "3b39e839e14110d9",
+        "width": 0,
+        "height": 0,
+        "label": "D21",
+        "labelPlacement": "left",
+        "labelAlignment": "left",
+        "colorForValue": [
+            {
+                "color": "#008000",
+                "value": "true",
+                "valueType": "bool"
+            },
+            {
+                "color": "#707070",
+                "value": "false",
+                "valueType": "bool"
+            }
+        ],
+        "allowColorForValueInMessage": false,
+        "shape": "circle",
+        "showGlow": true,
+        "name": "D21",
+        "x": 470,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "fbdd945f3bc4ccac",
+        "type": "subflow:44577b545fbaab92",
+        "z": "9269b2b8a6a495f2",
+        "name": "D21",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "D21",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 660,
+        "wires": [
+            [
+                "2d9f4382913537f6"
+            ]
+        ]
+    },
+    {
+        "id": "84f9bd19ee7f7012",
+        "type": "inject",
+        "z": "e9865fb2815b4ca7",
+        "name": "SCAN AN",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "0.5",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 150,
+        "y": 60,
+        "wires": [
+            [
+                "9b620f87bd83f2a0",
+                "39055c2eaca5e860",
+                "b4bf9fbe7a8bc8c8",
+                "2548ae50f6a83920",
+                "d32b6a00fcd84f41",
+                "0e45766a7e701658"
+            ]
+        ]
+    },
+    {
+        "id": "9b620f87bd83f2a0",
+        "type": "subflow:e4aabb272e2e39d6",
+        "z": "e9865fb2815b4ca7",
+        "name": "A0",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "A0",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 60,
+        "wires": [
+            [
+                "4c7c41641d880348"
+            ]
+        ]
+    },
+    {
+        "id": "4c7c41641d880348",
+        "type": "ui_gauge",
+        "z": "e9865fb2815b4ca7",
+        "name": "A0",
+        "group": "7b79a46ec103fe9a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "A0",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "1023",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 450,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "39055c2eaca5e860",
+        "type": "subflow:e4aabb272e2e39d6",
+        "z": "e9865fb2815b4ca7",
+        "name": "A1",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "A1",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 120,
+        "wires": [
+            [
+                "1b26563337e7843c"
+            ]
+        ]
+    },
+    {
+        "id": "1b26563337e7843c",
+        "type": "ui_gauge",
+        "z": "e9865fb2815b4ca7",
+        "name": "A1",
+        "group": "7b79a46ec103fe9a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "A1",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "1023",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 450,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "b4bf9fbe7a8bc8c8",
+        "type": "subflow:e4aabb272e2e39d6",
+        "z": "e9865fb2815b4ca7",
+        "name": "A2",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "A2",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 180,
+        "wires": [
+            [
+                "055fd1cbe3242638"
+            ]
+        ]
+    },
+    {
+        "id": "055fd1cbe3242638",
+        "type": "ui_gauge",
+        "z": "e9865fb2815b4ca7",
+        "name": "A2",
+        "group": "7b79a46ec103fe9a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "A2",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "1023",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 450,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "2548ae50f6a83920",
+        "type": "subflow:e4aabb272e2e39d6",
+        "z": "e9865fb2815b4ca7",
+        "name": "A3",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "A3",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 240,
+        "wires": [
+            [
+                "f548b9022d1de41b"
+            ]
+        ]
+    },
+    {
+        "id": "f548b9022d1de41b",
+        "type": "ui_gauge",
+        "z": "e9865fb2815b4ca7",
+        "name": "A3",
+        "group": "7b79a46ec103fe9a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "A3",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "1023",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 450,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "d32b6a00fcd84f41",
+        "type": "subflow:e4aabb272e2e39d6",
+        "z": "e9865fb2815b4ca7",
+        "name": "A4",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "A0",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 300,
+        "wires": [
+            [
+                "6de87a6f83c274cb"
+            ]
+        ]
+    },
+    {
+        "id": "6de87a6f83c274cb",
+        "type": "ui_gauge",
+        "z": "e9865fb2815b4ca7",
+        "name": "A4",
+        "group": "7b79a46ec103fe9a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "A4",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "1023",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 450,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "0e45766a7e701658",
+        "type": "subflow:e4aabb272e2e39d6",
+        "z": "e9865fb2815b4ca7",
+        "name": "A5",
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "value": "A5",
+                "type": "str"
+            }
+        ],
+        "x": 310,
+        "y": 360,
+        "wires": [
+            [
+                "b3b7d8c3786c3ebc"
+            ]
+        ]
+    },
+    {
+        "id": "b3b7d8c3786c3ebc",
+        "type": "ui_gauge",
+        "z": "e9865fb2815b4ca7",
+        "name": "A5",
+        "group": "7b79a46ec103fe9a",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "A5",
+        "label": "units",
+        "format": "{{value}}",
+        "min": "0",
+        "max": "1023",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 450,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "954d029ee03b846e",
+        "type": "ui_text_input",
+        "z": "074b4682c77cbfea",
+        "name": "LedMatrix",
+        "label": "",
+        "tooltip": "",
+        "group": "b511a1a5c5e7c54d",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "mode": "text",
+        "delay": "0",
+        "topic": "topic",
+        "sendOnBlur": true,
+        "className": "",
+        "topicType": "msg",
+        "x": 100,
+        "y": 60,
+        "wires": [
+            [
+                "cad26d3dec4735e9"
+            ]
+        ]
+    },
+    {
+        "id": "cad26d3dec4735e9",
+        "type": "subflow:1dc079ef8e83671a",
+        "z": "074b4682c77cbfea",
+        "x": 310,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "93d0a2b33f0ccdcb",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-dashboard": "3.6.6",
+            "node-red-contrib-ui-led": "0.4.11"
+        }
+    }
+]

@@ -1,0 +1,650 @@
+[
+  {
+    "added_include_path": "/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": "Arduino_RouterBridge.h"
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": "Arduino_RPClite.h"
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RPClite/src",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RPClite/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": "Arduino_LED_Matrix.h"
+  },
+  {
+    "added_include_path": "/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_LED_Matrix/src",
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    }
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RPClite/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_LED_Matrix/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/ArduinoGraphics.cpp",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RPClite/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_LED_Matrix/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/ArduinoGraphics.cpp",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/Font_4x6.c",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RPClite/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_LED_Matrix/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/Font_4x6.c",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/Font_5x7.c",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RPClite/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_LED_Matrix/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/Font_5x7.c",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": ""
+  },
+  {
+    "compile": {
+      "source_path": "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/Image.cpp",
+      "depfile_path": "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/arm-zephyr-eabi-g++",
+        "-g",
+        "-Os",
+        "-std=gnu++17",
+        "-c",
+        "-w",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/generated/zephyr/autoconf.h",
+        "-imacros/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/llext-edk/include/zephyr/include/zephyr/toolchain/zephyr_stdint.h",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/cxxflags.txt",
+        "-fno-exceptions",
+        "-fno-rtti",
+        "-fno-threadsafe-statics",
+        "-fno-unwind-tables",
+        "-fno-use-cxa-atexit",
+        "-lstdc++",
+        "-lsupc++",
+        "-lnosys",
+        "-nostdlib",
+        "-lstdc++",
+        "-lsupc++",
+        "-fdata-sections",
+        "-ffunction-sections",
+        "-fno-unwind-tables",
+        "-mcpu=cortex-m33",
+        "-mfloat-abi=hard",
+        "-mfpu=fpv5-sp-d16",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DARDUINO=10607",
+        "-DARDUINO_UNO_Q",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_ARCH_ZEPHYR",
+        "-DARDUINO_LIBRARY_DISCOVERY_PHASE=1",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "-I/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src",
+        "-I/home/arduino/.arduino15/internal/ArxContainer_0.7.0_007f0bb2a1cdefe3/ArxContainer",
+        "-I/home/arduino/.arduino15/internal/ArxTypeTraits_0.3.1_d8d5e1cd9c0cd8d0/ArxTypeTraits",
+        "-I/home/arduino/.arduino15/internal/DebugLog_0.8.4_c199e2cf6415ecc8/DebugLog",
+        "-I/home/arduino/.arduino15/internal/MsgPack_0.4.2_a0d4adc5044d022c/MsgPack",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RouterBridge/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_RPClite/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/libraries/Arduino_LED_Matrix/src",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated",
+        "-I/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/cores/arduino/api/deprecated-avr-comp",
+        "-iprefix/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx",
+        "@/home/arduino/.arduino15/packages/arduino/hardware/zephyr/0.52.0/variants/arduino_uno_q_stm32u585xx/includes.txt",
+        "/home/arduino/.arduino15/internal/ArduinoGraphics_1.1.4_b90a1c54fcf876ad/ArduinoGraphics/src/Image.cpp",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "compile": {
+      "source_path": null,
+      "depfile_path": null
+    },
+    "missing_include_h": ""
+  }
+]

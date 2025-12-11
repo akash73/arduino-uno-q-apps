@@ -1,0 +1,79 @@
+[
+    {
+        "id": "96b361e736e798d5",
+        "type": "subflow",
+        "name": "UNOQ setIO",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "761148d02ffa1a89"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "type": "str",
+                "value": "",
+                "ui": {
+                    "icon": "font-awesome/fa-arrow-right",
+                    "type": "input",
+                    "opts": {
+                        "types": [
+                            "str"
+                        ]
+                    }
+                }
+            }
+        ],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "761148d02ffa1a89",
+        "type": "function",
+        "z": "96b361e736e798d5",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - msg.payload -> boolean (true / false)\n// - env.PIN_NAME -> string (e.g. \"D13\"), defined as Subflow Environment Variable\n\nif (typeof msg.payload !== \"boolean\") {\n    node.error(\"msg.payload must be boolean (true/false)\", msg);\n    return null;\n}\n\nconst pin = env.get(\"PIN_NAME\");\n\nif (typeof pin !== \"string\" || pin.length === 0) {\n    node.error(\"Subflow environment variable PIN_NAME must be a non-empty string\", msg);\n    return null;\n}\n\n// Build command object for Python TCP server\nconst cmd = {\n    cmd: \"set_io\",\n    pin: pin,\n    value: msg.payload\n};\n\n// Serialize JSON + newline (required by the TCP server)\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "e449637850d85d65"
+            ]
+        ]
+    },
+    {
+        "id": "e449637850d85d65",
+        "type": "tcp request",
+        "z": "96b361e736e798d5",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    }
+]

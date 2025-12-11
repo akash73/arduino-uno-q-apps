@@ -1,0 +1,2037 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o (std::__throw_length_error(char const*))
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Print::write(unsigned char const*, unsigned int))
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Stream::setTimeout(unsigned long))
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::String::String(arduino::String&&))
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o) (dtostrf)
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+                              (main)
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o (operator new(unsigned int))
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o) (start_static_threads())
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o (pinMode)
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o (Serial1)
+/home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+                              /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o) (map(long, long, long, long, long))
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data.logo     0x0000000000000000       0x68 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics4textERKN7arduino6StringEii
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics8textSizeEh
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphicsD0Ev
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics5widthEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics6heightEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics10backgroundEv
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics10backgroundEhhh
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics10backgroundEj
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics5clearEv
+                0x0000000000000000       0x36 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics5clearEii
+                0x0000000000000000       0x16 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics4fillEhhh
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics4fillEj
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics6noFillEv
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics6strokeEhhh
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text._ZN15ArduinoGraphics8noStrokeEv
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .data          0x0000000000000000      0x3fc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .rodata        0x0000000000000000      0x604 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .debug_info    0x0000000000000000       0xd8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .debug_abbrev  0x0000000000000000       0x7c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .debug_aranges
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .debug_line    0x0000000000000000      0x16d /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .debug_str     0x0000000000000000      0x295 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .text._ZN5ImageD2Ev
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .text._ZNK5ImagecvbEv
+                0x0000000000000000       0x22 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .text._ZN5ImageD0Ev
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .text._ZN5ImageC2Ev
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .text._ZN5ImageC2EiPKhii
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .text._ZN5ImageC2EiPKjii
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .rodata._ZTV5Image
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .text.analogReference
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_info    0x0000000000000000     0x15b3 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_abbrev  0x0000000000000000      0x31c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_loclists
+                0x0000000000000000       0x23 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x13 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_line    0x0000000000000000      0x3c1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_str     0x0000000000000000     0x1738 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .debug_frame   0x0000000000000000       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_deleted_virtual
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_atexit
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .data.__dso_handle
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKNS_19__FlashStringHelperE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEPKc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEc
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printERKNS_9PrintableE
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEPKc
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnERKNS_9PrintableE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print11printNumberEmh
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEli
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEii
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEii
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEli
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEmi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEhi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEhi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEji
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEji
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEmi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print14printULLNumberEyh
+                0x0000000000000000       0xfc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printExi
+                0x0000000000000000       0x5c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnExi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEyi
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEyi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZN7arduino5Print10printFloatEdi.str1.1
+                0x0000000000000000        0xe /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print10printFloatEdi
+                0x0000000000000000      0x1b4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print5printEdi
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text._ZN7arduino5Print7printlnEdi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata._ZTVN7arduino5PrintE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9timedPeekEv
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream13peekNextDigitENS_13LookaheadModeEb
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream8parseIntENS_13LookaheadModeEc
+                0x0000000000000000       0x70 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream10parseFloatENS_13LookaheadModeEc
+                0x0000000000000000      0x138 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream14readBytesUntilEcPcj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .rodata._ZN7arduino6Stream10readStringEv.str1.1
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream10readStringEv
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream15readStringUntilEc
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findMultiEPNS0_11MultiTargetEi
+                0x0000000000000000       0xa8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findUntilEPKcjS2_j
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findUntilEPKcS2_
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream4findEPKcj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream4findEPKc
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2EPKcj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String4copyEPKNS_19__FlashStringHelperEj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ec
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ehh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ejh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Elh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Emh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Efh
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Edh
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringaSEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2EPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKc.part.0
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKc
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEh
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEl
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEm
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEf
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEd
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperERKNS_6StringE
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEPKc
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEh
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEl
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEm
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEf
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEd
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String9compareToEPKc
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String16equalsIgnoreCaseERKS0_
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String10startsWithERKS0_j
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String10startsWithERKS0_
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8endsWithERKS0_
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String9setCharAtEjc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringixEj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6StringixEj
+                0x0000000000000000       0x12 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String6charAtEj
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8getBytesEPhjj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfEcj
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfEc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfERKS0_j
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfERKS0_
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfEcj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfEc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfERKS0_j
+                0x0000000000000000       0x54 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfERKS0_
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZNK7arduino6String9substringEjj.str1.1
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String9substringEjj
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String7replaceEcc
+                0x0000000000000000       0x16 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String7replaceERKS0_S2_
+                0x0000000000000000      0x12c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6removeEjj
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6removeEj
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String11toLowerCaseEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String11toUpperCaseEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String4trimEv
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String5toIntEv
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8toDoubleEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7toFloatEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .bss._ZZN7arduino6StringixEjE19dummy_writable_char
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZN7arduino6String22DBL_MAX_DECIMAL_PLACESE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZN7arduino6String22FLT_MAX_DECIMAL_PLACESE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .rodata.dtostrf.str1.1
+                0x0000000000000000        0x9 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.dtostrf  0x0000000000000000       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.ultoa    0x0000000000000000       0x64 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.utoa     0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .text._Z10__loopHookv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .entry_point   0x0000000000000000       0xb8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znaj    0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_tSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_tRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajPv  0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvj  0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .rodata._ZSt7nothrow
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_123find_gpio_port_callbackEPK6device
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_119setInterruptHandlerEhPFvvE
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_118handleGpioCallbackEPK6deviceP13gpio_callbackj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z14tone_expiry_cbP7k_timer
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z4tonehjm
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6noToneh
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z15tone_timeout_cbP7k_timer
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.micros   0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogWrite
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z11analogWrite7dacPinsi
+                0x0000000000000000       0x68 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogReference
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10randomSeedm
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randomll
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randoml
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.enableInterrupt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.attachInterrupt
+                0x0000000000000000       0xb4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.disableInterrupt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.detachInterrupt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10interruptsv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z12noInterruptsv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21digitalPinToInterrupth
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata.CSWTCH.111
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL24_analog_write_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers_timeout
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L19interrupts_disabledE
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L7irq_keyE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L10dac_ch_cfgE
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L16arduino_pwm_pinsE
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_pwmE
+                0x0000000000000000       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_113port_callbackE
+                0x0000000000000000      0x534 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z11serialEventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z12serial1Eventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino14serialEventRunEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z3maplllll
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordt
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordhh
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_info    0x0000000000000000      0x168 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_abbrev  0x0000000000000000       0xc1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_loclists
+                0x0000000000000000       0x51 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_rnglists
+                0x0000000000000000       0x1f /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_line    0x0000000000000000      0x1b6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_str     0x0000000000000000      0x370 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_frame   0x0000000000000000       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Common.cpp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+LOAD /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+LOAD /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+LOAD /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_4x6.c.o
+LOAD /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+LOAD /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+LOAD /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/analogReference.cpp.o
+START GROUP
+LOAD /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+END GROUP
+
+/DISCARD/
+ *(.ARM.attributes)
+ *(.ARM.attributes.*)
+ *(.ARM.exidx)
+ *(.ARM.exidx.*)
+ *(.ARM.extidx)
+ *(.ARM.extidx.*)
+ *(.ARM.extab)
+ *(.ARM.extab.*)
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+ *(.eh_frame)
+ *stdexcept.o()
+ *eh_*.o()
+ *cow-stdexcept.o()
+ *functexcept.o()
+ *cow-string-inst.o()
+
+.text           0x0000000000000000     0x6690
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000000                arduino::Print::availableForWrite()
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000004        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000004                arduino::Print::flush()
+ .text._ZN15SerialTransport9availableEv
+                0x0000000000000006       0x12 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000006                SerialTransport::available()
+ .text._ZN15SerialTransport5writeEPKhj
+                0x0000000000000018       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000018                SerialTransport::write(unsigned char const*, unsigned int)
+ .text._ZN15ArduinoGraphics4textERKN7arduino6StringEii
+                0x0000000000000028       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000028                ArduinoGraphics::text(arduino::String const&, int, int)
+ .text._ZN15ArduinoGraphics8textSizeEh
+                0x0000000000000038        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000038                ArduinoGraphics::textSize(unsigned char)
+ .text._ZN18Arduino_LED_Matrix3setEiihhh
+                0x0000000000000040       0x2a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000040                Arduino_LED_Matrix::set(int, int, unsigned char, unsigned char, unsigned char)
+ .text._ZN15SerialTransportD2Ev
+                0x000000000000006a        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000006a                SerialTransport::~SerialTransport()
+                0x000000000000006a                SerialTransport::~SerialTransport()
+ .text._ZN13BridgeMonitorILj512EE5writeEh
+                0x000000000000006c       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000006c                BridgeMonitor<512u>::write(unsigned char)
+ .text.k_yield  0x0000000000000084        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.__tcf_1  0x000000000000008c       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN15SerialTransportD0Ev
+                0x000000000000009c       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000009c                SerialTransport::~SerialTransport()
+ .text._ZN15SerialTransport4readEPhj
+                0x00000000000000b0       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000b0                SerialTransport::read(unsigned char*, unsigned int)
+ .text._ZN15SerialTransport9read_byteERh
+                0x00000000000000d8       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000d8                SerialTransport::read_byte(unsigned char&)
+ .text.k_mutex_lock
+                0x00000000000000f8        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._Z10set_all_iob
+                0x0000000000000100       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000100                set_all_io(bool)
+ .text._ZL9findIndexPKc
+                0x0000000000000124       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._Z15set_pin_by_nameN7arduino6StringEb
+                0x0000000000000150       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000150                set_pin_by_name(arduino::String, bool)
+ .text._Z15get_pin_by_nameN7arduino6StringE
+                0x0000000000000180       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000180                get_pin_by_name(arduino::String)
+ .text._Z18get_an_pin_by_nameN7arduino6StringE
+                0x00000000000001a8       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001a8                get_an_pin_by_name(arduino::String)
+ .text._ZN18Arduino_LED_Matrix5beginEv
+                0x00000000000001cc       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001cc                Arduino_LED_Matrix::begin()
+ .text._ZN18Arduino_LED_Matrix3endEv
+                0x00000000000001dc        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001dc                Arduino_LED_Matrix::end()
+ .text._ZN18Arduino_LED_MatrixD2Ev
+                0x00000000000001e4       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001e4                Arduino_LED_Matrix::~Arduino_LED_Matrix()
+                0x00000000000001e4                Arduino_LED_Matrix::~Arduino_LED_Matrix()
+ .text._ZN18Arduino_LED_MatrixD0Ev
+                0x00000000000001fc       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001fc                Arduino_LED_Matrix::~Arduino_LED_Matrix()
+ .text._ZNSt17_Function_handlerIFvN7arduino6StringEEPS2_E10_M_managerERSt9_Any_dataRKS5_St18_Manager_operation
+                0x0000000000000218       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000218                std::_Function_handler<void (arduino::String), void (*)(arduino::String)>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+ .text._ZNSt17_Function_handlerIFvN7arduino6StringEEPS2_E9_M_invokeERKSt9_Any_dataOS1_
+                0x0000000000000248       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000248                std::_Function_handler<void (arduino::String), void (*)(arduino::String)>::_M_invoke(std::_Any_data const&, arduino::String&&)
+ .text._ZNSt17_Function_handlerIFvbEPS0_E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation
+                0x0000000000000268       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000268                std::_Function_handler<void (bool), void (*)(bool)>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+ .text._ZNSt17_Function_handlerIFvbEPS0_E9_M_invokeERKSt9_Any_dataOb
+                0x0000000000000298        0x6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000298                std::_Function_handler<void (bool), void (*)(bool)>::_M_invoke(std::_Any_data const&, bool&&)
+ *fill*         0x000000000000029e        0x2 
+ .text._ZNSt17_Function_handlerIFiN7arduino6StringEEPS2_E10_M_managerERSt9_Any_dataRKS5_St18_Manager_operation
+                0x00000000000002a0       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002a0                std::_Function_handler<int (arduino::String), int (*)(arduino::String)>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+ .text._ZNSt17_Function_handlerIFiN7arduino6StringEEPS2_E9_M_invokeERKSt9_Any_dataOS1_
+                0x00000000000002d0       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002d0                std::_Function_handler<int (arduino::String), int (*)(arduino::String)>::_M_invoke(std::_Any_data const&, arduino::String&&)
+ .text._ZNSt17_Function_handlerIFbN7arduino6StringEEPS2_E10_M_managerERSt9_Any_dataRKS5_St18_Manager_operation
+                0x00000000000002f4       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002f4                std::_Function_handler<bool (arduino::String), bool (*)(arduino::String)>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+ .text._ZNSt17_Function_handlerIFbN7arduino6StringEEPS2_E9_M_invokeERKSt9_Any_dataOS1_
+                0x0000000000000324       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000324                std::_Function_handler<bool (arduino::String), bool (*)(arduino::String)>::_M_invoke(std::_Any_data const&, arduino::String&&)
+ .text._ZNSt17_Function_handlerIFvN7arduino6StringEbEPS2_E10_M_managerERSt9_Any_dataRKS5_St18_Manager_operation
+                0x0000000000000348       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000348                std::_Function_handler<void (arduino::String, bool), void (*)(arduino::String, bool)>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+ .text._ZNSt17_Function_handlerIFvN7arduino6StringEbEPS2_E9_M_invokeERKSt9_Any_dataOS1_Ob
+                0x0000000000000378       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000378                std::_Function_handler<void (arduino::String, bool), void (*)(arduino::String, bool)>::_M_invoke(std::_Any_data const&, arduino::String&&, bool&&)
+ .text._ZSt14__relocate_a_1IhhENSt9enable_ifIXsrSt24__is_bitwise_relocatableIT_vE5valueEPS2_E4typeES4_S4_S4_RSaIT0_E.isra.0
+                0x00000000000003a0       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN13DispatchEntryaSEOS_.isra.0
+                0x00000000000003c0       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt12_Vector_baseIhSaIhEE11_M_allocateEj.isra.0
+                0x00000000000003e0       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.k_mutex_unlock.isra.0
+                0x0000000000000400        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN13BridgeMonitorILj512EE4readEv
+                0x0000000000000408       0x64 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000408                BridgeMonitor<512u>::read()
+ .text._ZN13BridgeMonitorILj512EE4peekEv
+                0x000000000000046c       0x44 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000046c                BridgeMonitor<512u>::peek()
+ .text.k_msleep.constprop.0.isra.0
+                0x00000000000004b0        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt14_Function_baseD2Ev
+                0x00000000000004bc       0x12 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000004bc                std::_Function_base::~_Function_base()
+                0x00000000000004bc                std::_Function_base::~_Function_base()
+ *fill*         0x00000000000004ce        0x2 
+ .text._ZN18RpcFunctionWrapperISt8functionIFvN7arduino6StringEbEEED2Ev
+                0x00000000000004d0       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000004d0                RpcFunctionWrapper<std::function<void (arduino::String, bool)> >::~RpcFunctionWrapper()
+                0x00000000000004d0                RpcFunctionWrapper<std::function<void (arduino::String, bool)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFvN7arduino6StringEbEEED0Ev
+                0x00000000000004ec       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000004ec                RpcFunctionWrapper<std::function<void (arduino::String, bool)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFbN7arduino6StringEEEED2Ev
+                0x0000000000000508       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000508                RpcFunctionWrapper<std::function<bool (arduino::String)> >::~RpcFunctionWrapper()
+                0x0000000000000508                RpcFunctionWrapper<std::function<bool (arduino::String)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFbN7arduino6StringEEEED0Ev
+                0x0000000000000524       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000524                RpcFunctionWrapper<std::function<bool (arduino::String)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFiN7arduino6StringEEEED2Ev
+                0x0000000000000540       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000540                RpcFunctionWrapper<std::function<int (arduino::String)> >::~RpcFunctionWrapper()
+                0x0000000000000540                RpcFunctionWrapper<std::function<int (arduino::String)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFiN7arduino6StringEEEED0Ev
+                0x000000000000055c       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000055c                RpcFunctionWrapper<std::function<int (arduino::String)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFvbEEED2Ev
+                0x0000000000000578       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000578                RpcFunctionWrapper<std::function<void (bool)> >::~RpcFunctionWrapper()
+                0x0000000000000578                RpcFunctionWrapper<std::function<void (bool)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFvbEEED0Ev
+                0x0000000000000594       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000594                RpcFunctionWrapper<std::function<void (bool)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFvN7arduino6StringEEEED2Ev
+                0x00000000000005b0       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000005b0                RpcFunctionWrapper<std::function<void (arduino::String)> >::~RpcFunctionWrapper()
+                0x00000000000005b0                RpcFunctionWrapper<std::function<void (arduino::String)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFvN7arduino6StringEEEED0Ev
+                0x00000000000005cc       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000005cc                RpcFunctionWrapper<std::function<void (arduino::String)> >::~RpcFunctionWrapper()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeEv
+                0x00000000000005e8       0x16 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000005e8                arduino::msgpack::Unpacker::deserialize()
+ .text._ZN7arduino7msgpack8Unpacker5clearEv
+                0x00000000000005fe       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000005fe                arduino::msgpack::Unpacker::clear()
+ .text._ZNK7arduino7msgpack8Unpacker13getRawBytePtrEjj
+                0x0000000000000612       0x1e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000612                arduino::msgpack::Unpacker::getRawBytePtr(unsigned int, unsigned int) const
+ .text._ZN8RpcErrorC2Ev
+                0x0000000000000630       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000630                RpcError::RpcError()
+                0x0000000000000630                RpcError::RpcError()
+ .text._ZN13DispatchEntryD2Ev
+                0x000000000000065c       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000065c                DispatchEntry::~DispatchEntry()
+                0x000000000000065c                DispatchEntry::~DispatchEntry()
+ .text._ZN7arduino7msgpack8UnpackerC2Ev
+                0x0000000000000674       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000674                arduino::msgpack::Unpacker::Unpacker()
+                0x0000000000000674                arduino::msgpack::Unpacker::Unpacker()
+ .text._ZN10RPCRequestILj256EEC2Ev
+                0x0000000000000684       0x4c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000684                RPCRequest<256u>::RPCRequest()
+                0x0000000000000684                RPCRequest<256u>::RPCRequest()
+ .text._ZN18Arduino_LED_Matrix9loadFrameEPKj
+                0x00000000000006d0       0x68 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000006d0                Arduino_LED_Matrix::loadFrame(unsigned int const*)
+ .text._ZN18Arduino_LED_Matrix18loadPixelsToBufferEPhjPj
+                0x0000000000000738       0x46 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000738                Arduino_LED_Matrix::loadPixelsToBuffer(unsigned char*, unsigned int, unsigned int*)
+ .text.loop     0x000000000000077e        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000077e                loop
+ .text._ZNSt12_Vector_baseIhSaIhEED2Ev
+                0x0000000000000780       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000780                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+                0x0000000000000780                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+ .text.__tcf_3  0x0000000000000798       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.__tcf_2  0x00000000000007ac       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt6vectorIhSaIhEE14_M_move_assignEOS1_St17integral_constantIbLb1EE.isra.0
+                0x00000000000007c0       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIhEET_jj
+                0x00000000000007f4       0x1e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000007f4                unsigned char arduino::msgpack::Unpacker::getRawBytes<unsigned char>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000812        0x2 
+ .text._ZNK7arduino7msgpack8Unpacker7getTypeEj
+                0x0000000000000814       0x58 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000814                arduino::msgpack::Unpacker::getType(unsigned int) const
+ .text._ZNK7arduino7msgpack8Unpacker7getTypeEv
+                0x000000000000086c       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000086c                arduino::msgpack::Unpacker::getType() const
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt32Ev
+                0x000000000000087c       0x58 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000087c                arduino::msgpack::Unpacker::unpackInt32()
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt64Ev
+                0x00000000000008d4       0x60 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000008d4                arduino::msgpack::Unpacker::unpackInt64()
+ .text._ZN7arduino7msgpack8Unpacker9unpackNilEv
+                0x0000000000000934       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000934                arduino::msgpack::Unpacker::unpackNil()
+ .text._ZNK7arduino7msgpack8Unpacker7isArrayEv
+                0x0000000000000970       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000970                arduino::msgpack::Unpacker::isArray() const
+ .text._ZNK7arduino7msgpack8Unpacker5isStrEv
+                0x0000000000000990       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000990                arduino::msgpack::Unpacker::isStr() const
+ .text._ZNK7arduino7msgpack8Unpacker5isMapEv
+                0x00000000000009b0       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009b0                arduino::msgpack::Unpacker::isMap() const
+ .text._ZNK7arduino7msgpack8Unpacker5isIntEv
+                0x00000000000009d0       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009d0                arduino::msgpack::Unpacker::isInt() const
+ .text._ZNK7arduino7msgpack8Unpacker6isUIntEv
+                0x00000000000009f0       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000009f0                arduino::msgpack::Unpacker::isUInt() const
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt16Ev
+                0x0000000000000a10       0x4c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000a10                arduino::msgpack::Unpacker::unpackInt16()
+ .text._ZN7arduino7msgpack8Unpacker13unpackFloat32Ev
+                0x0000000000000a5c       0x60 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000a5c                arduino::msgpack::Unpacker::unpackFloat32()
+ *fill*         0x0000000000000abc        0x4 
+ .text._ZN7arduino7msgpack8Unpacker13unpackFloat64Ev
+                0x0000000000000ac0       0x6c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ac0                arduino::msgpack::Unpacker::unpackFloat64()
+ .text._ZN7arduino7msgpack8Unpacker10unpackInt5Ev
+                0x0000000000000b2c       0x4c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000b2c                arduino::msgpack::Unpacker::unpackInt5()
+ .text._ZN7arduino7msgpack8Unpacker11unpackUInt7Ev
+                0x0000000000000b78       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000b78                arduino::msgpack::Unpacker::unpackUInt7()
+ .text._ZN7arduino7msgpack8Unpacker11unpackUInt8Ev
+                0x0000000000000bc0       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000bc0                arduino::msgpack::Unpacker::unpackUInt8()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesItEET_jj
+                0x0000000000000c08       0x26 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c08                unsigned short arduino::msgpack::Unpacker::getRawBytes<unsigned short>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000c2e        0x2 
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt16Ev
+                0x0000000000000c30       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c30                arduino::msgpack::Unpacker::unpackUInt16()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIjEET_jj
+                0x0000000000000c78       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c78                unsigned int arduino::msgpack::Unpacker::getRawBytes<unsigned int>(unsigned int, unsigned int) const
+ .text._ZNK7arduino7msgpack8Unpacker14getElementSizeEj
+                0x0000000000000cac      0x11c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000cac                arduino::msgpack::Unpacker::getElementSize(unsigned int) const
+ .text._ZN7arduino7msgpack8Unpacker15unpackArraySizeEv
+                0x0000000000000dc8       0x78 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000dc8                arduino::msgpack::Unpacker::unpackArraySize()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJEEEbRT_DpOT0_.isra.0
+                0x0000000000000e40       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt32Ev
+                0x0000000000000e80       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000e80                arduino::msgpack::Unpacker::unpackUInt32()
+ .text._ZN7arduino7msgpack8Unpacker13unpackMapSizeEv
+                0x0000000000000ec8       0x78 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ec8                arduino::msgpack::Unpacker::unpackMapSize()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIyEET_jj
+                0x0000000000000f40       0x3a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000f40                unsigned long long arduino::msgpack::Unpacker::getRawBytes<unsigned long long>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000f7a        0x2 
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt64Ev
+                0x0000000000000f7c       0x4c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000f7c                arduino::msgpack::Unpacker::unpackUInt64()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIaEET_jj
+                0x0000000000000fc8       0x1e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000fc8                signed char arduino::msgpack::Unpacker::getRawBytes<signed char>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000fe6        0x2 
+ .text._ZN7arduino7msgpack8Unpacker10unpackInt8Ev
+                0x0000000000000fe8       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000fe8                arduino::msgpack::Unpacker::unpackInt8()
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp32Ev
+                0x0000000000001030       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001030                arduino::msgpack::Unpacker::isTimestamp32() const
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp64Ev
+                0x000000000000105c       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000105c                arduino::msgpack::Unpacker::isTimestamp64() const
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp96Ev
+                0x0000000000001088       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001088                arduino::msgpack::Unpacker::isTimestamp96() const
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIcEET_jj
+                0x00000000000010c8       0x1e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000010c8                char arduino::msgpack::Unpacker::getRawBytes<char>(unsigned int, unsigned int) const
+ *fill*         0x00000000000010e6        0x2 
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_6object5nil_tEJEEEbRT_DpOT0_
+                0x00000000000010e8       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000010e8                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::object::nil_t>(arduino::msgpack::object::nil_t&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIbJEEEbRT_DpOT0_
+                0x0000000000001128       0x68 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001128                bool arduino::msgpack::Unpacker::deserialize<bool>(bool&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS_6StringEJEEEbRT_DpOT0_
+                0x0000000000001190      0x174 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001190                bool arduino::msgpack::Unpacker::deserialize<arduino::String>(arduino::String&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_6object8timespecEJEEEbRT_DpOT0_
+                0x0000000000001304       0xc4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001304                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::object::timespec>(arduino::msgpack::object::timespec&)
+ .text._ZN17RpcDecoderManagerILj3EE10getDecoderER10ITransport
+                0x00000000000013c8       0x74 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000013c8                RpcDecoderManager<3u>::getDecoder(ITransport&)
+ .text._ZNSt12_Vector_baseIjSaIjEED2Ev
+                0x000000000000143c       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000143c                std::_Vector_base<unsigned int, std::allocator<unsigned int> >::~_Vector_base()
+                0x000000000000143c                std::_Vector_base<unsigned int, std::allocator<unsigned int> >::~_Vector_base()
+ .text._ZN10RPCRequestILj256EED2Ev
+                0x0000000000001454       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001454                RPCRequest<256u>::~RPCRequest()
+                0x0000000000001454                RPCRequest<256u>::~RPCRequest()
+ .text._ZNSt6vectorIjSaIjEE17_M_realloc_insertIJRjEEEvN9__gnu_cxx17__normal_iteratorIPjS1_EEDpOT_
+                0x0000000000001480       0xdc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001480                void std::vector<unsigned int, std::allocator<unsigned int> >::_M_realloc_insert<unsigned int&>(__gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > >, unsigned int&)
+ .text._ZN7arduino7msgpack8Unpacker4feedEPKhj
+                0x000000000000155c       0x78 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000155c                arduino::msgpack::Unpacker::feed(unsigned char const*, unsigned int)
+ .text._ZNKSt6vectorIhSaIhEE12_M_check_lenEjPKc
+                0x00000000000015d4       0x38 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000015d4                std::vector<unsigned char, std::allocator<unsigned char> >::_M_check_len(unsigned int, char const*) const
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJRKhEEERhDpOT_.isra.0
+                0x000000000000160c       0x90 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJhEEERhDpOT_.isra.0
+                0x000000000000169c       0x90 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack8Unpacker11deserializeISt6vectorIhSaIhEEJEEEbRT_DpOT0_
+                0x000000000000172c      0x13c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000172c                bool arduino::msgpack::Unpacker::deserialize<std::vector<unsigned char, std::allocator<unsigned char> >>(std::vector<unsigned char, std::allocator<unsigned char> >&)
+ .text._ZN7arduino7msgpack6Packer11packRawByteERKNS0_4TypeE.isra.0
+                0x0000000000001868       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer7packNilEv
+                0x0000000000001880       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001880                arduino::msgpack::Packer::packNil()
+ .text._ZN7arduino7msgpack6Packer9packUInt8Eh
+                0x0000000000001898       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001898                arduino::msgpack::Packer::packUInt8(unsigned char)
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJRhEEES3_DpOT_.isra.0
+                0x00000000000018c4       0x90 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer15packRawReversedIjEEvRKT_
+                0x0000000000001954       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001954                void arduino::msgpack::Packer::packRawReversed<unsigned int>(unsigned int const&)
+ .text._ZN7arduino7msgpack6Packer10packUInt32Ej
+                0x0000000000001970       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001970                arduino::msgpack::Packer::packUInt32(unsigned int)
+ .text._ZN7arduino7msgpack6Packer15packRawReversedItEEvRKT_
+                0x0000000000001998       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001998                void arduino::msgpack::Packer::packRawReversed<unsigned short>(unsigned short const&)
+ .text._ZN7arduino7msgpack6Packer13packArraySizeEj
+                0x00000000000019b4       0x58 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000019b4                arduino::msgpack::Packer::packArraySize(unsigned int)
+ .text._ZN7arduino7msgpack6Packer10packUInt16Et
+                0x0000000000001a0c       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001a0c                arduino::msgpack::Packer::packUInt16(unsigned short)
+ .text._ZN7arduino7msgpack6Packer11packIntegerIjEENSt9enable_ifIXaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valueEvE4typeERKS5_.isra.0
+                0x0000000000001a38       0x50 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer11packIntegerIiEENSt9enable_ifIXaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valueEvE4typeERKS5_.isra.0
+                0x0000000000001a88       0xb8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer12packRawBytesEPKcj
+                0x0000000000001b40       0x9c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001b40                arduino::msgpack::Packer::packRawBytes(char const*, unsigned int)
+ .text._ZN7arduino7msgpack6Packer4packERKNS_6StringE
+                0x0000000000001bdc       0x7c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001bdc                arduino::msgpack::Packer::pack(arduino::String const&)
+ .text._ZN7arduino7msgpack6Packer9serializeIJRKiRjRKNS_6StringEEEEvRKNS0_4type9ArraySizeEDpOT_.isra.0
+                0x0000000000001c58       0x38 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer9serializeI8RpcErrorJRNS0_6object5nil_tEEEENSt9enable_ifIXoooontsrSt10is_pointerIT_E5valuesrSt7is_sameIS9_PKcE5valuesrSB_IS9_PKNS_19__FlashStringHelperEE5valueEvE4typeERKS9_DpOT0_.constprop.0
+                0x0000000000001c90       0x38 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN18RpcFunctionWrapperISt8functionIFvN7arduino6StringEbEEEclERNS1_7msgpack8UnpackerERNS6_6PackerE
+                0x0000000000001cc8      0x174 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001cc8                RpcFunctionWrapper<std::function<void (arduino::String, bool)> >::operator()(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN18RpcFunctionWrapperISt8functionIFvbEEEclERN7arduino7msgpack8UnpackerERNS5_6PackerE
+                0x0000000000001e3c      0x12c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001e3c                RpcFunctionWrapper<std::function<void (bool)> >::operator()(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN7arduino7msgpack8Unpacker9unpackIntIiEENSt9enable_ifIXaaaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valuesrSt9is_signedIS5_E5valueES5_E4typeEv
+                0x0000000000001f68       0xd0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001f68                std::enable_if<(((std::is_arithmetic<int>::value&&std::is_integral<int>::value)&&(!std::is_same<int, bool>::value))&&(!std::is_same<std::remove_cv<int>::type, char*>::value))&&std::is_signed<int>::value, int>::type arduino::msgpack::Unpacker::unpackInt<int>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIiJEEEbRT_DpOT0_
+                0x0000000000002038       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002038                bool arduino::msgpack::Unpacker::deserialize<int>(int&)
+ .text._ZN7arduino7msgpack8Unpacker11unpackFloatIfEENSt9enable_ifIXaasrSt13is_arithmeticIT_E5valuesrSt17is_floating_pointIS5_E5valueES5_E4typeEv
+                0x0000000000002078      0x118 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002078                std::enable_if<std::is_arithmetic<float>::value&&std::is_floating_point<float>::value, float>::type arduino::msgpack::Unpacker::unpackFloat<float>()
+ .text._ZN7arduino7msgpack8Unpacker11unpackFloatIdEENSt9enable_ifIXaasrSt13is_arithmeticIT_E5valuesrSt17is_floating_pointIS5_E5valueES5_E4typeEv
+                0x0000000000002190      0x118 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002190                std::enable_if<std::is_arithmetic<double>::value&&std::is_floating_point<double>::value, double>::type arduino::msgpack::Unpacker::unpackFloat<double>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJRiEEEbRT_DpOT0_
+                0x00000000000022a8       0x44 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000022a8                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::type::ArraySize, int&>(arduino::msgpack::type::ArraySize&, int&)
+ .text._ZNK10RpcDecoderILj1024EE4sendEPKhj
+                0x00000000000022ec       0x22 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000022ec                RpcDecoder<1024u>::send(unsigned char const*, unsigned int) const
+ *fill*         0x000000000000230e        0x2 
+ .text._ZN9RPCClient8send_rpcIJRKN7arduino6StringEEEEbS4_RjDpOT_.isra.0
+                0x0000000000002310       0x84 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN9RPCClient8send_rpcIJEEEbRKN7arduino6StringERjDpOT_.isra.0
+                0x0000000000002394       0x74 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN9RPCClient8send_rpcIJRKjEEEbRKN7arduino6StringERjDpOT_.isra.0
+                0x0000000000002408       0x84 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNK9RPCServer13send_responseILj256EEEbRK10RPCRequestIXT_EE.isra.0
+                0x000000000000248c       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN10RpcDecoderILj1024EE7consumeEjj
+                0x00000000000024b0       0x36 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000024b0                RpcDecoder<1024u>::consume(unsigned int, unsigned int)
+ *fill*         0x00000000000024e6        0x2 
+ .text._ZN10RpcDecoderILj1024EE7discardEv
+                0x00000000000024e8       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000024e8                RpcDecoder<1024u>::discard()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeI8RpcErrorJRNS0_6object5nil_tEEEEbRT_DpOT0_
+                0x0000000000002514       0x90 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002514                bool arduino::msgpack::Unpacker::deserialize<RpcError, arduino::msgpack::object::nil_t&>(RpcError&, arduino::msgpack::object::nil_t&)
+ .text._ZNK21RpcFunctionDispatcherILj100EE7isBoundERKN7arduino6StringE
+                0x00000000000025a4       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000025a4                RpcFunctionDispatcher<100u>::isBound(arduino::String const&) const
+ .text._ZN7arduino7msgpack8Unpacker10unpackUIntIjEENSt9enable_ifIXaaaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valuentsrSt9is_signedIS5_E5valueES5_E4typeEv
+                0x00000000000025d8       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000025d8                std::enable_if<(((std::is_arithmetic<unsigned int>::value&&std::is_integral<unsigned int>::value)&&(!std::is_same<unsigned int, bool>::value))&&(!std::is_same<std::remove_cv<unsigned int>::type, char*>::value))&&(!std::is_signed<unsigned int>::value), unsigned int>::type arduino::msgpack::Unpacker::unpackUInt<unsigned int>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIjJRNS_6StringEEEEbRT_DpOT0_
+                0x0000000000002658       0x44 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002658                bool arduino::msgpack::Unpacker::deserialize<unsigned int, arduino::String&>(unsigned int&, arduino::String&)
+ .text._ZN10RpcDecoderILj1024EE16fetch_rpc_methodEv
+                0x000000000000269c       0xe8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000269c                RpcDecoder<1024u>::fetch_rpc_method()
+ .text._ZN10RPCRequestILj256EE22unpack_request_headersEv
+                0x0000000000002784       0xb8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002784                RPCRequest<256u>::unpack_request_headers()
+ .text._ZN9RPCServer15process_requestILj256EEEvR10RPCRequestIXT_EE
+                0x000000000000283c      0x114 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000283c                void RPCServer::process_request<256u>(RPCRequest<256u>&)
+ .text._ZNSt14_Function_baseC2Ev
+                0x0000000000002950        0xa /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002950                std::_Function_base::_Function_base()
+                0x0000000000002950                std::_Function_base::_Function_base()
+ *fill*         0x000000000000295a        0x2 
+ .text._Z4wrapIRFvN7arduino6StringEbESt8functionIS2_EEP18RpcFunctionWrapperIT0_EOT_
+                0x000000000000295c       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000295c                RpcFunctionWrapper<std::function<void (arduino::String, bool)> >* wrap<void (&)(arduino::String, bool), std::function<void (arduino::String, bool)> >(void (&)(arduino::String, bool))
+ .text._Z4wrapIRFbN7arduino6StringEESt8functionIS2_EEP18RpcFunctionWrapperIT0_EOT_
+                0x00000000000029dc       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000029dc                RpcFunctionWrapper<std::function<bool (arduino::String)> >* wrap<bool (&)(arduino::String), std::function<bool (arduino::String)> >(bool (&)(arduino::String))
+ .text._Z4wrapIRFiN7arduino6StringEESt8functionIS2_EEP18RpcFunctionWrapperIT0_EOT_
+                0x0000000000002a5c       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002a5c                RpcFunctionWrapper<std::function<int (arduino::String)> >* wrap<int (&)(arduino::String), std::function<int (arduino::String)> >(int (&)(arduino::String))
+ .text._Z4wrapIRFvbESt8functionIS0_EEP18RpcFunctionWrapperIT0_EOT_
+                0x0000000000002adc       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002adc                RpcFunctionWrapper<std::function<void (bool)> >* wrap<void (&)(bool), std::function<void (bool)> >(void (&)(bool))
+ .text._Z4wrapIRFvN7arduino6StringEESt8functionIS2_EEP18RpcFunctionWrapperIT0_EOT_
+                0x0000000000002b5c       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002b5c                RpcFunctionWrapper<std::function<void (arduino::String)> >* wrap<void (&)(arduino::String), std::function<void (arduino::String)> >(void (&)(arduino::String))
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIjJEEEbRT_DpOT0_
+                0x0000000000002bdc       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002bdc                bool arduino::msgpack::Unpacker::deserialize<unsigned int>(unsigned int&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJRiRjEEEbRT_DpOT0_
+                0x0000000000002c1c       0x78 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002c1c                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::type::ArraySize, int&, unsigned int&>(arduino::msgpack::type::ArraySize&, int&, unsigned int&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError
+                0x0000000000002c94      0x168 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002c94                bool RpcDecoder<1024u>::get_response<arduino::msgpack::object::nil_t>(unsigned int, arduino::msgpack::object::nil_t&, RpcError&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIbEEbjRT_R8RpcError
+                0x0000000000002dfc      0x168 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002dfc                bool RpcDecoder<1024u>::get_response<bool>(unsigned int, bool&, RpcError&)
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x0000000000002f64       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002f64                unsigned char* std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZNSt11__copy_moveILb1ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x0000000000002f80       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002f80                unsigned char* std::__copy_move<true, true, std::random_access_iterator_tag>::__copy_m<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZN7arduino7msgpack6object3extC2EaPKhj
+                0x0000000000002f9c      0x104 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002f9c                arduino::msgpack::object::ext::ext(signed char, unsigned char const*, unsigned int)
+                0x0000000000002f9c                arduino::msgpack::object::ext::ext(signed char, unsigned char const*, unsigned int)
+ .text._ZN7arduino7msgpack8Unpacker9unpackExtEv
+                0x00000000000030a0      0x178 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000030a0                arduino::msgpack::Unpacker::unpackExt()
+ .text._ZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerE
+                0x0000000000003218      0x290 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003218                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)
+ .text._ZN10RpcDecoderILj1024EE12parse_packetEv
+                0x00000000000034a8       0xf8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000034a8                RpcDecoder<1024u>::parse_packet()
+ .text._ZN10RpcDecoderILj1024EE6decodeEv
+                0x00000000000035a0       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000035a0                RpcDecoder<1024u>::decode()
+ .text._ZN9RPCServer7get_rpcILj256EEEbR10RPCRequestIXT_EEN7arduino6StringE
+                0x00000000000035e0       0xc4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000035e0                bool RPCServer::get_rpc<256u>(RPCRequest<256u>&, arduino::String)
+ .text._ZN11BridgeClass11update_safeEv
+                0x00000000000036a4       0xb0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000036a4                BridgeClass::update_safe()
+ .text._Z10__loopHookv
+                0x0000000000003754       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003754                __loopHook()
+ .text._ZN11BridgeClass6updateEv
+                0x0000000000003774       0xb0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003774                BridgeClass::update()
+ .text._Z16updateEntryPointPvS_S_
+                0x0000000000003824       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003824                updateEntryPoint(void*, void*, void*)
+ .text._ZN9RPCClient12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError
+                0x0000000000003848       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003848                bool RPCClient::get_response<arduino::msgpack::object::nil_t>(unsigned int, arduino::msgpack::object::nil_t&, RpcError&)
+ .text._ZN9RpcResultIJRKN7arduino6StringEEED2Ev
+                0x0000000000003888       0xa0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003888                RpcResult<arduino::String const&>::~RpcResult()
+                0x0000000000003888                RpcResult<arduino::String const&>::~RpcResult()
+ .text._ZN9RPCClient12get_responseIbEEbjRT_R8RpcError
+                0x0000000000003928       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003928                bool RPCClient::get_response<bool>(unsigned int, bool&, RpcError&)
+ .text._ZN9RpcResultIJRKN7arduino6StringEEE6resultIbEEbRT_
+                0x0000000000003968       0x90 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003968                bool RpcResult<arduino::String const&>::result<bool>(bool&)
+ .text.setup    0x00000000000039f8      0x704 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000039f8                setup
+ .text._ZN8RpcUtils6detail9unpackMapERN7arduino7msgpack8UnpackerERj
+                0x00000000000040fc       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000040fc                RpcUtils::detail::unpackMap(arduino::msgpack::Unpacker&, unsigned int&)
+ .text._ZN8RpcUtils6detail17deserialize_tupleILj0EJN7arduino6StringEEEENSt9enable_ifIXltT_sZT0_EiE4typeERNS2_7msgpack8UnpackerERSt5tupleIJDpT0_EE
+                0x000000000000417c       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000417c                std::enable_if<(0u)<(1), int>::type RpcUtils::detail::deserialize_tuple<0u, arduino::String>(arduino::msgpack::Unpacker&, std::tuple<arduino::String>&)
+ .text._ZN18RpcFunctionWrapperISt8functionIFvN7arduino6StringEEEEclERNS1_7msgpack8UnpackerERNS6_6PackerE
+                0x00000000000041a4      0x134 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000041a4                RpcFunctionWrapper<std::function<void (arduino::String)> >::operator()(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN18RpcFunctionWrapperISt8functionIFiN7arduino6StringEEEEclERNS1_7msgpack8UnpackerERNS6_6PackerE
+                0x00000000000042d8      0x13c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000042d8                RpcFunctionWrapper<std::function<int (arduino::String)> >::operator()(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN18RpcFunctionWrapperISt8functionIFbN7arduino6StringEEEEclERNS1_7msgpack8UnpackerERNS6_6PackerE
+                0x0000000000004414      0x14c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004414                RpcFunctionWrapper<std::function<bool (arduino::String)> >::operator()(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIjEEbjRT_R8RpcError
+                0x0000000000004560      0x168 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004560                bool RpcDecoder<1024u>::get_response<unsigned int>(unsigned int, unsigned int&, RpcError&)
+ .text._ZN9RpcResultIJRN7arduino6StringEEE6resultIjEEbRT_
+                0x00000000000046c8       0xbc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000046c8                bool RpcResult<arduino::String&>::result<unsigned int>(unsigned int&)
+ .text._ZN13BridgeMonitorILj512EE5writeEPKhj
+                0x0000000000004784      0x128 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004784                BridgeMonitor<512u>::write(unsigned char const*, unsigned int)
+ .text._ZN10RpcDecoderILj1024EE12get_responseISt6vectorIhSaIhEEEEbjRT_R8RpcError
+                0x00000000000048ac      0x168 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000048ac                bool RpcDecoder<1024u>::get_response<std::vector<unsigned char, std::allocator<unsigned char> > >(unsigned int, std::vector<unsigned char, std::allocator<unsigned char> >&, RpcError&)
+ .text._ZN9RpcResultIJRjEE6resultISt6vectorIhSaIhEEEEbRT_
+                0x0000000000004a14       0xbc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004a14                bool RpcResult<unsigned int&>::result<std::vector<unsigned char, std::allocator<unsigned char> > >(std::vector<unsigned char, std::allocator<unsigned char> >&)
+ .text._ZN13BridgeMonitorILj512EE5_readEj
+                0x0000000000004ad0      0x15c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004ad0                BridgeMonitor<512u>::_read(unsigned int)
+ .text._ZN13BridgeMonitorILj512EE9availableEv
+                0x0000000000004c2c       0x44 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c2c                BridgeMonitor<512u>::available()
+ .text._GLOBAL__sub_I_Bridge
+                0x0000000000004c70      0x100 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._GLOBAL__sub_D_Bridge
+                0x0000000000004d70       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN18Arduino_LED_Matrix15textScrollSpeedEm
+                0x0000000000004d9c       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004d9c                Arduino_LED_Matrix::textScrollSpeed(unsigned long)
+ .text._ZN18Arduino_LED_Matrix7endTextEi
+                0x0000000000004db0       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004db0                Arduino_LED_Matrix::endText(int)
+ .text._ZN18Arduino_LED_Matrix7endDrawEv
+                0x0000000000004de0       0x5c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004de0                Arduino_LED_Matrix::endDraw()
+ .text._Z16led_matrix_printN7arduino6StringE
+                0x0000000000004e3c       0x9c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004e3c                led_matrix_print(arduino::String)
+ .text._ZN15ArduinoGraphics5beginEv
+                0x0000000000004ed8        0xe /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004ed8                ArduinoGraphics::begin()
+ .text._ZN15ArduinoGraphics3endEv
+                0x0000000000004ee6        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004ee6                ArduinoGraphics::beginDraw()
+                0x0000000000004ee6                ArduinoGraphics::end()
+                0x0000000000004ee6                ArduinoGraphics::endDraw()
+ .text._ZN15ArduinoGraphics6circleEiii
+                0x0000000000004ee8        0xe /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004ee8                ArduinoGraphics::circle(int, int, int)
+ .text._ZN15ArduinoGraphics4rectEiiii
+                0x0000000000004ef6       0x7e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004ef6                ArduinoGraphics::rect(int, int, int, int)
+ .text._ZN15ArduinoGraphics8textFontERK4Font
+                0x0000000000004f74        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004f74                ArduinoGraphics::textFont(Font const&)
+ .text._ZNK15ArduinoGraphics13textFontWidthEv
+                0x0000000000004f78       0x12 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004f78                ArduinoGraphics::textFontWidth() const
+ .text._ZNK15ArduinoGraphics14textFontHeightEv
+                0x0000000000004f8a       0x12 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004f8a                ArduinoGraphics::textFontHeight() const
+ .text._ZN15ArduinoGraphics8textSizeEhh
+                0x0000000000004f9c       0x16 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004f9c                ArduinoGraphics::textSize(unsigned char, unsigned char)
+ .text._ZN15ArduinoGraphics3setEiij
+                0x0000000000004fb2       0x1a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004fb2                ArduinoGraphics::set(int, int, unsigned int)
+ .text._ZN15ArduinoGraphics9beginTextEiihhh
+                0x0000000000004fcc       0x22 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004fcc                ArduinoGraphics::beginText(int, int, unsigned char, unsigned char, unsigned char)
+ .text._ZN15ArduinoGraphics9beginTextEiij
+                0x0000000000004fee       0x1a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000004fee                ArduinoGraphics::beginText(int, int, unsigned int)
+ .text._ZN15ArduinoGraphics15textScrollSpeedEm
+                0x0000000000005008        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005008                ArduinoGraphics::textScrollSpeed(unsigned long)
+ .text._ZN15ArduinoGraphics7ellipseEiiii
+                0x000000000000500c      0x29c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x000000000000500c                ArduinoGraphics::ellipse(int, int, int, int)
+ .text._ZN15ArduinoGraphics8imageRGBERK5Imageiiii
+                0x00000000000052a8       0x88 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x00000000000052a8                ArduinoGraphics::imageRGB(Image const&, int, int, int, int)
+ .text._ZN15ArduinoGraphics10imageRGB24ERK5Imageiiii
+                0x0000000000005330       0x88 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005330                ArduinoGraphics::imageRGB24(Image const&, int, int, int, int)
+ .text._ZN15ArduinoGraphics10imageRGB16ERK5Imageiiii
+                0x00000000000053b8       0x8c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x00000000000053b8                ArduinoGraphics::imageRGB16(Image const&, int, int, int, int)
+ .text._ZN15ArduinoGraphics5imageERK5Imageii
+                0x0000000000005444       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005444                ArduinoGraphics::image(Image const&, int, int)
+ .text._ZN15ArduinoGraphics5imageERK5Imageiiii
+                0x0000000000005480       0x7c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005480                ArduinoGraphics::image(Image const&, int, int, int, int)
+ .text._ZN15ArduinoGraphics5writeEh
+                0x00000000000054fc       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x00000000000054fc                ArduinoGraphics::write(unsigned char)
+ .text._ZN15ArduinoGraphics5flushEv
+                0x0000000000005518       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005518                ArduinoGraphics::flush()
+ .text._ZN15ArduinoGraphics9beginTextEii
+                0x0000000000005528       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005528                ArduinoGraphics::beginText(int, int)
+ .text._ZN15ArduinoGraphics7endTextEi
+                0x0000000000005548      0x2e8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005548                ArduinoGraphics::endText(int)
+ .text._ZN15ArduinoGraphics5pointEii
+                0x0000000000005830       0x1a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005830                ArduinoGraphics::point(int, int)
+ .text._ZN15ArduinoGraphics4textEPKcii
+                0x000000000000584a       0x84 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x000000000000584a                ArduinoGraphics::text(char const*, int, int)
+ .text._ZN15ArduinoGraphics6bitmapEPKhiiiihh
+                0x00000000000058ce       0xfc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x00000000000058ce                ArduinoGraphics::bitmap(unsigned char const*, int, int, int, int, unsigned char, unsigned char)
+ *fill*         0x00000000000059ca        0x2 
+ .text._ZN15ArduinoGraphicsC2Eii
+                0x00000000000059cc       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x00000000000059cc                ArduinoGraphics::ArduinoGraphics(int, int)
+                0x00000000000059cc                ArduinoGraphics::ArduinoGraphics(int, int)
+ .text._ZN15ArduinoGraphicsD2Ev
+                0x0000000000005a00       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005a00                ArduinoGraphics::~ArduinoGraphics()
+                0x0000000000005a00                ArduinoGraphics::~ArduinoGraphics()
+ .text._ZN15ArduinoGraphics6strokeEj
+                0x0000000000005a1c       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005a1c                ArduinoGraphics::stroke(unsigned int)
+ .text._ZN15ArduinoGraphics7lineLowEiiii
+                0x0000000000005a2c       0x64 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005a2c                ArduinoGraphics::lineLow(int, int, int, int)
+ .text._ZN15ArduinoGraphics8lineHighEiiii
+                0x0000000000005a90       0x62 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005a90                ArduinoGraphics::lineHigh(int, int, int, int)
+ *fill*         0x0000000000005af2        0x2 
+ .text._ZN15ArduinoGraphics4lineEiiii
+                0x0000000000005af4       0xa8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x0000000000005af4                ArduinoGraphics::line(int, int, int, int)
+ .text._ZNK5Image8encodingEv
+                0x0000000000005b9c        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+                0x0000000000005b9c                Image::encoding() const
+ .text._ZNK5Image4dataEv
+                0x0000000000005ba0        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+                0x0000000000005ba0                Image::data() const
+ .text._ZNK5Image5widthEv
+                0x0000000000005ba4        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+                0x0000000000005ba4                Image::width() const
+ .text._ZNK5Image6heightEv
+                0x0000000000005ba8        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+                0x0000000000005ba8                Image::height() const
+ .text._ZSt20__throw_length_errorPKc
+                0x0000000000005bac        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000005bac                std::__throw_length_error(char const*)
+ .text._ZSt17__throw_bad_allocv
+                0x0000000000005bae        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000005bae                std::__throw_bad_alloc()
+ .text._ZSt25__throw_bad_function_callv
+                0x0000000000005bb0        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000005bb0                std::__throw_bad_function_call()
+ .text.__cxa_pure_virtual
+                0x0000000000005bb2        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000005bb2                __cxa_pure_virtual
+ .text.atexit   0x0000000000005bb4        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000005bb4                atexit
+ .text.strcmp   0x0000000000005bb8       0x16 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000005bb8                strcmp
+ .text._ZN7arduino5Print5writeEPKhj
+                0x0000000000005bce       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000005bce                arduino::Print::write(unsigned char const*, unsigned int)
+ *fill*         0x0000000000005bfa        0x2 
+ .text._ZN7arduino5Print5writeEPKc
+                0x0000000000005bfc       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000005bfc                arduino::Print::write(char const*)
+ .text._ZN7arduino5Print5printERKNS_6StringE
+                0x0000000000005c20        0xa /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000005c20                arduino::Print::print(arduino::String const&)
+ *fill*         0x0000000000005c2a        0x2 
+ .text._ZN7arduino5Print7printlnEv
+                0x0000000000005c2c       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000005c2c                arduino::Print::println()
+ .text._ZN7arduino5Print7printlnERKNS_6StringE
+                0x0000000000005c40       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+                0x0000000000005c40                arduino::Print::println(arduino::String const&)
+ .text._ZN7arduino6Stream9timedReadEv
+                0x0000000000005c5c       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x0000000000005c5c                arduino::Stream::timedRead()
+ .text._ZN7arduino6Stream10setTimeoutEm
+                0x0000000000005c88        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x0000000000005c88                arduino::Stream::setTimeout(unsigned long)
+ .text._ZN7arduino6Stream9readBytesEPcj
+                0x0000000000005c8c       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x0000000000005c8c                arduino::Stream::readBytes(char*, unsigned int)
+ .text._ZN7arduino6StringC2EOS0_
+                0x0000000000005cb8       0x16 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005cb8                arduino::String::String(arduino::String&&)
+                0x0000000000005cb8                arduino::String::String(arduino::String&&)
+ *fill*         0x0000000000005cce        0x2 
+ .text._ZN7arduino6StringD2Ev
+                0x0000000000005cd0       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005cd0                arduino::String::~String()
+                0x0000000000005cd0                arduino::String::~String()
+ .text._ZN7arduino6String10invalidateEv
+                0x0000000000005ce4       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005ce4                arduino::String::invalidate()
+ .text._ZN7arduino6String12changeBufferEj
+                0x0000000000005d00       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005d00                arduino::String::changeBuffer(unsigned int)
+ .text._ZN7arduino6String7reserveEj
+                0x0000000000005d1c       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005d1c                arduino::String::reserve(unsigned int)
+ .text._ZN7arduino6String4copyEPKcj
+                0x0000000000005d44       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005d44                arduino::String::copy(char const*, unsigned int)
+ .text._ZN7arduino6StringC2EPKc
+                0x0000000000005d80       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005d80                arduino::String::String(char const*)
+                0x0000000000005d80                arduino::String::String(char const*)
+ .text._ZN7arduino6String4moveERS0_
+                0x0000000000005dac       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005dac                arduino::String::move(arduino::String&)
+ .text._ZN7arduino6StringaSERKS0_
+                0x0000000000005dd8       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005dd8                arduino::String::operator=(arduino::String const&)
+ .text._ZN7arduino6StringC2ERKS0_
+                0x0000000000005e00       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005e00                arduino::String::String(arduino::String const&)
+                0x0000000000005e00                arduino::String::String(arduino::String const&)
+ .text._ZN7arduino6StringaSEOS0_
+                0x0000000000005e18       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005e18                arduino::String::operator=(arduino::String&&)
+ .text._ZN7arduino6StringaSEPKc
+                0x0000000000005e28       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005e28                arduino::String::operator=(char const*)
+ .text._ZN7arduino6StringC2Eih
+                0x0000000000005e58       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005e58                arduino::String::String(int, unsigned char)
+                0x0000000000005e58                arduino::String::String(int, unsigned char)
+ .text._ZN7arduino6String6concatEPKcj
+                0x0000000000005e84       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005e84                arduino::String::concat(char const*, unsigned int)
+ .text._ZN7arduino6String6concatERKS0_
+                0x0000000000005ec4        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005ec4                arduino::String::concat(arduino::String const&)
+ .text._ZN7arduino6String6concatEc
+                0x0000000000005ed0       0x1c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005ed0                arduino::String::concat(char)
+ .text._ZNK7arduino6String9compareToERKS0_
+                0x0000000000005eec       0x30 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005eec                arduino::String::compareTo(arduino::String const&) const
+ .text._ZNK7arduino6String6equalsERKS0_
+                0x0000000000005f1c       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005f1c                arduino::String::equals(arduino::String const&) const
+ .text._ZNK7arduino6String6equalsEPKc
+                0x0000000000005f3c       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000005f3c                arduino::String::equals(char const*) const
+ .text.ltoa     0x0000000000005f64       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+                0x0000000000005f64                ltoa
+ .text.itoa     0x0000000000005fe4        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+                0x0000000000005fe4                itoa
+ .text.initVariant
+                0x0000000000005fec        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000005fec                initVariant
+ *fill*         0x0000000000005fee        0x2 
+ .text.main     0x0000000000005ff0       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000005ff0                main
+ .text._ZL10new_helperj
+                0x000000000000601c       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znwj    0x000000000000602c        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+                0x000000000000602c                operator new(unsigned int)
+ .text._ZnwjPv  0x0000000000006034        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000006034                operator new(unsigned int, void*)
+ .text._ZdlPvj  0x0000000000006038        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000006038                operator delete(void*, unsigned int)
+ .text._Z20start_static_threadsv
+                0x0000000000006040       0x6c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+                0x0000000000006040                start_static_threads()
+ .text.gpio_pin_set_dt.isra.0
+                0x00000000000060ac       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_configure_dt.isra.0
+                0x00000000000060d4       0x2a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ *fill*         0x00000000000060fe        0x2 
+ .text.yield    0x0000000000006100        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000006100                yield
+ .text.pinMode  0x0000000000006108       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000006108                pinMode
+ .text.digitalWrite
+                0x0000000000006144       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000006144                digitalWrite
+ .text.digitalRead
+                0x0000000000006158       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000006158                digitalRead
+ .text.delay    0x0000000000006198       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000006198                delay
+ .text.millis   0x00000000000061a8       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x00000000000061a8                millis
+ .text.analogRead
+                0x00000000000061c0       0xbc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x00000000000061c0                analogRead
+ .text.z_impl_uart_irq_tx_enable
+                0x000000000000627c        0xa /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial5beginEm
+                0x0000000000006286        0xa /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006286                arduino::ZephyrSerial::begin(unsigned long)
+ .text._ZN7arduino12ZephyrSerial3endEv
+                0x0000000000006290        0x2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006290                arduino::ZephyrSerial::end()
+ .text._ZN7arduino12ZephyrSerial5writeEh
+                0x0000000000006292       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006292                arduino::ZephyrSerial::write(unsigned char)
+ .text._ZN7arduino12ZephyrSerialcvbEv
+                0x00000000000062aa        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000062aa                arduino::ZephyrSerial::operator bool()
+ *fill*         0x00000000000062ae        0x2 
+ .text.k_sem_give
+                0x00000000000062b0        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text.k_sem_take.isra.0
+                0x00000000000062b8        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial4readEv
+                0x00000000000062c0       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000062c0                arduino::ZephyrSerial::read()
+ .text._ZN7arduino12ZephyrSerial4peekEv
+                0x0000000000006308       0x48 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006308                arduino::ZephyrSerial::peek()
+ .text._ZN7arduino12ZephyrSerial17availableForWriteEv
+                0x0000000000006350       0x3c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006350                arduino::ZephyrSerial::availableForWrite()
+ .text._ZN7arduino12ZephyrSerial9availableEv
+                0x000000000000638c       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x000000000000638c                arduino::ZephyrSerial::available()
+ .text._ZN7arduino12ZephyrSerial5beginEmt
+                0x00000000000063c0       0xb8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000063c0                arduino::ZephyrSerial::begin(unsigned long, unsigned short)
+ .text._ZN7arduino12ZephyrSerial5flushEv
+                0x0000000000006478       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006478                arduino::ZephyrSerial::flush()
+ .text._ZN7arduino12ZephyrSerial5writeEPKhj
+                0x00000000000064a4       0x70 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000064a4                arduino::ZephyrSerial::write(unsigned char const*, unsigned int)
+ .text._ZN7arduino12ZephyrSerial10IrqHandlerEv
+                0x0000000000006514       0xec /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006514                arduino::ZephyrSerial::IrqHandler()
+ .text._ZN7arduino12ZephyrSerial11IrqDispatchEPK6devicePv
+                0x0000000000006600        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000006600                arduino::ZephyrSerial::IrqDispatch(device const*, void*)
+ .text._ZN7arduino12ZephyrSerial18ZephyrSerialBufferILi64EEC2Ev
+                0x000000000000660c       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x000000000000660c                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+                0x000000000000660c                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+ .text._GLOBAL__sub_I__ZN7arduino12ZephyrSerial5beginEmt
+                0x0000000000006634       0x5c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.ctors)
+ *(.dtors)
+ *(.fini)
+
+.static_thread_data_area
+                0x0000000000006690        0x0
+                0x0000000000006690                __static_thread_data_list_start = .
+ *(.static_thread_data_area SORT_BY_NAME(.__static_thread_data.*))
+                0x0000000000006690                __static_thread_data_list_end = .
+
+.rodata         0x0000000000006690      0xf58
+ *(.rodata)
+ .rodata        0x0000000000006690      0x604 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+                0x0000000000006c88                Font_5x7
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata._ZN8RpcErrorC2Ev.str1.1
+                0x0000000000006c94        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZNSt6vectorIjSaIjEE17_M_realloc_insertIJRjEEEvN9__gnu_cxx17__normal_iteratorIPjS1_EEDpOT_.str1.1
+                0x0000000000006c95       0x1a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN18RpcFunctionWrapperISt8functionIFvN7arduino6StringEbEEEclERNS1_7msgpack8UnpackerERNS6_6PackerE.str1.1
+                0x0000000000006caf       0xa6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN10RpcDecoderILj1024EE12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError.str1.1
+                0x0000000000006d55       0x7b /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN7arduino7msgpack6object3extC2EaPKhj.str1.1
+                0x0000000000006dd0       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN11BridgeClass11update_safeEv.str1.1
+                0x0000000000006df8        0x9 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata.setup.str1.1
+                0x0000000000006e01       0x62 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN13BridgeMonitorILj512EE5writeEPKhj.str1.1
+                0x0000000000006e63        0xa /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN13BridgeMonitorILj512EE5_readEj.str1.1
+                0x0000000000006e6d        0x9 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ *fill*         0x0000000000006e76        0x2 
+ .rodata._ZTV15SerialTransport
+                0x0000000000006e78       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006e78                vtable for SerialTransport
+ .rodata._ZTV13BridgeMonitorILj512EE
+                0x0000000000006e98       0x24 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006e98                vtable for BridgeMonitor<512u>
+ .rodata._ZTV18Arduino_LED_Matrix
+                0x0000000000006ebc       0x94 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006ebc                vtable for Arduino_LED_Matrix
+ .rodata._ZTV18RpcFunctionWrapperISt8functionIFvN7arduino6StringEbEEE
+                0x0000000000006f50       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006f50                vtable for RpcFunctionWrapper<std::function<void (arduino::String, bool)> >
+ .rodata._ZTV18RpcFunctionWrapperISt8functionIFbN7arduino6StringEEEE
+                0x0000000000006f64       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006f64                vtable for RpcFunctionWrapper<std::function<bool (arduino::String)> >
+ .rodata._ZTV18RpcFunctionWrapperISt8functionIFiN7arduino6StringEEEE
+                0x0000000000006f78       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006f78                vtable for RpcFunctionWrapper<std::function<int (arduino::String)> >
+ .rodata._ZTV18RpcFunctionWrapperISt8functionIFvbEEE
+                0x0000000000006f8c       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006f8c                vtable for RpcFunctionWrapper<std::function<void (bool)> >
+ .rodata._ZTV18RpcFunctionWrapperISt8functionIFvN7arduino6StringEEEE
+                0x0000000000006fa0       0x14 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000006fa0                vtable for RpcFunctionWrapper<std::function<void (arduino::String)> >
+ .rodata.str1.1
+                0x0000000000006fb4       0x72 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ *fill*         0x0000000000007026        0x2 
+ .rodata._ZL13kDigPinsNoLed
+                0x0000000000007028       0x80 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZL8kDigPins
+                0x00000000000070a8       0xb0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZL5kPins
+                0x0000000000007158       0xe0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN15ArduinoGraphics5flushEv.str1.1
+                0x0000000000007238        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ *fill*         0x0000000000007239        0x3 
+ .rodata._ZTV15ArduinoGraphics
+                0x000000000000723c       0x94 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+                0x000000000000723c                vtable for ArduinoGraphics
+ .rodata._ZN7arduino5Print7printlnEv.str1.1
+                0x00000000000072d0        0x3 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .rodata.str1.1
+                0x00000000000072d3       0x51 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_adcE
+                0x0000000000007324       0x60 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZL12arduino_pins
+                0x0000000000007384      0x230 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZTVN7arduino12ZephyrSerialE
+                0x00000000000075b4       0x34 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000075b4                vtable for arduino::ZephyrSerial
+
+.data           0x00000000000075e8      0x400
+ *(.data .data.*)
+ .data          0x00000000000075e8      0x3fc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .data._ZL15read_resolution
+                0x00000000000079e4        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+
+.bss            0x00000000000079e8     0x1324
+ *(.bss .bss.* COMMON)
+ .bss._ZN17RpcDecoderManagerILj3EE14decoders_countE
+                0x00000000000079e8        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000079e8                RpcDecoderManager<3u>::decoders_count
+ .bss._ZGVN17RpcDecoderManagerILj3EE9decoders_E
+                0x00000000000079ec        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000079ec                guard variable for RpcDecoderManager<3u>::decoders_
+ .bss._ZN17RpcDecoderManagerILj3EE9decoders_E
+                0x00000000000079f0      0xc60 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000079f0                RpcDecoderManager<3u>::decoders_
+ .bss._ZGVZN7arduino7msgpack8Unpacker10from_arrayIJRiRNS_6StringEEEEbDpOT_E2sz
+                0x0000000000008650        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008650                guard variable for arduino::msgpack::Unpacker::from_array<int&, arduino::String&>(int&, arduino::String&)::sz
+ .bss._ZZN7arduino7msgpack8Unpacker10from_arrayIJRiRNS_6StringEEEEbDpOT_E2sz
+                0x0000000000008654        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008654                arduino::msgpack::Unpacker::from_array<int&, arduino::String&>(int&, arduino::String&)::sz
+ .bss.matrix    0x0000000000008658       0xe0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008658                matrix
+ .bss._ZN12RouterBridge3HCIE
+                0x0000000000008738       0x28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008738                RouterBridge::HCI
+ .bss.Monitor   0x0000000000008760      0x238 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008760                Monitor
+ .bss.Bridge    0x0000000000008998      0x140 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008998                Bridge
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1t
+                0x0000000000008ad8       0x10 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008ad8                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::t
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1e
+                0x0000000000008ae8        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008ae8                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::e
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1e
+                0x0000000000008aec        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008aec                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::e
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6map_sz
+                0x0000000000008af8        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008af8                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::map_sz
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6arr_sz
+                0x0000000000008afc        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008afc                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::arr_sz
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5bytes
+                0x0000000000008b00        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b00                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::bytes
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5bytes
+                0x0000000000008b04        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b04                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::bytes
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6string
+                0x0000000000008b10        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b10                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::string
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6string
+                0x0000000000008b14        0xc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b14                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::string
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5num64
+                0x0000000000008b20        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b20                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::num64
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5num32
+                0x0000000000008b28        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b28                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::num32
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE7integer
+                0x0000000000008b2c        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b2c                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::integer
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1b
+                0x0000000000008b30        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b30                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::b
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE3nil
+                0x0000000000008b31        0x1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000008b31                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::nil
+ *fill*         0x0000000000008b32        0x2 
+ .bss.Serial1   0x0000000000008b34       0xec /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000008b34                Serial1
+ .bss.Serial    0x0000000000008c20       0xec /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000008c20                Serial
+ *(.noinit .noinit.*)
+
+.exported_sym   0x0000000000008d0c        0x8
+ *(.exported_sym)
+ .exported_sym  0x0000000000008d0c        0x8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ *(.exported_sym.*)
+
+.init_array     0x0000000000008d14        0x8
+ *(.init_array)
+ .init_array    0x0000000000008d14        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .init_array    0x0000000000008d18        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.fini_array     0x0000000000008d1c        0x4
+ *(.fini_array)
+ .fini_array    0x0000000000008d1c        0x4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+
+.symtab
+ *(.symtab)
+
+.strtab
+ *(.strtab)
+
+.shstrtab
+ *(.shstrtab)
+
+.rel
+ *(.rel .rel.*)
+
+.got
+ *(.got .got.* .got.plt .got.plt*)
+OUTPUT(/home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch.ino_debug.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x558cb
+ .debug_info    0x0000000000000000    0x3aed7 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_info    0x000000000003aed7     0x46df /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_info    0x000000000003f5b6       0xd8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .debug_info    0x000000000003f68e      0x720 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_info    0x000000000003fdae      0x1de /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_info    0x000000000003ff8c     0x2d13 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_info    0x0000000000042c9f     0x1f74 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_info    0x0000000000044c13     0x3e0c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_info    0x0000000000048a1f      0x3de /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_info    0x0000000000048dfd     0x1e2b /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_info    0x000000000004ac28      0x7af /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_info    0x000000000004b3d7     0x1f28 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_info    0x000000000004d2ff     0x4c53 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_info    0x0000000000051f52     0x3979 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_abbrev   0x0000000000000000     0x5331
+ .debug_abbrev  0x0000000000000000     0x15f8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_abbrev  0x00000000000015f8      0x7e5 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_abbrev  0x0000000000001ddd       0x7c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .debug_abbrev  0x0000000000001e59      0x23e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_abbrev  0x0000000000002097      0x154 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_abbrev  0x00000000000021eb      0x594 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_abbrev  0x000000000000277f      0x500 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_abbrev  0x0000000000002c7f      0x5d4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_abbrev  0x0000000000003253      0x128 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_abbrev  0x000000000000337b      0x538 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_abbrev  0x00000000000038b3      0x234 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_abbrev  0x0000000000003ae7      0x4c4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_abbrev  0x0000000000003fab      0xa59 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_abbrev  0x0000000000004a04      0x92d /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_loclists
+                0x0000000000000000    0x13622
+ .debug_loclists
+                0x0000000000000000     0xc4e0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_loclists
+                0x000000000000c4e0     0x1c91 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_loclists
+                0x000000000000e171      0x15e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_loclists
+                0x000000000000e2cf       0x88 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_loclists
+                0x000000000000e357     0x12da /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_loclists
+                0x000000000000f631      0x883 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_loclists
+                0x000000000000feb4     0x1943 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_loclists
+                0x00000000000117f7      0x3e1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_loclists
+                0x0000000000011bd8       0x72 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_loclists
+                0x0000000000011c4a      0x2bc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_loclists
+                0x0000000000011f06       0xb3 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_loclists
+                0x0000000000011fb9      0xedd /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_loclists
+                0x0000000000012e96      0x78c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_aranges  0x0000000000000000     0x1010
+ .debug_aranges
+                0x0000000000000000      0x620 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_aranges
+                0x0000000000000620      0x190 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_aranges
+                0x00000000000007b0       0x18 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .debug_aranges
+                0x00000000000007c8       0x68 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_aranges
+                0x0000000000000830       0x58 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_aranges
+                0x0000000000000888      0x128 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_aranges
+                0x00000000000009b0       0x90 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_aranges
+                0x0000000000000a40      0x298 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_aranges
+                0x0000000000000cd8       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_aranges
+                0x0000000000000d18       0x38 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_aranges
+                0x0000000000000d50       0xb0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_aranges
+                0x0000000000000e00       0x20 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_aranges
+                0x0000000000000e20      0x130 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_aranges
+                0x0000000000000f50       0xc0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_rnglists
+                0x0000000000000000     0x2b4b
+ .debug_rnglists
+                0x0000000000000000     0x1b43 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_rnglists
+                0x0000000000001b43      0x3a3 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_rnglists
+                0x0000000000001ee6       0x49 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_rnglists
+                0x0000000000001f2f       0x3d /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_rnglists
+                0x0000000000001f6c      0x1c1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_rnglists
+                0x000000000000212d      0x103 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_rnglists
+                0x0000000000002230      0x375 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_rnglists
+                0x00000000000025a5       0x2c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_rnglists
+                0x00000000000025d1       0x33 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_rnglists
+                0x0000000000002604       0x7f /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_rnglists
+                0x0000000000002683       0x3a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_rnglists
+                0x00000000000026bd      0x2cc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_rnglists
+                0x0000000000002989      0x1c2 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_line     0x0000000000000000    0x12b11
+ .debug_line    0x0000000000000000     0x9bb6 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_line    0x0000000000009bb6     0x1c5b /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_line    0x000000000000b811      0x16d /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .debug_line    0x000000000000b97e      0x2b1 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_line    0x000000000000bc2f      0x138 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_line    0x000000000000bd67      0xc5a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_line    0x000000000000c9c1      0x8d4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_line    0x000000000000d295     0x1a12 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_line    0x000000000000eca7      0x32d /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_line    0x000000000000efd4      0x83b /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_line    0x000000000000f80f      0x36b /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_line    0x000000000000fb7a      0x860 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_line    0x00000000000103da     0x17b8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_line    0x0000000000011b92      0xf7f /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_str      0x0000000000000000    0x394ce
+ .debug_str     0x0000000000000000    0x282a5 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_str     0x00000000000282a5     0x226e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_str     0x000000000002a513      0x295 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Font_5x7.c.o
+ .debug_str     0x000000000002a7a8      0x556 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_str     0x000000000002acfe      0x40d /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_str     0x000000000002b10b     0x16d0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_str     0x000000000002c7db     0x167e /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_str     0x000000000002de59     0x1828 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_str     0x000000000002f681      0x37a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_str     0x000000000002f9fb     0x1fdf /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_str     0x00000000000319da      0x4d7 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_str     0x0000000000031eb1     0x1bdf /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_str     0x0000000000033a90     0x2fa4 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_str     0x0000000000036a34     0x2a9a /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_frame    0x0000000000000000     0x330c
+ .debug_frame   0x0000000000000000     0x1690 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_frame   0x0000000000001690      0x534 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/ArduinoGraphics.cpp.o
+ .debug_frame   0x0000000000001bc4       0xd0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/libraries/ArduinoGraphics/Image.cpp.o
+ .debug_frame   0x0000000000001c94       0x90 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_frame   0x0000000000001d24      0x3d0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Print.cpp.o)
+ .debug_frame   0x00000000000020f4      0x1fc /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_frame   0x00000000000022f0      0x7e8 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_frame   0x0000000000002ad8       0xa0 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_frame   0x0000000000002b78       0x68 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_frame   0x0000000000002be0      0x140 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_frame   0x0000000000002d20       0x40 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_frame   0x0000000000002d60      0x39c /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_frame   0x00000000000030fc      0x210 /home/arduino/ArduinoApps/doublebridge/.cache/sketch/core/core.a(zephyrSerial.cpp.o)

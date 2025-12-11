@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1dc079ef8e83671a",
+        "type": "subflow",
+        "name": "UNOQ_ledMatrix",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "68bd398cab976fa8"
+                    }
+                ]
+            }
+        ],
+        "out": [],
+        "env": [],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "68bd398cab976fa8",
+        "type": "function",
+        "z": "1dc079ef8e83671a",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - msg.payload -> string (text to display on the LED matrix)\n//\n// This node builds a \"led_matrix_print\" JSON command for the Python TCP server:\n// { \"cmd\": \"led_matrix_print\", \"text\": \"<msg.payload>\" }\n// and appends a newline at the end.\n\nif (typeof msg.payload !== \"string\") {\n    // Try to convert non-string payloads to string\n    if (msg.payload === null || msg.payload === undefined) {\n        node.error(\"msg.payload must be a string (text to display)\", msg);\n        return null;\n    }\n    msg.payload = String(msg.payload);\n}\n\nconst cmd = {\n    cmd: \"led_matrix_print\",\n    text: msg.payload\n};\n\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 200,
+        "y": 80,
+        "wires": [
+            [
+                "f06bcc77add52c2f"
+            ]
+        ]
+    },
+    {
+        "id": "f06bcc77add52c2f",
+        "type": "tcp request",
+        "z": "1dc079ef8e83671a",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 390,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    }
+]

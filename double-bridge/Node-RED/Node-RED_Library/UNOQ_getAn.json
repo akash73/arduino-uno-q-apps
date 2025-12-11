@@ -1,0 +1,124 @@
+[
+    {
+        "id": "e4aabb272e2e39d6",
+        "type": "subflow",
+        "name": "UNOQ_getAn",
+        "info": "",
+        "category": "",
+        "in": [
+            {
+                "x": 60,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "5b977243e8f9f8dd"
+                    }
+                ]
+            }
+        ],
+        "out": [
+            {
+                "x": 820,
+                "y": 80,
+                "wires": [
+                    {
+                        "id": "fe2b37e481ae05a2",
+                        "port": 0
+                    }
+                ]
+            }
+        ],
+        "env": [
+            {
+                "name": "PIN_NAME",
+                "type": "str",
+                "value": ""
+            }
+        ],
+        "meta": {},
+        "color": "#3FADB5",
+        "icon": "node-red/arduino.svg"
+    },
+    {
+        "id": "5b977243e8f9f8dd",
+        "type": "function",
+        "z": "e4aabb272e2e39d6",
+        "name": "MsgPack",
+        "func": "// Expected input:\n// - No specific msg.payload required\n// - env.PIN_NAME -> string (e.g. \"A0\"), defined as Subflow Environment Variable\n//\n// This node builds a \"get_an\" JSON command for the Python TCP server:\n// { \"cmd\": \"get_an\", \"pin\": \"<PIN_NAME>\" }\n// and appends a newline at the end.\n\nconst pin = env.get(\"PIN_NAME\");\n\nif (typeof pin !== \"string\" || pin.length === 0) {\n    node.error(\"Subflow environment variable PIN_NAME must be a non-empty string (e.g. 'A0')\", msg);\n    return null;\n}\n\nconst cmd = {\n    cmd: \"get_an\",\n    pin: pin\n};\n\nmsg.payload = JSON.stringify(cmd) + \"\\n\";\n\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 180,
+        "y": 80,
+        "wires": [
+            [
+                "7585aab130705681"
+            ]
+        ]
+    },
+    {
+        "id": "7585aab130705681",
+        "type": "tcp request",
+        "z": "e4aabb272e2e39d6",
+        "name": "UNO Q TCP Server",
+        "server": "127.0.0.1",
+        "port": "6000",
+        "out": "time",
+        "ret": "string",
+        "splitc": "1",
+        "newline": "",
+        "trim": false,
+        "tls": "",
+        "x": 370,
+        "y": 80,
+        "wires": [
+            [
+                "9291effb7499395b"
+            ]
+        ]
+    },
+    {
+        "id": "9291effb7499395b",
+        "type": "json",
+        "z": "e4aabb272e2e39d6",
+        "name": "",
+        "property": "payload",
+        "action": "",
+        "pretty": false,
+        "x": 550,
+        "y": 80,
+        "wires": [
+            [
+                "fe2b37e481ae05a2"
+            ]
+        ]
+    },
+    {
+        "id": "fe2b37e481ae05a2",
+        "type": "change",
+        "z": "e4aabb272e2e39d6",
+        "name": "Convert",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "payload.value",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 700,
+        "y": 80,
+        "wires": [
+            []
+        ]
+    }
+]

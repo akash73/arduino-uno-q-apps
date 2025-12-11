@@ -1,0 +1,116 @@
+// SPDX-FileCopyrightText: Copyright (C) ARDUINO SRL (http://www.arduino.cc)
+//
+// SPDX-License-Identifier: MPL-2.0
+
+#include <Arduino_RouterBridge.h>
+#include "ArduinoGraphics.h"
+#include "Arduino_LED_Matrix.h"
+
+Arduino_LED_Matrix matrix;
+
+struct PinEntry { const char* name; uint8_t pin; };
+
+uint8_t logo[104] = {
+    0,0,0,0,0,0,0,0,0,0,0,0,0,
+    0,0,1,1,1,0,0,0,1,1,1,0,0,
+    0,1,0,0,0,1,0,1,0,0,0,1,0,
+    1,0,0,0,0,0,1,0,0,1,0,0,1,
+    1,0,1,1,1,0,1,0,1,1,1,0,1,
+    1,0,0,0,0,0,1,0,0,1,0,0,1,
+    0,1,0,0,0,1,0,1,0,0,0,1,0,
+    0,0,1,1,1,0,0,0,1,1,1,0,0
+};
+
+static const PinEntry kPins[] = {
+  {"D21", D21}, {"D20", D20}, {"D13", D13}, {"D12", D12},
+  {"D11", D11}, {"D10", D10}, {"D9",  D9 }, {"D8",  D8 },
+  {"D7",  D7 }, {"D6",  D6 }, {"D5",  D5 }, {"D4",  D4 },
+  {"D3",  D3 }, {"D2",  D2 }, {"D1",  D1 }, {"D0",  D0 },
+  {"A0",  A0 }, {"A1",  A1 }, {"A2",  A2 }, {"A3",  A3 },
+  {"A4",  A4 }, {"A5",  A5 },
+  {"LED3_R", LED_BUILTIN}, {"LED3_G", LED_BUILTIN + 1}, {"LED3_B", LED_BUILTIN + 2},
+  {"LED4_R", LED_BUILTIN + 3}, {"LED4_G", LED_BUILTIN + 4}, {"LED4_B", LED_BUILTIN + 5},
+};
+
+static const PinEntry kDigPins[] = {
+  {"D21", D21}, {"D20", D20}, {"D13", D13}, {"D12", D12},
+  {"D11", D11}, {"D10", D10}, {"D9",  D9 }, {"D8",  D8 },
+  {"D7",  D7 }, {"D6",  D6 }, {"D5",  D5 }, {"D4",  D4 },
+  {"D3",  D3 }, {"D2",  D2 }, {"D1",  D1 }, {"D0",  D0 },
+  {"LED3_R", LED_BUILTIN}, {"LED3_G", LED_BUILTIN + 1}, {"LED3_B", LED_BUILTIN + 2},
+  {"LED4_R", LED_BUILTIN + 3}, {"LED4_G", LED_BUILTIN + 4}, {"LED4_B", LED_BUILTIN + 5},  
+};
+
+static const PinEntry kDigPinsNoLed[] = {
+  {"D21", D21}, {"D20", D20}, {"D13", D13}, {"D12", D12},
+  {"D11", D11}, {"D10", D10}, {"D9",  D9 }, {"D8",  D8 },
+  {"D7",  D7 }, {"D6",  D6 }, {"D5",  D5 }, {"D4",  D4 },
+  {"D3",  D3 }, {"D2",  D2 }, {"D1",  D1 }, {"D0",  D0 },
+};
+
+static inline int findIndex(const char* n) {
+  for (size_t i = 0; i < sizeof(kPins)/sizeof(kPins[0]); ++i) {
+    if (strcmp(kPins[i].name, n) == 0) return (int)i;
+  }
+  return -1;
+}
+
+// set_pin_by_name
+void set_pin_by_name(String name, bool s) {
+  int idx = findIndex(name.c_str());
+  if (idx < 0) return;              // unknown name
+  digitalWrite(kPins[idx].pin, s ? HIGH : LOW);   // Python already applied active_low
+}
+
+// get_pin_by_name
+bool get_pin_by_name(String name) {
+  int idx = findIndex(name.c_str());
+  return digitalRead(kPins[idx].pin);
+}
+
+// get_an_pin_by_name
+int get_an_pin_by_name(String name) {
+  int idx = findIndex(name.c_str());
+  return analogRead(kPins[idx].pin);
+}
+
+// set_all_io
+void set_all_io(bool s) {
+  for (auto &e : kDigPinsNoLed) digitalWrite(e.pin, s);
+}
+
+// Write LED Matrix
+void led_matrix_print(String text) {
+  matrix.clear();
+  matrix.beginDraw();
+  matrix.stroke(0xFFFFFFFF);
+  matrix.textScrollSpeed(50);
+  matrix.textFont(Font_5x7);
+  matrix.beginText(0, 1, 0xFFFFFF);
+  matrix.println(text);
+  matrix.endText(SCROLL_LEFT);
+  matrix.endDraw();  
+}
+
+void setup()
+{
+    for (auto &e : kDigPins) pinMode(e.pin, OUTPUT);
+    digitalWrite(LED_BUILTIN, HIGH);
+    digitalWrite(LED_BUILTIN + 1, HIGH);
+    digitalWrite(LED_BUILTIN + 2, HIGH);
+    digitalWrite(LED_BUILTIN + 3, HIGH);
+    digitalWrite(LED_BUILTIN + 4, HIGH);
+    digitalWrite(LED_BUILTIN + 5, HIGH);
+
+    matrix.begin(); 
+
+    Bridge.begin();
+    
+    Bridge.provide("set_pin_by_name", set_pin_by_name);
+    Bridge.provide("get_pin_by_name", get_pin_by_name);
+    Bridge.provide("get_an_pin_by_name", get_an_pin_by_name);
+    Bridge.provide("set_all_io", set_all_io);
+    Bridge.provide("led_matrix_print", led_matrix_print);
+}
+
+void loop() {}
