@@ -4,7 +4,7 @@ A collection of applications developed and optimized exclusively for the **Ardui
 
 This repository provides ready-to-use sketches and companion applications that leverage the advanced capabilities of the Uno Q for various projects, including IoT, modular development, and multimedia.
 
-## 🚀 Applications and Features
+##  Applications and Features
 
 This repository bundles several different projects, each focusing on a unique application on the **Uno Q**. You can explore the directories for detailed code and specific hardware setup.
 
@@ -19,7 +19,7 @@ This repository bundles several different projects, each focusing on a unique ap
 | **`modulino-pixel-only`** | Basic control of addressable LED pixels (like NeoPixels or similar), structured with the Modulino library for the Uno Q. |
 | **`monitor-example`** | A simple sketch demonstrating basic input/output functionality, often used with the Uno Q's monitoring features. |
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 To use these applications, you will need:
 
@@ -27,7 +27,7 @@ To use these applications, you will need:
 2.  **Required Hardware Modules:** Depending on the specific app (e.g., 4-channel relay shield, buzzer, addressable LED strip, display for video player, etc.).
 3.  **Network Access:** The Uno Q device must be connected to the internet to run the installation script.
 
-## 💻 How to Install and Use
+## How to Install and Use
 
 These shell scripts are designed to be executed directly on the **Arduino Uno Q** device to download and install the applications into the correct project structure.
 
