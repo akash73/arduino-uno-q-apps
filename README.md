@@ -35,9 +35,9 @@ To use these applications, you will need:
 These shell scripts are designed to be executed directly on the **Arduino Uno Q** device to download and install the applications into the correct project structure.
 Run this command directly in the shell environment of your **Arduino Uno Q** to install all available applications:
 
-
+```bash
 curl -sSL https://github.com/akash73/arduino-uno-q-apps/blob/main/app-install.sh | bash
-
+```
 
 
 
@@ -82,8 +82,11 @@ Each application lives in its own directory at the root of the repository.
 Create a new folder and follow the same structure used by the existing examples.
 
 my-new-app/
+
 ├── sketch/        # Arduino sketch running on the MCU
+
 ├── app/           # App Lab / Linux-side application
+
 └── README.md      # Description, usage, and requirements
 
 
