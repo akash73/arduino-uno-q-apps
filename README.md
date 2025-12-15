@@ -18,6 +18,9 @@ This repository bundles several different projects, each focusing on a unique ap
 | **`rpc-call-buzz`** | Demonstrates how to trigger the buzzer on the Uno Q using a Remote Procedure Call (RPC) mechanism. |
 | **`modulino-pixel-only`** | Basic control of addressable LED pixels (like NeoPixels or similar), structured with the Modulino library for the Uno Q. |
 | **`monitor-example`** | A simple sketch demonstrating basic input/output functionality, often used with the Uno Q's monitoring features. |
+| **` double-bridge` ** |  Example that shows how to control a **dual H-bridge motor driver** with UNO Q.  The app demonstrates forward, reverse, and stop control of two motors by sending commands from the Linux side to the MCU, making it easy to understand motor control patterns for robotics or automation. |
+|** `4-relay-ui ` ** | UI-focused example for a **4-channel relay shield. This app adds a simple graphical interface in App Lab to toggle each relay individually, showing how to connect a user interface running on the UNO Q with real-world actuators driven by the MCU. |
+
 
 ##  Prerequisites
 
