@@ -30,10 +30,7 @@ To use these applications, you will need:
 ## How to Install and Use
 
 These shell scripts are designed to be executed directly on the **Arduino Uno Q** device to download and install the applications into the correct project structure.
-
-### Option 1: Install All Applications (Recommended)
-
 Run this command directly in the shell environment of your **Arduino Uno Q** to install all available applications:
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/akash73/arduino-uno-q-apps/refs/heads/main/install.sh](https://raw.githubusercontent.com/akash73/arduino-uno-q-apps/refs/heads/main/install.sh) | bash
+curl -sSL https://github.com/akash73/arduino-uno-q-apps/blob/main/app-install.sh | bash
