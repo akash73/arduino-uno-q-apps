@@ -1,0 +1,6 @@
+name: 4-relay-ui
+description: ""
+ports: []
+bricks:
+- arduino:streamlit_ui: {}
+icon: 😀

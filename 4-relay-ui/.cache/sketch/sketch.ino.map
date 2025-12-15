@@ -1,0 +1,1503 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o (std::__throw_length_error(char const*))
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::Stream::setTimeout(unsigned long))
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o (arduino::String::String(arduino::String&&))
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o) (dtostrf)
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+                              (main)
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o (operator new(unsigned int))
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o) (start_static_threads())
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o (pinMode)
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o (Serial1)
+/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+                              /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o) (map(long, long, long, long, long))
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .text.analogReference
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_info    0x0000000000000000     0x15b3 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_abbrev  0x0000000000000000      0x31c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_loclists
+                0x0000000000000000       0x23 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_aranges
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_rnglists
+                0x0000000000000000       0x13 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_line    0x0000000000000000      0x3c1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_str     0x0000000000000000     0x1738 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .debug_frame   0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_pure_virtual
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_deleted_virtual
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .text.__cxa_atexit
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .data.__dso_handle
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9timedPeekEv
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream13peekNextDigitENS_13LookaheadModeEb
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream8parseIntENS_13LookaheadModeEc
+                0x0000000000000000       0x70 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream10parseFloatENS_13LookaheadModeEc
+                0x0000000000000000      0x138 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream14readBytesUntilEcPcj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .rodata._ZN7arduino6Stream10readStringEv.str1.1
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream10readStringEv
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream15readStringUntilEc
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findMultiEPNS0_11MultiTargetEi
+                0x0000000000000000       0xa8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findUntilEPKcjS2_j
+                0x0000000000000000       0x50 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream9findUntilEPKcS2_
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream4findEPKcj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text._ZN7arduino6Stream4findEPKc
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2EPKcj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String4copyEPKNS_19__FlashStringHelperEj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ec
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ehh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Ejh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Elh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Emh
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Efh
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2Edh
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringaSEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringC2EPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKc.part.0
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKc
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEh
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEi
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEl
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEm
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEf
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEd
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6concatEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x44 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperERKNS_6StringE
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEPKc
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEc
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEh
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEi
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEl
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEm
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEf
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEd
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduinoplERKNS_15StringSumHelperEPKNS_19__FlashStringHelperE
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String9compareToEPKc
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String16equalsIgnoreCaseERKS0_
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String10startsWithERKS0_j
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String10startsWithERKS0_
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8endsWithERKS0_
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String9setCharAtEjc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6StringixEj
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6StringixEj
+                0x0000000000000000       0x12 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String6charAtEj
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8getBytesEPhjj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfEcj
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfEc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfERKS0_j
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7indexOfERKS0_
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfEcj
+                0x0000000000000000       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfEc
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfERKS0_j
+                0x0000000000000000       0x54 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String11lastIndexOfERKS0_
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZNK7arduino6String9substringEjj.str1.1
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String9substringEjj
+                0x0000000000000000       0x4c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String7replaceEcc
+                0x0000000000000000       0x16 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String7replaceERKS0_S2_
+                0x0000000000000000      0x12c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6removeEjj
+                0x0000000000000000       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String6removeEj
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String11toLowerCaseEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String11toUpperCaseEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZN7arduino6String4trimEv
+                0x0000000000000000       0x58 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String5toIntEv
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String8toDoubleEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text._ZNK7arduino6String7toFloatEv
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .bss._ZZN7arduino6StringixEjE19dummy_writable_char
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZN7arduino6String22DBL_MAX_DECIMAL_PLACESE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .rodata._ZN7arduino6String22FLT_MAX_DECIMAL_PLACESE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .rodata.dtostrf.str1.1
+                0x0000000000000000        0x9 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.dtostrf  0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.ultoa    0x0000000000000000       0x64 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text.utoa     0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .text._Z10__loopHookv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .entry_point   0x0000000000000000       0xb8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znaj    0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt11align_val_tSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajSt11align_val_tRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnwjSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZnajPv  0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPv   0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvj  0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvRKSt9nothrow_t
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdlPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._ZdaPvS_
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .rodata._ZSt7nothrow
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_123find_gpio_port_callbackEPK6device
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_119setInterruptHandlerEhPFvvE
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._ZN12_GLOBAL__N_118handleGpioCallbackEPK6deviceP13gpio_callbackj
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z14tone_expiry_cbP7k_timer
+                0x0000000000000000       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.digitalRead
+                0x0000000000000000       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z4tonehjm
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6noToneh
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z15tone_timeout_cbP7k_timer
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.delay    0x0000000000000000       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.delayMicroseconds
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.micros   0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21analogWriteResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogWrite
+                0x0000000000000000      0x104 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z11analogWrite7dacPinsi
+                0x0000000000000000       0x68 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogReference
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutioni
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z20analogReadResolutionv
+                0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.analogRead
+                0x0000000000000000       0xbc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10randomSeedm
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randomll
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z6randoml
+                0x0000000000000000       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.enableInterrupt
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.attachInterrupt
+                0x0000000000000000       0xb4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.disableInterrupt
+                0x0000000000000000       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.detachInterrupt
+                0x0000000000000000       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z10interruptsv
+                0x0000000000000000       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z12noInterruptsv
+                0x0000000000000000       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text._Z21digitalPinToInterrupth
+                0x0000000000000000       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata.CSWTCH.111
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL15read_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .data._ZL24_analog_write_resolution
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers_timeout
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss.arduino_pin_timers
+                0x0000000000000000      0xf50 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L19interrupts_disabledE
+                0x0000000000000000        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_1L7irq_keyE
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L10dac_ch_cfgE
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_adcE
+                0x0000000000000000       0x60 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L16arduino_pwm_pinsE
+                0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZN12_GLOBAL__N_1L11arduino_pwmE
+                0x0000000000000000       0x80 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .bss._ZN12_GLOBAL__N_113port_callbackE
+                0x0000000000000000      0x534 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .group         0x0000000000000000        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z11serialEventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._Z12serial1Eventv
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino14serialEventRunEv
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .data          0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .bss           0x0000000000000000        0x0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z3maplllll
+                0x0000000000000000       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordt
+                0x0000000000000000        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .text._Z8makeWordhh
+                0x0000000000000000        0x6 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_info    0x0000000000000000      0x168 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_abbrev  0x0000000000000000       0xc1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_loclists
+                0x0000000000000000       0x51 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_aranges
+                0x0000000000000000       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_rnglists
+                0x0000000000000000       0x1f /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_line    0x0000000000000000      0x1b6 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_str     0x0000000000000000      0x370 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .comment       0x0000000000000000       0x21 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .debug_frame   0x0000000000000000       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+ .ARM.attributes
+                0x0000000000000000       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Common.cpp.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/arm-zephyr-eabi/12.2.0/../../../../arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libnosys.a
+LOAD /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+LOAD /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/analogReference.cpp.o
+START GROUP
+LOAD /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libstdc++.a
+LOAD /home/arduino/.arduino15/packages/zephyr/tools/arm-zephyr-eabi/0.16.8/bin/../lib/gcc/../../picolibc/arm-zephyr-eabi/lib/thumb/v8-m.main+fp/hard/libsupc++.a
+END GROUP
+
+/DISCARD/
+ *(.ARM.attributes)
+ *(.ARM.attributes.*)
+ *(.ARM.exidx)
+ *(.ARM.exidx.*)
+ *(.ARM.extidx)
+ *(.ARM.extidx.*)
+ *(.ARM.extab)
+ *(.ARM.extab.*)
+ *(.comment)
+ *(.comment.*)
+ *(.llvmbc)
+ *(.llvmcmd)
+ *(.eh_frame)
+ *stdexcept.o()
+ *eh_*.o()
+ *cow-stdexcept.o()
+ *functexcept.o()
+ *cow-string-inst.o()
+
+.text           0x0000000000000000     0x47a8
+ *(.text)
+ *(.stub)
+ *(.text*)
+ .text._ZN7arduino5Print17availableForWriteEv
+                0x0000000000000000        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000000                arduino::Print::availableForWrite()
+ .text._ZN7arduino5Print5flushEv
+                0x0000000000000004        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000004                arduino::Print::flush()
+ .text._ZN15SerialTransport9availableEv
+                0x0000000000000006       0x12 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000006                SerialTransport::available()
+ .text._ZN15SerialTransport5writeEPKhj
+                0x0000000000000018       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000018                SerialTransport::write(unsigned char const*, unsigned int)
+ .text._ZN15SerialTransportD2Ev
+                0x0000000000000028        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000028                SerialTransport::~SerialTransport()
+                0x0000000000000028                SerialTransport::~SerialTransport()
+ .text._ZN13BridgeMonitorILj512EE5writeEh
+                0x000000000000002a       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000002a                BridgeMonitor<512u>::write(unsigned char)
+ *fill*         0x0000000000000042        0x2 
+ .text.k_yield  0x0000000000000044        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.__tcf_1  0x000000000000004c       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN15SerialTransportD0Ev
+                0x000000000000005c       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000005c                SerialTransport::~SerialTransport()
+ .text._ZN15SerialTransport4readEPhj
+                0x0000000000000070       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000070                SerialTransport::read(unsigned char*, unsigned int)
+ .text._ZN15SerialTransport9read_byteERh
+                0x0000000000000098       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000098                SerialTransport::read_byte(unsigned char&)
+ .text.k_mutex_lock
+                0x00000000000000b8        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._Z11set_relay_1b
+                0x00000000000000c0       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000c0                set_relay_1(bool)
+ .text._Z11set_relay_2b
+                0x00000000000000d4       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000d4                set_relay_2(bool)
+ .text._Z11set_relay_3b
+                0x00000000000000e8       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000e8                set_relay_3(bool)
+ .text._Z11set_relay_4b
+                0x00000000000000fc       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000000fc                set_relay_4(bool)
+ .text._ZNSt17_Function_handlerIFvbEPS0_E10_M_managerERSt9_Any_dataRKS3_St18_Manager_operation
+                0x0000000000000110       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000110                std::_Function_handler<void (bool), void (*)(bool)>::_M_manager(std::_Any_data&, std::_Any_data const&, std::_Manager_operation)
+ .text._ZNSt17_Function_handlerIFvbEPS0_E9_M_invokeERKSt9_Any_dataOb
+                0x0000000000000140        0x6 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000140                std::_Function_handler<void (bool), void (*)(bool)>::_M_invoke(std::_Any_data const&, bool&&)
+ *fill*         0x0000000000000146        0x2 
+ .text._ZSt14__relocate_a_1IhhENSt9enable_ifIXsrSt24__is_bitwise_relocatableIT_vE5valueEPS2_E4typeES4_S4_S4_RSaIT0_E.isra.0
+                0x0000000000000148       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt12_Vector_baseIhSaIhEE11_M_allocateEj.isra.0
+                0x0000000000000168       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.k_mutex_unlock.isra.0
+                0x0000000000000188        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN13BridgeMonitorILj512EE4readEv
+                0x0000000000000190       0x64 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000190                BridgeMonitor<512u>::read()
+ .text._ZN13BridgeMonitorILj512EE4peekEv
+                0x00000000000001f4       0x44 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000001f4                BridgeMonitor<512u>::peek()
+ .text.k_msleep.constprop.0.isra.0
+                0x0000000000000238        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt14_Function_baseD2Ev
+                0x0000000000000244       0x12 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000244                std::_Function_base::~_Function_base()
+                0x0000000000000244                std::_Function_base::~_Function_base()
+ *fill*         0x0000000000000256        0x2 
+ .text._ZN18RpcFunctionWrapperISt8functionIFvbEEED2Ev
+                0x0000000000000258       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000258                RpcFunctionWrapper<std::function<void (bool)> >::~RpcFunctionWrapper()
+                0x0000000000000258                RpcFunctionWrapper<std::function<void (bool)> >::~RpcFunctionWrapper()
+ .text._ZN18RpcFunctionWrapperISt8functionIFvbEEED0Ev
+                0x0000000000000274       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000274                RpcFunctionWrapper<std::function<void (bool)> >::~RpcFunctionWrapper()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeEv
+                0x0000000000000290       0x16 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000290                arduino::msgpack::Unpacker::deserialize()
+ .text._ZN7arduino7msgpack8Unpacker5clearEv
+                0x00000000000002a6       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002a6                arduino::msgpack::Unpacker::clear()
+ .text._ZNK7arduino7msgpack8Unpacker13getRawBytePtrEjj
+                0x00000000000002ba       0x1e /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002ba                arduino::msgpack::Unpacker::getRawBytePtr(unsigned int, unsigned int) const
+ .text._ZN8RpcErrorC2Ev
+                0x00000000000002d8       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000002d8                RpcError::RpcError()
+                0x00000000000002d8                RpcError::RpcError()
+ .text._ZN7arduino7msgpack8UnpackerC2Ev
+                0x0000000000000304       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000304                arduino::msgpack::Unpacker::Unpacker()
+                0x0000000000000304                arduino::msgpack::Unpacker::Unpacker()
+ .text._ZN10RPCRequestILj256EEC2Ev
+                0x0000000000000314       0x4c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000314                RPCRequest<256u>::RPCRequest()
+                0x0000000000000314                RPCRequest<256u>::RPCRequest()
+ .text.loop     0x0000000000000360        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000360                loop
+ *fill*         0x0000000000000362        0x2 
+ .text._ZNSt12_Vector_baseIhSaIhEED2Ev
+                0x0000000000000364       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000364                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+                0x0000000000000364                std::_Vector_base<unsigned char, std::allocator<unsigned char> >::~_Vector_base()
+ .text.__tcf_3  0x000000000000037c       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.__tcf_2  0x0000000000000390       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt6vectorIhSaIhEE14_M_move_assignEOS1_St17integral_constantIbLb1EE.isra.0
+                0x00000000000003a4       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIhEET_jj
+                0x00000000000003d8       0x1e /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000003d8                unsigned char arduino::msgpack::Unpacker::getRawBytes<unsigned char>(unsigned int, unsigned int) const
+ *fill*         0x00000000000003f6        0x2 
+ .text._ZNK7arduino7msgpack8Unpacker7getTypeEj
+                0x00000000000003f8       0x58 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000003f8                arduino::msgpack::Unpacker::getType(unsigned int) const
+ .text._ZNK7arduino7msgpack8Unpacker7getTypeEv
+                0x0000000000000450       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000450                arduino::msgpack::Unpacker::getType() const
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt32Ev
+                0x0000000000000460       0x58 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000460                arduino::msgpack::Unpacker::unpackInt32()
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt64Ev
+                0x00000000000004b8       0x60 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000004b8                arduino::msgpack::Unpacker::unpackInt64()
+ .text._ZN7arduino7msgpack8Unpacker9unpackNilEv
+                0x0000000000000518       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000518                arduino::msgpack::Unpacker::unpackNil()
+ .text._ZNK7arduino7msgpack8Unpacker7isArrayEv
+                0x0000000000000554       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000554                arduino::msgpack::Unpacker::isArray() const
+ .text._ZNK7arduino7msgpack8Unpacker5isMapEv
+                0x0000000000000574       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000574                arduino::msgpack::Unpacker::isMap() const
+ .text._ZNK7arduino7msgpack8Unpacker6isUIntEv
+                0x0000000000000594       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000594                arduino::msgpack::Unpacker::isUInt() const
+ .text._ZNK7arduino7msgpack8Unpacker5isIntEv
+                0x00000000000005b4       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000005b4                arduino::msgpack::Unpacker::isInt() const
+ .text._ZN7arduino7msgpack8Unpacker11unpackInt16Ev
+                0x00000000000005d4       0x4c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000005d4                arduino::msgpack::Unpacker::unpackInt16()
+ .text._ZN7arduino7msgpack8Unpacker13unpackFloat32Ev
+                0x0000000000000620       0x60 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000620                arduino::msgpack::Unpacker::unpackFloat32()
+ .text._ZN7arduino7msgpack8Unpacker13unpackFloat64Ev
+                0x0000000000000680       0x6c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000680                arduino::msgpack::Unpacker::unpackFloat64()
+ .text._ZN7arduino7msgpack8Unpacker10unpackInt5Ev
+                0x00000000000006ec       0x4c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000006ec                arduino::msgpack::Unpacker::unpackInt5()
+ .text._ZN7arduino7msgpack8Unpacker11unpackUInt7Ev
+                0x0000000000000738       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000738                arduino::msgpack::Unpacker::unpackUInt7()
+ .text._ZN7arduino7msgpack8Unpacker11unpackUInt8Ev
+                0x0000000000000780       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000780                arduino::msgpack::Unpacker::unpackUInt8()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesItEET_jj
+                0x00000000000007c8       0x26 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000007c8                unsigned short arduino::msgpack::Unpacker::getRawBytes<unsigned short>(unsigned int, unsigned int) const
+ *fill*         0x00000000000007ee        0x2 
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt16Ev
+                0x00000000000007f0       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000007f0                arduino::msgpack::Unpacker::unpackUInt16()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIjEET_jj
+                0x0000000000000838       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000838                unsigned int arduino::msgpack::Unpacker::getRawBytes<unsigned int>(unsigned int, unsigned int) const
+ .text._ZNK7arduino7msgpack8Unpacker14getElementSizeEj
+                0x000000000000086c      0x11c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000086c                arduino::msgpack::Unpacker::getElementSize(unsigned int) const
+ .text._ZN7arduino7msgpack8Unpacker15unpackArraySizeEv
+                0x0000000000000988       0x78 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000988                arduino::msgpack::Unpacker::unpackArraySize()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJEEEbRT_DpOT0_.isra.0
+                0x0000000000000a00       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt32Ev
+                0x0000000000000a40       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000a40                arduino::msgpack::Unpacker::unpackUInt32()
+ .text._ZN7arduino7msgpack8Unpacker13unpackMapSizeEv
+                0x0000000000000a88       0x78 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000a88                arduino::msgpack::Unpacker::unpackMapSize()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIyEET_jj
+                0x0000000000000b00       0x3a /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000b00                unsigned long long arduino::msgpack::Unpacker::getRawBytes<unsigned long long>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000b3a        0x2 
+ .text._ZN7arduino7msgpack8Unpacker12unpackUInt64Ev
+                0x0000000000000b3c       0x4c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000b3c                arduino::msgpack::Unpacker::unpackUInt64()
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIaEET_jj
+                0x0000000000000b88       0x1e /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000b88                signed char arduino::msgpack::Unpacker::getRawBytes<signed char>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000ba6        0x2 
+ .text._ZN7arduino7msgpack8Unpacker10unpackInt8Ev
+                0x0000000000000ba8       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ba8                arduino::msgpack::Unpacker::unpackInt8()
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp32Ev
+                0x0000000000000bf0       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000bf0                arduino::msgpack::Unpacker::isTimestamp32() const
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp64Ev
+                0x0000000000000c1c       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c1c                arduino::msgpack::Unpacker::isTimestamp64() const
+ .text._ZNK7arduino7msgpack8Unpacker13isTimestamp96Ev
+                0x0000000000000c48       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c48                arduino::msgpack::Unpacker::isTimestamp96() const
+ .text._ZNK7arduino7msgpack8Unpacker11getRawBytesIcEET_jj
+                0x0000000000000c88       0x1e /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000c88                char arduino::msgpack::Unpacker::getRawBytes<char>(unsigned int, unsigned int) const
+ *fill*         0x0000000000000ca6        0x2 
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_6object5nil_tEJEEEbRT_DpOT0_
+                0x0000000000000ca8       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ca8                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::object::nil_t>(arduino::msgpack::object::nil_t&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIbJEEEbRT_DpOT0_
+                0x0000000000000ce8       0x68 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ce8                bool arduino::msgpack::Unpacker::deserialize<bool>(bool&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS_6StringEJEEEbRT_DpOT0_
+                0x0000000000000d50      0x174 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000d50                bool arduino::msgpack::Unpacker::deserialize<arduino::String>(arduino::String&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_6object8timespecEJEEEbRT_DpOT0_
+                0x0000000000000ec4       0xc4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ec4                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::object::timespec>(arduino::msgpack::object::timespec&)
+ .text._ZN17RpcDecoderManagerILj3EE10getDecoderER10ITransport
+                0x0000000000000f88       0x74 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000f88                RpcDecoderManager<3u>::getDecoder(ITransport&)
+ .text._ZNSt12_Vector_baseIjSaIjEED2Ev
+                0x0000000000000ffc       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000000ffc                std::_Vector_base<unsigned int, std::allocator<unsigned int> >::~_Vector_base()
+                0x0000000000000ffc                std::_Vector_base<unsigned int, std::allocator<unsigned int> >::~_Vector_base()
+ .text._ZN10RPCRequestILj256EED2Ev
+                0x0000000000001014       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001014                RPCRequest<256u>::~RPCRequest()
+                0x0000000000001014                RPCRequest<256u>::~RPCRequest()
+ .text._ZNSt6vectorIjSaIjEE17_M_realloc_insertIJRjEEEvN9__gnu_cxx17__normal_iteratorIPjS1_EEDpOT_
+                0x0000000000001040       0xdc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001040                void std::vector<unsigned int, std::allocator<unsigned int> >::_M_realloc_insert<unsigned int&>(__gnu_cxx::__normal_iterator<unsigned int*, std::vector<unsigned int, std::allocator<unsigned int> > >, unsigned int&)
+ .text._ZN7arduino7msgpack8Unpacker4feedEPKhj
+                0x000000000000111c       0x78 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000111c                arduino::msgpack::Unpacker::feed(unsigned char const*, unsigned int)
+ .text._ZNKSt6vectorIhSaIhEE12_M_check_lenEjPKc
+                0x0000000000001194       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001194                std::vector<unsigned char, std::allocator<unsigned char> >::_M_check_len(unsigned int, char const*) const
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJRKhEEERhDpOT_.isra.0
+                0x00000000000011cc       0x90 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJhEEERhDpOT_.isra.0
+                0x000000000000125c       0x90 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack8Unpacker11deserializeISt6vectorIhSaIhEEJEEEbRT_DpOT0_
+                0x00000000000012ec      0x13c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000012ec                bool arduino::msgpack::Unpacker::deserialize<std::vector<unsigned char, std::allocator<unsigned char> >>(std::vector<unsigned char, std::allocator<unsigned char> >&)
+ .text._ZN7arduino7msgpack6Packer11packRawByteERKNS0_4TypeE.isra.0
+                0x0000000000001428       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer7packNilEv
+                0x0000000000001440       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001440                arduino::msgpack::Packer::packNil()
+ .text._ZN7arduino7msgpack6Packer9packUInt8Eh
+                0x0000000000001458       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001458                arduino::msgpack::Packer::packUInt8(unsigned char)
+ .text._ZNSt6vectorIhSaIhEE12emplace_backIJRhEEES3_DpOT_.isra.0
+                0x0000000000001484       0x90 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer15packRawReversedIjEEvRKT_
+                0x0000000000001514       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001514                void arduino::msgpack::Packer::packRawReversed<unsigned int>(unsigned int const&)
+ .text._ZN7arduino7msgpack6Packer10packUInt32Ej
+                0x0000000000001530       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001530                arduino::msgpack::Packer::packUInt32(unsigned int)
+ .text._ZN7arduino7msgpack6Packer15packRawReversedItEEvRKT_
+                0x0000000000001558       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001558                void arduino::msgpack::Packer::packRawReversed<unsigned short>(unsigned short const&)
+ .text._ZN7arduino7msgpack6Packer13packArraySizeEj
+                0x0000000000001574       0x58 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001574                arduino::msgpack::Packer::packArraySize(unsigned int)
+ .text._ZN7arduino7msgpack6Packer10packUInt16Et
+                0x00000000000015cc       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000015cc                arduino::msgpack::Packer::packUInt16(unsigned short)
+ .text._ZN7arduino7msgpack6Packer11packIntegerIjEENSt9enable_ifIXaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valueEvE4typeERKS5_.isra.0
+                0x00000000000015f8       0x50 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer11packIntegerIiEENSt9enable_ifIXaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valueEvE4typeERKS5_.isra.0
+                0x0000000000001648       0xb8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer12packRawBytesEPKcj
+                0x0000000000001700       0x9c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001700                arduino::msgpack::Packer::packRawBytes(char const*, unsigned int)
+ .text._ZN7arduino7msgpack6Packer4packERKNS_6StringE
+                0x000000000000179c       0x7c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000179c                arduino::msgpack::Packer::pack(arduino::String const&)
+ .text._ZN7arduino7msgpack6Packer9serializeIJRKiRjRKNS_6StringEEEEvRKNS0_4type9ArraySizeEDpOT_.isra.0
+                0x0000000000001818       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN7arduino7msgpack6Packer9serializeI8RpcErrorJRNS0_6object5nil_tEEEENSt9enable_ifIXoooontsrSt10is_pointerIT_E5valuesrSt7is_sameIS9_PKcE5valuesrSB_IS9_PKNS_19__FlashStringHelperEE5valueEvE4typeERKS9_DpOT0_.isra.0
+                0x0000000000001850       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN18RpcFunctionWrapperISt8functionIFvbEEEclERN7arduino7msgpack8UnpackerERNS5_6PackerE
+                0x0000000000001888      0x12c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001888                RpcFunctionWrapper<std::function<void (bool)> >::operator()(arduino::msgpack::Unpacker&, arduino::msgpack::Packer&)
+ .text._ZN7arduino7msgpack8Unpacker9unpackIntIiEENSt9enable_ifIXaaaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valuesrSt9is_signedIS5_E5valueES5_E4typeEv
+                0x00000000000019b4       0xd0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000019b4                std::enable_if<(((std::is_arithmetic<int>::value&&std::is_integral<int>::value)&&(!std::is_same<int, bool>::value))&&(!std::is_same<std::remove_cv<int>::type, char*>::value))&&std::is_signed<int>::value, int>::type arduino::msgpack::Unpacker::unpackInt<int>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIiJEEEbRT_DpOT0_
+                0x0000000000001a84       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001a84                bool arduino::msgpack::Unpacker::deserialize<int>(int&)
+ .text._ZN7arduino7msgpack8Unpacker11unpackFloatIfEENSt9enable_ifIXaasrSt13is_arithmeticIT_E5valuesrSt17is_floating_pointIS5_E5valueES5_E4typeEv
+                0x0000000000001ac4      0x118 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001ac4                std::enable_if<std::is_arithmetic<float>::value&&std::is_floating_point<float>::value, float>::type arduino::msgpack::Unpacker::unpackFloat<float>()
+ *fill*         0x0000000000001bdc        0x4 
+ .text._ZN7arduino7msgpack8Unpacker11unpackFloatIdEENSt9enable_ifIXaasrSt13is_arithmeticIT_E5valuesrSt17is_floating_pointIS5_E5valueES5_E4typeEv
+                0x0000000000001be0      0x118 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001be0                std::enable_if<std::is_arithmetic<double>::value&&std::is_floating_point<double>::value, double>::type arduino::msgpack::Unpacker::unpackFloat<double>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJRiEEEbRT_DpOT0_
+                0x0000000000001cf8       0x44 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001cf8                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::type::ArraySize, int&>(arduino::msgpack::type::ArraySize&, int&)
+ .text._ZNK10RpcDecoderILj1024EE4sendEPKhj
+                0x0000000000001d3c       0x22 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001d3c                RpcDecoder<1024u>::send(unsigned char const*, unsigned int) const
+ *fill*         0x0000000000001d5e        0x2 
+ .text._ZN9RPCClient8send_rpcIJRKN7arduino6StringEEEEbS4_RjDpOT_.isra.0
+                0x0000000000001d60       0x84 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN9RPCClient8send_rpcIJEEEbRKN7arduino6StringERjDpOT_.isra.0
+                0x0000000000001de4       0x74 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN9RPCClient8send_rpcIJRKjEEEbRKN7arduino6StringERjDpOT_.isra.0
+                0x0000000000001e58       0x84 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZNK9RPCServer13send_responseILj256EEEbRK10RPCRequestIXT_EE.isra.0
+                0x0000000000001edc       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZN10RpcDecoderILj1024EE7consumeEjj
+                0x0000000000001f00       0x36 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001f00                RpcDecoder<1024u>::consume(unsigned int, unsigned int)
+ *fill*         0x0000000000001f36        0x2 
+ .text._ZN10RpcDecoderILj1024EE7discardEv
+                0x0000000000001f38       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001f38                RpcDecoder<1024u>::discard()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeI8RpcErrorJRNS0_6object5nil_tEEEEbRT_DpOT0_
+                0x0000000000001f64       0x90 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001f64                bool arduino::msgpack::Unpacker::deserialize<RpcError, arduino::msgpack::object::nil_t&>(RpcError&, arduino::msgpack::object::nil_t&)
+ .text._Z4wrapIRFvbESt8functionIS0_EEP18RpcFunctionWrapperIT0_EOT_
+                0x0000000000001ff4       0x6c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000001ff4                RpcFunctionWrapper<std::function<void (bool)> >* wrap<void (&)(bool), std::function<void (bool)> >(void (&)(bool))
+ .text._ZN7arduino7msgpack8Unpacker10unpackUIntIjEENSt9enable_ifIXaaaaaaaasrSt13is_arithmeticIT_E5valuesrSt11is_integralIS5_E5valuentsrSt7is_sameIS5_bE5valuentsrS9_INSt9remove_cvIS5_E4typeEPcE5valuentsrSt9is_signedIS5_E5valueES5_E4typeEv
+                0x0000000000002060       0x80 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002060                std::enable_if<(((std::is_arithmetic<unsigned int>::value&&std::is_integral<unsigned int>::value)&&(!std::is_same<unsigned int, bool>::value))&&(!std::is_same<std::remove_cv<unsigned int>::type, char*>::value))&&(!std::is_signed<unsigned int>::value), unsigned int>::type arduino::msgpack::Unpacker::unpackUInt<unsigned int>()
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIjJRNS_6StringEEEEbRT_DpOT0_
+                0x00000000000020e0       0x44 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000020e0                bool arduino::msgpack::Unpacker::deserialize<unsigned int, arduino::String&>(unsigned int&, arduino::String&)
+ .text._ZN10RpcDecoderILj1024EE16fetch_rpc_methodEv
+                0x0000000000002124       0xe8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002124                RpcDecoder<1024u>::fetch_rpc_method()
+ .text._ZN10RPCRequestILj256EE22unpack_request_headersEv
+                0x000000000000220c       0xb8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000220c                RPCRequest<256u>::unpack_request_headers()
+ .text._ZN9RPCServer15process_requestILj256EEEvR10RPCRequestIXT_EE
+                0x00000000000022c4      0x114 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000022c4                void RPCServer::process_request<256u>(RPCRequest<256u>&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeIjJEEEbRT_DpOT0_
+                0x00000000000023d8       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000023d8                bool arduino::msgpack::Unpacker::deserialize<unsigned int>(unsigned int&)
+ .text._ZN7arduino7msgpack8Unpacker11deserializeINS0_4type9ArraySizeEJRiRjEEEbRT_DpOT0_
+                0x0000000000002418       0x78 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002418                bool arduino::msgpack::Unpacker::deserialize<arduino::msgpack::type::ArraySize, int&, unsigned int&>(arduino::msgpack::type::ArraySize&, int&, unsigned int&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError
+                0x0000000000002490      0x168 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002490                bool RpcDecoder<1024u>::get_response<arduino::msgpack::object::nil_t>(unsigned int, arduino::msgpack::object::nil_t&, RpcError&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIbEEbjRT_R8RpcError
+                0x00000000000025f8      0x168 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000025f8                bool RpcDecoder<1024u>::get_response<bool>(unsigned int, bool&, RpcError&)
+ .text._ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x0000000000002760       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002760                unsigned char* std::__copy_move<false, true, std::random_access_iterator_tag>::__copy_m<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZNSt11__copy_moveILb1ELb1ESt26random_access_iterator_tagE8__copy_mIhEEPT_PKS3_S6_S4_
+                0x000000000000277c       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000277c                unsigned char* std::__copy_move<true, true, std::random_access_iterator_tag>::__copy_m<unsigned char>(unsigned char const*, unsigned char const*, unsigned char*)
+ .text._ZN7arduino7msgpack6object3extC2EaPKhj
+                0x0000000000002798      0x104 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002798                arduino::msgpack::object::ext::ext(signed char, unsigned char const*, unsigned int)
+                0x0000000000002798                arduino::msgpack::object::ext::ext(signed char, unsigned char const*, unsigned int)
+ .text._ZN7arduino7msgpack8Unpacker9unpackExtEv
+                0x000000000000289c      0x178 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000289c                arduino::msgpack::Unpacker::unpackExt()
+ .text._ZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerE
+                0x0000000000002a14      0x294 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002a14                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)
+ .text._ZN10RpcDecoderILj1024EE12parse_packetEv
+                0x0000000000002ca8       0xf8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002ca8                RpcDecoder<1024u>::parse_packet()
+ .text._ZN10RpcDecoderILj1024EE6decodeEv
+                0x0000000000002da0       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002da0                RpcDecoder<1024u>::decode()
+ .text._ZN9RPCServer7get_rpcILj256EEEbR10RPCRequestIXT_EEN7arduino6StringE
+                0x0000000000002de0       0xc4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002de0                bool RPCServer::get_rpc<256u>(RPCRequest<256u>&, arduino::String)
+ .text._ZN11BridgeClass11update_safeEv
+                0x0000000000002ea4       0xb0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002ea4                BridgeClass::update_safe()
+ .text._Z10__loopHookv
+                0x0000000000002f54       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002f54                __loopHook()
+ .text._ZN11BridgeClass6updateEv
+                0x0000000000002f74       0xb0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000002f74                BridgeClass::update()
+ .text._Z16updateEntryPointPvS_S_
+                0x0000000000003024       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003024                updateEntryPoint(void*, void*, void*)
+ .text._ZN9RPCClient12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError
+                0x0000000000003048       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003048                bool RPCClient::get_response<arduino::msgpack::object::nil_t>(unsigned int, arduino::msgpack::object::nil_t&, RpcError&)
+ .text._ZN9RPCClient12get_responseIbEEbjRT_R8RpcError
+                0x0000000000003088       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003088                bool RPCClient::get_response<bool>(unsigned int, bool&, RpcError&)
+ .text._ZN9RpcResultIJRKN7arduino6StringEEE6resultIbEEbRT_
+                0x00000000000030c8       0x90 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000030c8                bool RpcResult<arduino::String const&>::result<bool>(bool&)
+ .text._ZN11BridgeClass7provideIRFvbEEEbRKN7arduino6StringEOT_.isra.0
+                0x0000000000003158      0x1a8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text.setup    0x0000000000003300      0x2ec /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003300                setup
+ .text._ZN8RpcUtils6detail9unpackMapERN7arduino7msgpack8UnpackerERj
+                0x00000000000035ec       0x80 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000035ec                RpcUtils::detail::unpackMap(arduino::msgpack::Unpacker&, unsigned int&)
+ .text._ZN10RpcDecoderILj1024EE12get_responseIjEEbjRT_R8RpcError
+                0x000000000000366c      0x168 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000366c                bool RpcDecoder<1024u>::get_response<unsigned int>(unsigned int, unsigned int&, RpcError&)
+ .text._ZN9RpcResultIJRN7arduino6StringEEE6resultIjEEbRT_
+                0x00000000000037d4       0xbc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000037d4                bool RpcResult<arduino::String&>::result<unsigned int>(unsigned int&)
+ .text._ZN13BridgeMonitorILj512EE5writeEPKhj
+                0x0000000000003890      0x128 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003890                BridgeMonitor<512u>::write(unsigned char const*, unsigned int)
+ .text._ZN10RpcDecoderILj1024EE12get_responseISt6vectorIhSaIhEEEEbjRT_R8RpcError
+                0x00000000000039b8      0x168 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000039b8                bool RpcDecoder<1024u>::get_response<std::vector<unsigned char, std::allocator<unsigned char> > >(unsigned int, std::vector<unsigned char, std::allocator<unsigned char> >&, RpcError&)
+ .text._ZN9RpcResultIJRjEE6resultISt6vectorIhSaIhEEEEbRT_
+                0x0000000000003b20       0xbc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003b20                bool RpcResult<unsigned int&>::result<std::vector<unsigned char, std::allocator<unsigned char> > >(std::vector<unsigned char, std::allocator<unsigned char> >&)
+ .text._ZN13BridgeMonitorILj512EE5_readEj
+                0x0000000000003bdc      0x15c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003bdc                BridgeMonitor<512u>::_read(unsigned int)
+ .text._ZN13BridgeMonitorILj512EE9availableEv
+                0x0000000000003d38       0x44 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000003d38                BridgeMonitor<512u>::available()
+ .text._GLOBAL__sub_I_Bridge
+                0x0000000000003d7c       0xc4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._GLOBAL__sub_D_Bridge
+                0x0000000000003e40       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .text._ZSt20__throw_length_errorPKc
+                0x0000000000003e60        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000003e60                std::__throw_length_error(char const*)
+ .text._ZSt17__throw_bad_allocv
+                0x0000000000003e62        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000003e62                std::__throw_bad_alloc()
+ .text._ZSt25__throw_bad_function_callv
+                0x0000000000003e64        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000003e64                std::__throw_bad_function_call()
+ .text.atexit   0x0000000000003e66        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000003e66                atexit
+ .text.strcmp   0x0000000000003e6a       0x16 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+                0x0000000000003e6a                strcmp
+ .text._ZN7arduino6Stream9timedReadEv
+                0x0000000000003e80       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x0000000000003e80                arduino::Stream::timedRead()
+ .text._ZN7arduino6Stream10setTimeoutEm
+                0x0000000000003eac        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x0000000000003eac                arduino::Stream::setTimeout(unsigned long)
+ .text._ZN7arduino6Stream9readBytesEPcj
+                0x0000000000003eb0       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+                0x0000000000003eb0                arduino::Stream::readBytes(char*, unsigned int)
+ .text._ZN7arduino6StringC2EOS0_
+                0x0000000000003edc       0x16 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003edc                arduino::String::String(arduino::String&&)
+                0x0000000000003edc                arduino::String::String(arduino::String&&)
+ *fill*         0x0000000000003ef2        0x2 
+ .text._ZN7arduino6StringD2Ev
+                0x0000000000003ef4       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003ef4                arduino::String::~String()
+                0x0000000000003ef4                arduino::String::~String()
+ .text._ZN7arduino6String10invalidateEv
+                0x0000000000003f08       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003f08                arduino::String::invalidate()
+ .text._ZN7arduino6String12changeBufferEj
+                0x0000000000003f24       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003f24                arduino::String::changeBuffer(unsigned int)
+ .text._ZN7arduino6String7reserveEj
+                0x0000000000003f40       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003f40                arduino::String::reserve(unsigned int)
+ .text._ZN7arduino6String4copyEPKcj
+                0x0000000000003f68       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003f68                arduino::String::copy(char const*, unsigned int)
+ .text._ZN7arduino6StringC2EPKc
+                0x0000000000003fa4       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003fa4                arduino::String::String(char const*)
+                0x0000000000003fa4                arduino::String::String(char const*)
+ .text._ZN7arduino6String4moveERS0_
+                0x0000000000003fd0       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003fd0                arduino::String::move(arduino::String&)
+ .text._ZN7arduino6StringaSERKS0_
+                0x0000000000003ffc       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000003ffc                arduino::String::operator=(arduino::String const&)
+ .text._ZN7arduino6StringC2ERKS0_
+                0x0000000000004024       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004024                arduino::String::String(arduino::String const&)
+                0x0000000000004024                arduino::String::String(arduino::String const&)
+ .text._ZN7arduino6StringaSEOS0_
+                0x000000000000403c       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x000000000000403c                arduino::String::operator=(arduino::String&&)
+ .text._ZN7arduino6StringaSEPKc
+                0x000000000000404c       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x000000000000404c                arduino::String::operator=(char const*)
+ .text._ZN7arduino6StringC2Eih
+                0x000000000000407c       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x000000000000407c                arduino::String::String(int, unsigned char)
+                0x000000000000407c                arduino::String::String(int, unsigned char)
+ .text._ZN7arduino6String6concatEPKcj
+                0x00000000000040a8       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x00000000000040a8                arduino::String::concat(char const*, unsigned int)
+ .text._ZN7arduino6String6concatERKS0_
+                0x00000000000040e8        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x00000000000040e8                arduino::String::concat(arduino::String const&)
+ .text._ZN7arduino6String6concatEc
+                0x00000000000040f4       0x1c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x00000000000040f4                arduino::String::concat(char)
+ .text._ZNK7arduino6String9compareToERKS0_
+                0x0000000000004110       0x30 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004110                arduino::String::compareTo(arduino::String const&) const
+ .text._ZNK7arduino6String6equalsERKS0_
+                0x0000000000004140       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004140                arduino::String::equals(arduino::String const&) const
+ .text._ZNK7arduino6String6equalsEPKc
+                0x0000000000004160       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+                0x0000000000004160                arduino::String::equals(char const*) const
+ .text.ltoa     0x0000000000004188       0x80 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+                0x0000000000004188                ltoa
+ .text.itoa     0x0000000000004208        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+                0x0000000000004208                itoa
+ .text.initVariant
+                0x0000000000004210        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000004210                initVariant
+ *fill*         0x0000000000004212        0x2 
+ .text.main     0x0000000000004214       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+                0x0000000000004214                main
+ .text._ZL10new_helperj
+                0x0000000000004240       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .text._Znwj    0x0000000000004250        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000004250                operator new(unsigned int)
+ .text._ZnwjPv  0x0000000000004258        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+                0x0000000000004258                operator new(unsigned int, void*)
+ .text._ZdlPvj  0x000000000000425c        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+                0x000000000000425c                operator delete(void*, unsigned int)
+ .text._Z20start_static_threadsv
+                0x0000000000004264       0x6c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+                0x0000000000004264                start_static_threads()
+ .text.gpio_pin_set_dt.isra.0
+                0x00000000000042d0       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .text.gpio_pin_configure_dt.isra.0
+                0x00000000000042f8       0x2a /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ *fill*         0x0000000000004322        0x2 
+ .text.yield    0x0000000000004324        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004324                yield
+ .text.pinMode  0x000000000000432c       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x000000000000432c                pinMode
+ .text.digitalWrite
+                0x0000000000004368       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x0000000000004368                digitalWrite
+ .text.millis   0x000000000000437c       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+                0x000000000000437c                millis
+ .text.z_impl_uart_irq_tx_enable
+                0x0000000000004394        0xa /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial5beginEm
+                0x000000000000439e        0xa /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x000000000000439e                arduino::ZephyrSerial::begin(unsigned long)
+ .text._ZN7arduino12ZephyrSerial3endEv
+                0x00000000000043a8        0x2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000043a8                arduino::ZephyrSerial::end()
+ .text._ZN7arduino12ZephyrSerial5writeEh
+                0x00000000000043aa       0x18 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000043aa                arduino::ZephyrSerial::write(unsigned char)
+ .text._ZN7arduino12ZephyrSerialcvbEv
+                0x00000000000043c2        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000043c2                arduino::ZephyrSerial::operator bool()
+ *fill*         0x00000000000043c6        0x2 
+ .text.k_sem_give
+                0x00000000000043c8        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text.k_sem_take.isra.0
+                0x00000000000043d0        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ .text._ZN7arduino12ZephyrSerial4readEv
+                0x00000000000043d8       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000043d8                arduino::ZephyrSerial::read()
+ .text._ZN7arduino12ZephyrSerial4peekEv
+                0x0000000000004420       0x48 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004420                arduino::ZephyrSerial::peek()
+ .text._ZN7arduino12ZephyrSerial17availableForWriteEv
+                0x0000000000004468       0x3c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004468                arduino::ZephyrSerial::availableForWrite()
+ .text._ZN7arduino12ZephyrSerial9availableEv
+                0x00000000000044a4       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000044a4                arduino::ZephyrSerial::available()
+ .text._ZN7arduino12ZephyrSerial5beginEmt
+                0x00000000000044d8       0xb8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000044d8                arduino::ZephyrSerial::begin(unsigned long, unsigned short)
+ .text._ZN7arduino12ZephyrSerial5flushEv
+                0x0000000000004590       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004590                arduino::ZephyrSerial::flush()
+ .text._ZN7arduino12ZephyrSerial5writeEPKhj
+                0x00000000000045bc       0x70 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x00000000000045bc                arduino::ZephyrSerial::write(unsigned char const*, unsigned int)
+ .text._ZN7arduino12ZephyrSerial10IrqHandlerEv
+                0x000000000000462c       0xec /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x000000000000462c                arduino::ZephyrSerial::IrqHandler()
+ .text._ZN7arduino12ZephyrSerial11IrqDispatchEPK6devicePv
+                0x0000000000004718        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004718                arduino::ZephyrSerial::IrqDispatch(device const*, void*)
+ .text._ZN7arduino12ZephyrSerial18ZephyrSerialBufferILi64EEC2Ev
+                0x0000000000004724       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004724                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+                0x0000000000004724                arduino::ZephyrSerial::ZephyrSerialBuffer<64>::ZephyrSerialBuffer()
+ .text._GLOBAL__sub_I__ZN7arduino12ZephyrSerial5beginEmt
+                0x000000000000474c       0x5c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+ *(.text.*)
+ *(.text._*)
+ *(.init)
+ *(.ctors)
+ *(.dtors)
+ *(.fini)
+
+.static_thread_data_area
+                0x00000000000047a8        0x0
+                0x00000000000047a8                __static_thread_data_list_start = .
+ *(.static_thread_data_area SORT_BY_NAME(.__static_thread_data.*))
+                0x00000000000047a8                __static_thread_data_list_end = .
+
+.rodata         0x00000000000047a8      0x4d4
+ *(.rodata)
+ *(.rodata1)
+ *(.rodata.*)
+ .rodata._ZN8RpcErrorC2Ev.str1.1
+                0x00000000000047a8        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZNSt6vectorIjSaIjEE17_M_realloc_insertIJRjEEEvN9__gnu_cxx17__normal_iteratorIPjS1_EEDpOT_.str1.1
+                0x00000000000047a9       0x1a /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN18RpcFunctionWrapperISt8functionIFvbEEEclERN7arduino7msgpack8UnpackerERNS5_6PackerE.str1.1
+                0x00000000000047c3       0xa6 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN10RpcDecoderILj1024EE12get_responseIN7arduino7msgpack6object5nil_tEEEbjRT_R8RpcError.str1.1
+                0x0000000000004869       0x7b /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN7arduino7msgpack6object3extC2EaPKhj.str1.1
+                0x00000000000048e4       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN11BridgeClass11update_safeEv.str1.1
+                0x000000000000490c        0x9 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN11BridgeClass7provideIRFvbEEEbRKN7arduino6StringEOT_.isra.0.str1.1
+                0x0000000000004915        0xb /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata.setup.str1.1
+                0x0000000000004920       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN13BridgeMonitorILj512EE5writeEPKhj.str1.1
+                0x0000000000004958        0xa /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .rodata._ZN13BridgeMonitorILj512EE5_readEj.str1.1
+                0x0000000000004962        0x9 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ *fill*         0x000000000000496b        0x1 
+ .rodata._ZTV15SerialTransport
+                0x000000000000496c       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000496c                vtable for SerialTransport
+ .rodata._ZTV13BridgeMonitorILj512EE
+                0x000000000000498c       0x24 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x000000000000498c                vtable for BridgeMonitor<512u>
+ .rodata._ZTV18RpcFunctionWrapperISt8functionIFvbEEE
+                0x00000000000049b0       0x14 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000049b0                vtable for RpcFunctionWrapper<std::function<void (bool)> >
+ .rodata.str1.1
+                0x00000000000049c4       0x51 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ *fill*         0x0000000000004a15        0x3 
+ .rodata._ZL12arduino_pins
+                0x0000000000004a18      0x230 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .rodata._ZTVN7arduino12ZephyrSerialE
+                0x0000000000004c48       0x34 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000004c48                vtable for arduino::ZephyrSerial
+
+.data           0x0000000000004c7c       0x10
+ *(.data .data.*)
+ .data.relay_4  0x0000000000004c7c        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c7c                relay_4
+ .data.relay_3  0x0000000000004c80        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c80                relay_3
+ .data.relay_2  0x0000000000004c84        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c84                relay_2
+ .data.relay_1  0x0000000000004c88        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c88                relay_1
+
+.bss            0x0000000000004c90     0x1244
+ *(.bss .bss.* COMMON)
+ .bss._ZN17RpcDecoderManagerILj3EE14decoders_countE
+                0x0000000000004c90        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c90                RpcDecoderManager<3u>::decoders_count
+ .bss._ZGVN17RpcDecoderManagerILj3EE9decoders_E
+                0x0000000000004c94        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c94                guard variable for RpcDecoderManager<3u>::decoders_
+ .bss._ZN17RpcDecoderManagerILj3EE9decoders_E
+                0x0000000000004c98      0xc60 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000004c98                RpcDecoderManager<3u>::decoders_
+ .bss._ZGVZN7arduino7msgpack8Unpacker10from_arrayIJRiRNS_6StringEEEEbDpOT_E2sz
+                0x00000000000058f8        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000058f8                guard variable for arduino::msgpack::Unpacker::from_array<int&, arduino::String&>(int&, arduino::String&)::sz
+ .bss._ZZN7arduino7msgpack8Unpacker10from_arrayIJRiRNS_6StringEEEEbDpOT_E2sz
+                0x00000000000058fc        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x00000000000058fc                arduino::msgpack::Unpacker::from_array<int&, arduino::String&>(int&, arduino::String&)::sz
+ .bss._ZN12RouterBridge3HCIE
+                0x0000000000005900       0x28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005900                RouterBridge::HCI
+ .bss.Monitor   0x0000000000005928      0x238 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005928                Monitor
+ .bss.Bridge    0x0000000000005b60      0x140 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005b60                Bridge
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1t
+                0x0000000000005ca0       0x10 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005ca0                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::t
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1e
+                0x0000000000005cb0        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cb0                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::e
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1e
+                0x0000000000005cb4        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cb4                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::e
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6map_sz
+                0x0000000000005cc0        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cc0                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::map_sz
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6arr_sz
+                0x0000000000005cc4        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cc4                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::arr_sz
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5bytes
+                0x0000000000005cc8        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cc8                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::bytes
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5bytes
+                0x0000000000005ccc        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005ccc                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::bytes
+ .bss._ZGVZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6string
+                0x0000000000005cd8        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cd8                guard variable for RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::string
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE6string
+                0x0000000000005cdc        0xc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cdc                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::string
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5num64
+                0x0000000000005ce8        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005ce8                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::num64
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE5num32
+                0x0000000000005cf0        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cf0                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::num32
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE7integer
+                0x0000000000005cf4        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cf4                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::integer
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE1b
+                0x0000000000005cf8        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cf8                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::b
+ .bss._ZZN8RpcUtils6detail12unpackObjectERN7arduino7msgpack8UnpackerEE3nil
+                0x0000000000005cf9        0x1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+                0x0000000000005cf9                RpcUtils::detail::unpackObject(arduino::msgpack::Unpacker&)::nil
+ *fill*         0x0000000000005cfa        0x2 
+ .bss.Serial1   0x0000000000005cfc       0xec /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000005cfc                Serial1
+ .bss.Serial    0x0000000000005de8       0xec /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+                0x0000000000005de8                Serial
+ *(.noinit .noinit.*)
+
+.exported_sym   0x0000000000005ed4        0x8
+ *(.exported_sym)
+ .exported_sym  0x0000000000005ed4        0x8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ *(.exported_sym.*)
+
+.init_array     0x0000000000005edc        0x8
+ *(.init_array)
+ .init_array    0x0000000000005edc        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .init_array    0x0000000000005ee0        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.fini_array     0x0000000000005ee4        0x4
+ *(.fini_array)
+ .fini_array    0x0000000000005ee4        0x4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+
+.symtab
+ *(.symtab)
+
+.strtab
+ *(.strtab)
+
+.shstrtab
+ *(.shstrtab)
+
+.rel
+ *(.rel .rel.*)
+
+.got
+ *(.got .got.* .got.plt .got.plt*)
+OUTPUT(/home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch.ino_debug.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x4272f
+ .debug_info    0x0000000000000000    0x2f925 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_info    0x000000000002f925      0x1de /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_info    0x000000000002fb03     0x1f74 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_info    0x0000000000031a77     0x3e0c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_info    0x0000000000035883      0x3de /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_info    0x0000000000035c61     0x1e2b /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_info    0x0000000000037a8c      0x7af /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_info    0x000000000003823b     0x1f28 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_info    0x000000000003a163     0x4c53 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_info    0x000000000003edb6     0x3979 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_abbrev   0x0000000000000000     0x42a0
+ .debug_abbrev  0x0000000000000000     0x159a /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_abbrev  0x000000000000159a      0x154 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_abbrev  0x00000000000016ee      0x500 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_abbrev  0x0000000000001bee      0x5d4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_abbrev  0x00000000000021c2      0x128 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_abbrev  0x00000000000022ea      0x538 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_abbrev  0x0000000000002822      0x234 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_abbrev  0x0000000000002a56      0x4c4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_abbrev  0x0000000000002f1a      0xa59 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_abbrev  0x0000000000003973      0x92d /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_loclists
+                0x0000000000000000     0xda79
+ .debug_loclists
+                0x0000000000000000     0x9a00 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_loclists
+                0x0000000000009a00       0x88 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_loclists
+                0x0000000000009a88      0x883 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_loclists
+                0x000000000000a30b     0x1943 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_loclists
+                0x000000000000bc4e      0x3e1 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_loclists
+                0x000000000000c02f       0x72 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_loclists
+                0x000000000000c0a1      0x2bc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_loclists
+                0x000000000000c35d       0xb3 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_loclists
+                0x000000000000c410      0xedd /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_loclists
+                0x000000000000d2ed      0x78c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_aranges  0x0000000000000000      0xb78
+ .debug_aranges
+                0x0000000000000000      0x4c0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_aranges
+                0x00000000000004c0       0x58 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_aranges
+                0x0000000000000518       0x90 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_aranges
+                0x00000000000005a8      0x298 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_aranges
+                0x0000000000000840       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_aranges
+                0x0000000000000880       0x38 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_aranges
+                0x00000000000008b8       0xb0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_aranges
+                0x0000000000000968       0x20 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_aranges
+                0x0000000000000988      0x130 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_aranges
+                0x0000000000000ab8       0xc0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_rnglists
+                0x0000000000000000     0x2020
+ .debug_rnglists
+                0x0000000000000000     0x15c5 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_rnglists
+                0x00000000000015c5       0x3d /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_rnglists
+                0x0000000000001602      0x103 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_rnglists
+                0x0000000000001705      0x375 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_rnglists
+                0x0000000000001a7a       0x2c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_rnglists
+                0x0000000000001aa6       0x33 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_rnglists
+                0x0000000000001ad9       0x7f /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_rnglists
+                0x0000000000001b58       0x3a /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_rnglists
+                0x0000000000001b92      0x2cc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_rnglists
+                0x0000000000001e5e      0x1c2 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_line     0x0000000000000000     0xe293
+ .debug_line    0x0000000000000000     0x800b /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_line    0x000000000000800b      0x138 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_line    0x0000000000008143      0x8d4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_line    0x0000000000008a17     0x1a12 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_line    0x000000000000a429      0x32d /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_line    0x000000000000a756      0x83b /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_line    0x000000000000af91      0x36b /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_line    0x000000000000b2fc      0x860 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_line    0x000000000000bb5c     0x17b8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_line    0x000000000000d314      0xf7f /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_str      0x0000000000000000    0x2e682
+ .debug_str     0x0000000000000000    0x21582 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_str     0x0000000000021582      0x40d /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_str     0x000000000002198f     0x167e /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_str     0x000000000002300d     0x1828 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_str     0x0000000000024835      0x37a /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_str     0x0000000000024baf     0x1fdf /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_str     0x0000000000026b8e      0x4d7 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_str     0x0000000000027065     0x1bdf /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_str     0x0000000000028c44     0x2fa4 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_str     0x000000000002bbe8     0x2a9a /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
+
+.debug_frame    0x0000000000000000     0x2420
+ .debug_frame   0x0000000000000000     0x1178 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/sketch/sketch.ino.cpp.o
+ .debug_frame   0x0000000000001178       0x90 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(abi.cpp.o)
+ .debug_frame   0x0000000000001208      0x1fc /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(Stream.cpp.o)
+ .debug_frame   0x0000000000001404      0x7e8 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(String.cpp.o)
+ .debug_frame   0x0000000000001bec       0xa0 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(itoa.cpp.o)
+ .debug_frame   0x0000000000001c8c       0x68 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(main.cpp.o)
+ .debug_frame   0x0000000000001cf4      0x140 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(new.cpp.o)
+ .debug_frame   0x0000000000001e34       0x40 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(threads.cpp.o)
+ .debug_frame   0x0000000000001e74      0x39c /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrCommon.cpp.o)
+ .debug_frame   0x0000000000002210      0x210 /home/arduino/ArduinoApps/4-relay-ui/.cache/sketch/core/core.a(zephyrSerial.cpp.o)
