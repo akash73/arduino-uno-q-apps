@@ -50,7 +50,7 @@ Everything below follows a simple and standard GitHub workflow.
 
 # Fork the repository
 
-Open the repository on GitHub:
+**Open the repository on GitHub:**
 
 https://github.com/akash73/arduino-uno-q-apps
 
@@ -84,9 +84,9 @@ Create a new folder and follow the same structure used by the existing examples.
 my-new-app/
 
 ├── sketch/        # Arduino sketch running on the MCU
-
+|
 ├── app/           # App Lab / Linux-side application
-
+|
 └── README.md      # Description, usage, and requirements
 
 
@@ -94,7 +94,7 @@ The README.md should explain what the application does, what hardware is require
 
 Keeping the structure consistent makes it easier for others to understand and reuse your work.
 
-Commit and push your changes
+**Commit and push your changes**
 
 Once your application is ready, commit it and push it to your fork:
 
@@ -102,7 +102,7 @@ git add .
 git commit -m "Add new UNO Q app: my-new-app"
 git push origin my-new-app
 
-Open a pull request
+## Open a pull request
 
 Go to your fork on GitHub.
 You will see a prompt to create a Pull Request from your branch.
@@ -110,15 +110,15 @@ You will see a prompt to create a Pull Request from your branch.
 Open the pull request against the main branch of the original repository and add a short description of your application and its purpose.
 This allows maintainers to review and merge your contribution.
 
-Keep your fork up to date
+## Keep your fork up to date
 
 If you plan to contribute regularly, keep your fork aligned with the original repository:
-
+```bash
 git remote add upstream https://github.com/akash73/arduino-uno-q-apps.git
 git fetch upstream
 git checkout main
 git merge upstream/main
-
+```
 
 This ensures your work is always based on the latest version of the project.
 
