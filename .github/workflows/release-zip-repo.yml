@@ -1,0 +1,42 @@
+name: Zip repository and attach to Release
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  zip-repo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create repo zip
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Nome zip: repo-<tag>.zip (fallback se non è una release)
+          TAG="${GITHUB_REF_NAME:-manual}"
+          ZIP_NAME="${GITHUB_REPOSITORY##*/}-${TAG}.zip"
+
+          # Crea lo zip del repo escludendo .git e la cartella .github (puoi togliere/aggiungere esclusioni)
+          zip -r -q "$ZIP_NAME" . \
+            -x ".git/*" \
+            -x ".github/*"
+
+          echo "Created: $ZIP_NAME"
+          ls -lh "$ZIP_NAME"
+
+      - name: Upload zip to Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            *.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
