@@ -8,6 +8,11 @@ on:
 permissions:
   contents: write
 
+- run: |
+    echo "event=${{ github.event_name }}"
+    echo "action=${{ github.event.action }}"
+    echo "tag=${{ github.event.release.tag_name }}"
+
 jobs:
   zip-and-upload:
     runs-on: ubuntu-latest
