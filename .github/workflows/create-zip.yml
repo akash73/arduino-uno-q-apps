@@ -2,7 +2,7 @@ name: Build zips and attach to Release
 
 on:
   release:
-    types: [published]
+    types: [published, prereleased, created]
   workflow_dispatch:
 
 permissions:
